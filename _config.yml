@@ -66,9 +66,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/cct663"
-    - label: "Scholar"
-      icon: "fab fa-fw fa-user-graduate"
-      url: "https://scholar.google.com/citations?user=PEw-C7MAAAAJ&hl=en&oi=ao"
+    - label: "Email"
+      icon: "fab fa-fw fa-envelope-square"
+      url: "mailto:cct63@cornell.edu"
 
 footer:
   links:
@@ -76,11 +76,11 @@ footer:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/ConorTaff"
     - label: "GitHub"
-      icon: "fab fa-fw fa-user-graduate"
+      icon: "fab fa-fw fa-github"
       url: "https://github.com/cct663"
-    - label: "Scholar"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://scholar.google.com/citations?user=PEw-C7MAAAAJ&hl=en&oi=ao"
+    - label: "Email"
+      icon: "fab fa-fw fa-envelope-square"
+      url: "mailto:cct63@cornell.edu"
 
 defaults:
   # _posts
