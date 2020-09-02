@@ -104,7 +104,7 @@ toc: true
 
 **2\.** 	**Taff, C. C.**, Freeman-Gallant, C. R., Dunn, P. O. & Whittingham, L. A. 2011. Relationship between brood sex ratio and male ornamentation depends on male age in a warbler. *Animal Behaviour*. [PDF](https://drive.google.com/file/d/0B8ePJPhFoSk4Q1Zmcm4zamdYRDA/edit)
 
-**1\.** 	Freeman-Gallant, C. R., **Taff, C. C.**, Morin, D.§, Dunn, P. O., Whittingham, L. A. & Tsang, S. M.§ 2010. Sexual selection, multiple male ornaments, and age- and condition-dependent signaling in the common yellowthroat. *Evolution*. [PDF](https://drive.google.com/file/d/0B8ePJPhFoSk4YnZYc083R3NCY28/edit) [Science Now Coverage](https://drive.google.com/file/d/0B8ePJPhFoSk4RnpsUHlMVTU0dlU/edit)
+**1\.** 	Freeman-Gallant, C. R., **Taff, C. C.**, Morin, D.§, Dunn, P. O., Whittingham, L. A. & Tsang, S. M.§ 2010. Sexual selection, multiple male ornaments, and age- and condition-dependent signaling in the common yellowthroat. *Evolution*. [PDF](https://drive.google.com/file/d/0B8ePJPhFoSk4YnZYc083R3NCY28/edit) | [DOI](https://doi.org/10.1111/j.1558-5646.2009.00873.x) | [Science Now Coverage](https://drive.google.com/file/d/0B8ePJPhFoSk4RnpsUHlMVTU0dlU/edit)
 
 
 
