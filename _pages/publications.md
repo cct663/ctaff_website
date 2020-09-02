@@ -12,7 +12,7 @@ toc: true
 ### Peer-Reviewed Articles
 *§ undergraduate co-authors; δ graduate student co-authors; † equal contribution*
 
-45\. 	Odom, K. J., Araya-Salas, M., Morano, J. L., Ligon, R. A., Leighton, G. M., **Taff, C. C.**, Dalziell, A. H., Billings, A. C., Germain, R. R., Pardo, M.δ, Guimarāes de Andrade, L., Hedwig, D., Keen, S. C.δ, Shiu, Y., Charif, R. A., Webster, M. S., & Rice, A. N. *Accepted*. Comparative bioacoustics: a roadmap for quantifying and comparing animal sounds across diverse taxa. *Biological Reviews*.
+**45\.** 	Odom, K. J., Araya-Salas, M., Morano, J. L., Ligon, R. A., Leighton, G. M., **Taff, C. C.**, Dalziell, A. H., Billings, A. C., Germain, R. R., Pardo, M.δ, Guimarāes de Andrade, L., Hedwig, D., Keen, S. C.δ, Shiu, Y., Charif, R. A., Webster, M. S., & Rice, A. N. *Accepted*. Comparative bioacoustics: a roadmap for quantifying and comparing animal sounds across diverse taxa. *Biological Reviews*.
 
 44\. 	Shipley, J. R., Twining, L., **Taff, C. C.**, Vitousek, M. N., Flack, A., & Winkler, D. W. In Press. Birds advancing lay dates with warming springs face greater risk of chick mortality. Proceedings of the National Academy of Sciences.
 
