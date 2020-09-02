@@ -58,6 +58,7 @@ author:
   name   : "Conor Taff"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "I use field and lab approaches to study wild birds."
+  location: "Ithaca, NY, USA"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
@@ -66,7 +67,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/cct663"
     - label: "Scholar"
-      icon: "fab fa-fw fa-book"
+      icon: "fab fa-fw fa-user-graduate"
       url: "https://scholar.google.com/citations?user=PEw-C7MAAAAJ&hl=en&oi=ao"
 
 footer:
@@ -75,10 +76,10 @@ footer:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/ConorTaff"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+      icon: "fab fa-fw fa-user-graduate"
       url: "https://github.com/cct663"
     - label: "Scholar"
-      icon: "fab fa-fw fa-book"
+      icon: "fab fa-fw fa-twitter-square"
       url: "https://scholar.google.com/citations?user=PEw-C7MAAAAJ&hl=en&oi=ao"
 
 defaults:
