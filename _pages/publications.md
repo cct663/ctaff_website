@@ -12,23 +12,23 @@ toc: true
 ### Peer-Reviewed Articles
 *§ undergraduate co-authors; δ graduate student co-authors; † equal contribution*
 
-45\. 	Odom, K. J., Araya-Salas, M., Morano, J. L., Ligon, R. A., Leighton, G. M., **Taff, C. C.**, Dalziell, A. H., Billings, A. C., Germain, R. R., Pardo, M.δ, Guimarāes de Andrade, L., Hedwig, D., Keen, S. C.δ, Shiu, Y., Charif, R. A., Webster, M. S., & Rice, A. N. *Accepted*. Comparative bioacoustics: a roadmap for quantifying and comparing animal sounds across diverse taxa. *Biological Reviews*.
+**45\.** 	Odom, K. J., Araya-Salas, M., Morano, J. L., Ligon, R. A., Leighton, G. M., **Taff, C. C.**, Dalziell, A. H., Billings, A. C., Germain, R. R., Pardo, M.δ, Guimarāes de Andrade, L., Hedwig, D., Keen, S. C.δ, Shiu, Y., Charif, R. A., Webster, M. S., & Rice, A. N. *Accepted*. Comparative bioacoustics: a roadmap for quantifying and comparing animal sounds across diverse taxa. *Biological Reviews*.
 
-44\. 	Shipley, J. R., Twining, L., **Taff, C. C.**, Vitousek, M. N., Flack, A., & Winkler, D. W. In Press. Birds advancing lay dates with warming springs face greater risk of chick mortality. Proceedings of the National Academy of Sciences.
+**44\.** 	Shipley, J. R., Twining, L., **Taff, C. C.**, Vitousek, M. N., Flack, A., & Winkler, D. W. *Accepted*. Birds advancing lay dates with warming springs face greater risk of chick mortality. *Proceedings of the National Academy of Sciences*.
 
-43\.	Zimmer, C., **Taff, C. C.**, Ardia, D. A., Rose, A. P., Aborn, D. A., Johnson, S. L., & Vitousek, M. N. In Press. Environmental unpredictability shapes glucocorticoid regulation across populations of tree swallows. Scientific Reports.
+**43\.**	Zimmer, C., **Taff, C. C.**, Ardia, D. A., Rose, A. P., Aborn, D. A., Johnson, S. L., & Vitousek, M. N. 2020. Environmental unpredictability shapes glucocorticoid regulation across populations of tree swallows. *Scientific Reports*.
 
-42\.	Winkler, D. W., Hallinger, K. K., Anderson, M. J., Ardia, D. R., Belmaker, A., Ferretti, V., Forsman, A. M., Gaul, J. R., Llambias, P. E., Orzechowski, S. C., Pegan, T. M.δ, Shipley, J. R., Stager, M., **Taff, C. C.**, Uehling, J. J.δ, Verhoeven, M., Vitousek, M. N., Wilson, M., & Yoon, H. S. 2020. Full lifetime perspectives on the costs and benefits of lay date variation in tree swallows. Ecology.
+**42\.**	Winkler, D. W., Hallinger, K. K., Anderson, M. J., Ardia, D. R., Belmaker, A., Ferretti, V., Forsman, A. M., Gaul, J. R., Llambias, P. E., Orzechowski, S. C., Pegan, T. M.δ, Shipley, J. R., Stager, M., **Taff, C. C.**, Uehling, J. J.δ, Verhoeven, M., Vitousek, M. N., Wilson, M., & Yoon, H. S. 2020. Full lifetime perspectives on the costs and benefits of lay date variation in tree swallows. *Ecology*.
 
-41\.	Uehling, J.δ, **Taff, C. C.**, Winkler, D., Vitousek, M. N. 2020. Developmental temperature predicts the adult response to stressors in a free-living passerine. Journal of Animal Ecology.
+**41\.**	Uehling, J.δ, **Taff, C. C.**, Winkler, D., Vitousek, M. N. 2020. Developmental temperature predicts the adult response to stressors in a free-living passerine. *Journal of Animal Ecology.*
 
-40\. 	**Taff, C. C.**†, Campagna, L.†, Vitousek, M. N. 2019. Genome-wide variation in DNA methylation is associated with plumage coloration and stress resilience in a wild bird. Molecular Ecology.
+**40\.** 	**Taff, C. C.**†, Campagna, L.†, Vitousek, M. N. 2019. Genome-wide variation in DNA methylation is associated with plumage coloration and stress resilience in a wild bird. *Molecular Ecology*.
 
-39\. 	Vitousek, M. N., Zimmer, C., **Taff, C. C.**, & Ryan, T.δ 2019. Stress resilience and the dynamic regulation of glucocorticoids. Integrative and Comparative Biology.
+**39\.** 	Vitousek, M. N., Zimmer, C., **Taff, C. C.**, & Ryan, T.δ 2019. Stress resilience and the dynamic regulation of glucocorticoids. *Integrative and Comparative Biology*.
 
-38\. 	Injaian, A. S.δ, Gonzalez-Gomez, P. L., **Taff, C. C.**, Bird, A. K.δ, Patricelli, G. L., Haussmann, M. F., & Wingfield, J. C. 2019. Assessing maternal and direct effects of traffic noise exposure on nestling physiology and telomere attrition in a free-living bird. General and Comparative Endocrinology.
+**38\.** 	Injaian, A. S.δ, Gonzalez-Gomez, P. L., **Taff, C. C.**, Bird, A. K.δ, Patricelli, G. L., Haussmann, M. F., & Wingfield, J. C. 2019. Assessing maternal and direct effects of traffic noise exposure on nestling physiology and telomere attrition in a free-living bird. *General and Comparative Endocrinology*.
 
-37\.	**Taff, C. C.**, Zimmer, C., & Vitousek, M. N. 2019. Achromatic plumage brightness predicts stress resilience and social interactions in Tree Swallows (Tachicyneta bicolor). *Behavioral Ecology*. [PDF](https://drive.google.com/file/d/1YTujZDQgugIg38Rv7qhFPs0BTKlN_6vz/view?usp=sharing) [Data + Code](https://datadryad.org/stash/dataset/doi:10.5061/dryad.46mm022)
+37\.	**Taff, C. C.**, Zimmer, C., & Vitousek, M. N. 2019. Achromatic plumage brightness predicts stress resilience and social interactions in Tree Swallows (Tachicyneta bicolor). *Behavioral Ecology*. [PDF](https://drive.google.com/file/d/1YTujZDQgugIg38Rv7qhFPs0BTKlN_6vz/view?usp=sharing) [Data + Code](https://datadryad.org/stash/dataset/doi:10.5061/dryad.46mm022) [DOI](https://doi.org/10.1093/beheco/arz010)
 
 36\. 	Zimmer, C., **Taff, C. C.**, Ardia, D. R., Winkler, D. W., & Vitousek, M. N. 2019. On again, off again: acute stress response and negative feedback together predict resilience to experimental stressors. Functional Ecology.
 
