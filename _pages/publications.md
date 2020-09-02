@@ -10,8 +10,7 @@ author_profile: true
 
 ### Peer-Reviewed Articles
 
-1. article **one**
+2. article **one**
 
 1. article the second **one**
 
-{: reversed="reversed"}
