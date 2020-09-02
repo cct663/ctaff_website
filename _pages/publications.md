@@ -10,7 +10,7 @@ author_profile: true
 
 ### Peer-Reviewed Articles
 
-2. article **one**
+2\. article **one**
 
-1. article the second **one**
+1\. article the second **one**
 
