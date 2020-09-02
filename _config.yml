@@ -69,7 +69,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/cct663"
     - label: "Scholar"
-      icon: "fab fa-fw fa-user-graduate"
+      icon: "fab fa-fw fa-book"
       url: "https://scholar.google.com/citations?user=PEw-C7MAAAAJ&hl=en&oi=ao"
 
 footer:
@@ -81,7 +81,7 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/cct663"
     - label: "Scholar"
-      icon: "fab fa-fw fa-user-graduate"
+      icon: "fab fa-fw fa-book"
       url: "https://scholar.google.com/citations?user=PEw-C7MAAAAJ&hl=en&oi=ao"
 
 defaults:
