@@ -14,8 +14,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Conor Taff
+subtitle: Integrative Organismal Biology
 email: cct63@cornell.edu
-description: "Integrative Organismal Biology"
+description: >- #ignore
+  Personal Webpage
+url: https://cct663.github.io
 twitter_username: ConorTaff
 github_username: cct663
 minimal_mistakes_skin: default
