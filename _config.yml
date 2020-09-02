@@ -85,7 +85,7 @@ footer:
       url: "https://scholar.google.com/citations?user=PEw-C7MAAAAJ&hl=en&oi=ao"
     - label: "ResearchGate
       icon: "fab fa-fw fa-researchgate"
-      url: "https://www.researchgate.net/profile/Conor_Taff"
+      url: "https://researchgate.net/profile/Conor_Taff"
 
 defaults:
   # _posts
