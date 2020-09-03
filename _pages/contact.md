@@ -17,6 +17,7 @@ feature_row1:
 &nbsp;
 {% include feature_row id="feature_row1" type="center" %}
 
+{% include figure image_path="/assets/images/contact-image.jpg" alt="" caption="" %}
 
 Dr. Conor C. Taff<br>
 Research Associate<br>
