@@ -10,12 +10,14 @@ date: September 3, 2020
         
 ---
 
+![contact-image](/assets/images/contact_image.jpg){:class="img-responsive"}
+
 #### Get in touch!
 
-Dr. Conor C. Taff<br />
-Research Associate<br />
-[Department of Ecology & Evolutionary Biology][1]<br />
-[Cornell Lab of Ornithology][2]<br />
+Dr. Conor C. Taff<br>
+Research Associate<br>
+[Department of Ecology & Evolutionary Biology][1]<br>
+[Cornell Lab of Ornithology][2]<br>
 [Vitousek Lab](https://www.vitousek.weebly.com)
 <br>
 Cornell University
