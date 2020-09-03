@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Conor Taff"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "I use field and lab approaches to study the ecology, evolution, physiology, and behavior of wild birds."
+  bio    : "I use field, lab, and quantitative approaches to study the ecology, evolution, physiology, and behavior of wild birds."
   location: "Ithaca, NY, USA"
   links:
     - label: "Twitter"
