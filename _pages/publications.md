@@ -12,6 +12,8 @@ toc: true
 ### Peer-Reviewed Articles
 *§ undergraduate co-authors; δ graduate student co-authors; † equal contribution*
 
+#### 2020
+
 **45\.** 	Odom, K. J., Araya-Salas, M., Morano, J. L., Ligon, R. A., Leighton, G. M., **Taff, C. C.**, Dalziell, A. H., Billings, A. C., Germain, R. R., Pardo, M.δ, Guimarāes de Andrade, L., Hedwig, D., Keen, S. C.δ, Shiu, Y., Charif, R. A., Webster, M. S., & Rice, A. N. *Accepted*. Comparative bioacoustics: a roadmap for quantifying and comparing animal sounds across diverse taxa. *Biological Reviews*.
 
 **44\.** 	Shipley, J. R., Twining, L., **Taff, C. C.**, Vitousek, M. N., Flack, A., & Winkler, D. W. *Accepted*. Birds advancing lay dates with warming springs face greater risk of chick mortality. *Proceedings of the National Academy of Sciences*.
@@ -21,6 +23,8 @@ toc: true
 **42\.**	Winkler, D. W., Hallinger, K. K., Anderson, M. J., Ardia, D. R., Belmaker, A., Ferretti, V., Forsman, A. M., Gaul, J. R., Llambias, P. E., Orzechowski, S. C., Pegan, T. M.δ, Shipley, J. R., Stager, M., **Taff, C. C.**, Uehling, J. J.δ, Verhoeven, M., Vitousek, M. N., Wilson, M., & Yoon, H. S. 2020. Full lifetime perspectives on the costs and benefits of lay date variation in tree swallows. *Ecology*. [PDF](https://drive.google.com/file/d/1G_lENWBVTxNYyiVo2VdiLxA7Q57t3CWD/view?usp=sharing) \| [DOI](https://doi.org/10.1002/ecy.3109)
 
 **41\.**	Uehling, J.δ, **Taff, C. C.**, Winkler, D., Vitousek, M. N. 2020. Developmental temperature predicts the adult response to stressors in a free-living passerine. *Journal of Animal Ecology.* [PDF](https://drive.google.com/file/d/1M-PEh6u6jYCJEwCoypc_GFP-Il2bfV0G/view?usp=sharing) \| [DOI](https://doi.org/10.1111/1365-2656.13137)
+
+#### | 2019
 
 **40\.** **Taff, C. C.†**, Campagna, L.†, Vitousek, M. N. 2019. Genome-wide variation in DNA methylation is associated with plumage coloration and stress resilience in a wild bird. *Molecular Ecology*. [PDF](https://drive.google.com/file/d/1sPvZCSnlpsOaKGZlS-VSC5NLJbyEMUsP/view) \| [Data + Code](https://datadryad.org/stash/dataset/doi:10.5061/dryad.2h412kh) \| [GenBank](https://www.ncbi.nlm.nih.gov/nuccore/1710390205) \| [DOI](https://doi.org/10.1111/mec.15186)
 
