@@ -14,7 +14,7 @@ date: September 3, 2020
 
 <img src="/assets/images/contact-image.jpg")>
 
-![img](/assets/images/contact-image.jpg)
+![img](ctaff_website/assets/images/contact-image.jpg)
 
 #### Get in touch!
 
