@@ -30,3 +30,6 @@ Add a general paragraph here.
 
 Introduce variety of research projects.
 
+&nbsp;
+{% include feature_row id="feature_row1-1" type="left" %}
+<a name="Stress-Resilience"></a> 
