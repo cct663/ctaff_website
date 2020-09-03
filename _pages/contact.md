@@ -8,7 +8,14 @@ author_profile: false
 classes: wide
 date: September 3, 2020
         
+feature_row1:
+  - image_path: /assets/images/contact-image.jpg
+    title: "Get in touch!"
+        
 ---
+
+&nbsp;
+{% include feature_row id="feature_row1" type="center" %}
 
 ![image](/assets/images/contact-image.jpg){:class="img-fluid"}
 
@@ -16,7 +23,6 @@ date: September 3, 2020
 
 ![img](ctaff_website/assets/images/contact-image.jpg)
 
-#### Get in touch!
 
 Dr. Conor C. Taff<br>
 Research Associate<br>
