@@ -10,6 +10,21 @@ date: September 3, 2020
         
 ---
 
-### Contact
+#### Get in touch!
 
-add contact info
+Dr. Conor C. Taff<br />
+Research Associate<br />
+[Department of Ecology & Evolutionary Biology][1]<br />
+[Cornell Lab of Ornithology][2]<br />
+[Vitousek Lab][3]<br \>
+Cornell University
+
+E240 Corson Hall<br />
+215 Tower Road Rd.<br />
+Ithaca, NY 14850<br />
+
+<a href="mailto:{{ 'cct63@cornell.edu' | encode_email }}" title="Email me">Email me</a>
+
+[1]: https://ecologyandevolution.cornell.edu/
+[2]: https://www.birds.cornell.edu
+[3]: https://www.vitousek.weebly.com
