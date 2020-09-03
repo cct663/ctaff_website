@@ -8,7 +8,7 @@ author_profile: true
 classes: wide
 date: September 3, 2020
 
-feature_row1-1:
+feature_row1:
   - image_path: /assets/images/resilience_figure.png
     title: "Resilience to Environmental Challenges"
     text: "This is about resilience...add text. This needs to be a longer block of text so I can figure out how this is going to look what will it look like."
@@ -31,5 +31,4 @@ Add a general paragraph here.
 Introduce variety of research projects.
 
 &nbsp;
-{% include feature_row id="feature_row1-1" type="left" %}
-<a name="Stress-Resilience"></a> 
+{% include feature_row id="feature_row1" type="left" %}
