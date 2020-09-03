@@ -16,11 +16,11 @@ toc: true
 
 **44\.** 	Shipley, J. R., Twining, L., **Taff, C. C.**, Vitousek, M. N., Flack, A., & Winkler, D. W. *Accepted*. Birds advancing lay dates with warming springs face greater risk of chick mortality. *Proceedings of the National Academy of Sciences*.
 
-**43\.**	Zimmer, C., **Taff, C. C.**, Ardia, D. A., Rose, A. P., Aborn, D. A., Johnson, S. L., & Vitousek, M. N. 2020. Environmental unpredictability shapes glucocorticoid regulation across populations of tree swallows. *Scientific Reports*.
+**43\.**	Zimmer, C., **Taff, C. C.**, Ardia, D. A., Rose, A. P., Aborn, D. A., Johnson, S. L., & Vitousek, M. N. 2020. Environmental unpredictability shapes glucocorticoid regulation across populations of tree swallows. *Scientific Reports*. [PDF]() \| [DOI]()
 
-**42\.**	Winkler, D. W., Hallinger, K. K., Anderson, M. J., Ardia, D. R., Belmaker, A., Ferretti, V., Forsman, A. M., Gaul, J. R., Llambias, P. E., Orzechowski, S. C., Pegan, T. M.δ, Shipley, J. R., Stager, M., **Taff, C. C.**, Uehling, J. J.δ, Verhoeven, M., Vitousek, M. N., Wilson, M., & Yoon, H. S. 2020. Full lifetime perspectives on the costs and benefits of lay date variation in tree swallows. *Ecology*.
+**42\.**	Winkler, D. W., Hallinger, K. K., Anderson, M. J., Ardia, D. R., Belmaker, A., Ferretti, V., Forsman, A. M., Gaul, J. R., Llambias, P. E., Orzechowski, S. C., Pegan, T. M.δ, Shipley, J. R., Stager, M., **Taff, C. C.**, Uehling, J. J.δ, Verhoeven, M., Vitousek, M. N., Wilson, M., & Yoon, H. S. 2020. Full lifetime perspectives on the costs and benefits of lay date variation in tree swallows. *Ecology*. [PDF]() \| [DOI]()
 
-**41\.**	Uehling, J.δ, **Taff, C. C.**, Winkler, D., Vitousek, M. N. 2020. Developmental temperature predicts the adult response to stressors in a free-living passerine. *Journal of Animal Ecology.*
+**41\.**	Uehling, J.δ, **Taff, C. C.**, Winkler, D., Vitousek, M. N. 2020. Developmental temperature predicts the adult response to stressors in a free-living passerine. *Journal of Animal Ecology.* [PDF]() \| [DOI]()
 
 **40\.** **Taff, C. C.†**, Campagna, L.†, Vitousek, M. N. 2019. Genome-wide variation in DNA methylation is associated with plumage coloration and stress resilience in a wild bird. *Molecular Ecology*. [PDF](https://drive.google.com/file/d/1sPvZCSnlpsOaKGZlS-VSC5NLJbyEMUsP/view) \| [Data + Code](https://datadryad.org/stash/dataset/doi:10.5061/dryad.2h412kh) \| [GenBank](https://www.ncbi.nlm.nih.gov/nuccore/1710390205) \| [DOI](https://doi.org/10.1111/mec.15186)
 
@@ -114,8 +114,6 @@ toc: true
 
 
 ### Manuscripts in Preparation
-
-**Taff, C. C.**, Klasing, K., Wheeler, S., Wingfield, J., Chmura, H.δ, Townsend, A. Little effect of urbanization on growth, stress response, and ecological immunity in nestling American crows. 
 
 **Taff, C. C.**, Smee, M., Hendry, T., Zimmer, C., & Vitousek, M. N. Experimental manipulation of circulating corticosterone and perceived predation risk do not result in an altered microbiome in a wild bird.
 
