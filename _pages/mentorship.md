@@ -3,7 +3,7 @@ layout: single
 title: "Mentorship"
 permalink: /mentorship/
 header:
-    overlay_image: /assets/images/research_banner.jpg
+    overlay_image: /assets/images/mentoring_banner.jpg
 author_profile: true
 classes: wide
 date: September 3, 2020
