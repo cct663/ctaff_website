@@ -31,4 +31,4 @@ Add a general paragraph here.
 Introduce variety of research projects.
 
 &nbsp;
-{% include feature_row id="feature_row1" type="left" %}
+{% include feature_row id="feature_row1" type="right" %}
