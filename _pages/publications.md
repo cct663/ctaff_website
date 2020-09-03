@@ -16,7 +16,7 @@ toc: true
 
 **44\.** 	Shipley, J. R., Twining, L., **Taff, C. C.**, Vitousek, M. N., Flack, A., & Winkler, D. W. *Accepted*. Birds advancing lay dates with warming springs face greater risk of chick mortality. *Proceedings of the National Academy of Sciences*.
 
-**43\.**	Zimmer, C., **Taff, C. C.**, Ardia, D. A., Rose, A. P., Aborn, D. A., Johnson, S. L., & Vitousek, M. N. 2020. Environmental unpredictability shapes glucocorticoid regulation across populations of tree swallows. *Scientific Reports*. [PDF](https://drive.google.com/file/d/1r344Sps7MajuOvrrH7VMgeFz02gI4fth/view?usp=sharing) \| [Preprint](https://doi.org/10.1101/2019.12.23.887075) \| [DOI](https://doi.org/10.1038/s41598-020-70161-4))
+**43\.**	Zimmer, C., **Taff, C. C.**, Ardia, D. A., Rose, A. P., Aborn, D. A., Johnson, S. L., & Vitousek, M. N. 2020. Environmental unpredictability shapes glucocorticoid regulation across populations of tree swallows. *Scientific Reports*. [PDF](https://drive.google.com/file/d/1r344Sps7MajuOvrrH7VMgeFz02gI4fth/view?usp=sharing) \| [Preprint](https://doi.org/10.1101/2019.12.23.887075) \| [DOI](https://doi.org/10.1038/s41598-020-70161-4)
 
 **42\.**	Winkler, D. W., Hallinger, K. K., Anderson, M. J., Ardia, D. R., Belmaker, A., Ferretti, V., Forsman, A. M., Gaul, J. R., Llambias, P. E., Orzechowski, S. C., Pegan, T. M.δ, Shipley, J. R., Stager, M., **Taff, C. C.**, Uehling, J. J.δ, Verhoeven, M., Vitousek, M. N., Wilson, M., & Yoon, H. S. 2020. Full lifetime perspectives on the costs and benefits of lay date variation in tree swallows. *Ecology*. [PDF](https://drive.google.com/file/d/1G_lENWBVTxNYyiVo2VdiLxA7Q57t3CWD/view?usp=sharing) \| [DOI](https://doi.org/10.1002/ecy.3109)
 
