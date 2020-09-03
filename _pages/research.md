@@ -24,7 +24,10 @@ feature_row1:
 
 ### Research Overview
 
-Add a general paragraph here.
+My research is motivated by a fascination with biological variation; at every scale, animals vary enormously in how they interact with and respond to their environment. Even though responding to challenges appropriately is critical, individuals in a population often vary enormously in their responses and even the same individual often varies when measured repeatedly at different times or in different contexts. I am interested in what causes these differences and what the consequences of variation are for individuals and populations. How can some individuals successfully cope with capricious environments that are fatal to others? Why do some individuals successfully produce many offspring while others fail to attract a mate? 
+
+My organism-centered approach emphasizes the importance of connections across different levels of biological organization from cells to populations and the scope of my research interests is necessarily broad. However, much of my work is focused around two of the major challenges that animals face in natural populations: mating successfully and coping with environmental challenges. These processes fascinate me because they often push individuals to their physiological limits, revealing between-individual differences that may not be apparent during normal daily activity or under more benign conditions. Successfully navigating these challenges demands a highly coordinated suite of traits that bridge physiology and behavior. Read about a few of my ongoing research projects below.
+
 
 ### Projects
 
