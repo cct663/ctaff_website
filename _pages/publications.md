@@ -2,7 +2,7 @@
 permalink: /pubs/
 title: "Publications"
 header:
-  overlay_image: /assets/images/egg_banner.png
+  overlay_image: /assets/images/egg_banner.jpg
 classes: wide
 author_profile: true
 toc: true
