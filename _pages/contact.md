@@ -12,6 +12,8 @@ date: September 3, 2020
 
 ![image](/assets/images/contact-image.jpg){:class="img-fluid"}
 
+<img src="/assets/images/contact-image.jpg" alt="")>
+
 #### Get in touch!
 
 Dr. Conor C. Taff<br>
