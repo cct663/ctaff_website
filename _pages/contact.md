@@ -7,17 +7,13 @@ header:
 author_profile: false
 classes: wide
 date: September 3, 2020
-        
-feature_row1:
-  - image_path: /assets/images/contact-image.jpg
-    title: "Get in touch!"
-        
 ---
 
-&nbsp;
-{% include feature_row id="feature_row1" type="center" %}
-
 {% include figure image_path="/assets/images/contact-image.jpg" alt="" caption="" %}
+
+I am in integrative organismal biologist interested in questions about behavior, ecology, evolution, and physiology. I mainly work on wild birds, but I'm interested in questions that have broad applicability to understanding how animals deal with challenging situations and why some individuals are more successful than others. Although I work on wild animals, a large part of my work uses quantitative tools and lab techniques including epigenetics, diet metabarcoding, microbiome studies, and remote sensor networks. I'm currently a Research Associate in the [Vitousek Lab](http://www.vitousek.weebly.com) at Cornell University. 
+
+### Get in touch!
 
 Dr. Conor C. Taff<br>
 Research Associate<br>
