@@ -14,7 +14,7 @@ date: September 3, 2020
 
 <img src="/assets/images/contact-image.jpg")>
 
-![img](/assets/images/contact-image.jpg){:class="img-fluid"}
+![img](/assets/images/contact-image.jpg)
 
 #### Get in touch!
 
