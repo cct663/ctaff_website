@@ -17,12 +17,6 @@ feature_row1:
 &nbsp;
 {% include feature_row id="feature_row1" type="center" %}
 
-![image](/assets/images/contact-image.jpg){:class="img-fluid"}
-
-<img src="/assets/images/contact-image.jpg")>
-
-![img](ctaff_website/assets/images/contact-image.jpg)
-
 
 Dr. Conor C. Taff<br>
 Research Associate<br>
