@@ -16,9 +16,23 @@ feature_row1:
     btn_label: "Taff et al. 2020"
     btn_class: "btn--primary"
    # tags: 
-   #     - Marketing
-   #     - Segmentation
-   #     - k-means clustering
+   #     - Stress
+   
+feature_row3:
+  - image_path: /assets/images/resilience_figure.png
+    title: "Sexual Selection on Elaborate Signals"
+    text: "This is about resilience...add text. This needs to be a longer block of text so I can figure out how this is going to look what will it look like."
+    url: "https://drive.google.com/file/d/1sPvZCSnlpsOaKGZlS-VSC5NLJbyEMUsP/view"
+    btn_label: "Taff et al. 2020"
+    btn_class: "btn--primary"
+   
+feature_row2:
+  - image_path: /assets/images/resilience_figure.png
+    title: "Disease Ecology and Animal Movement"
+    text: "This is about resilience...add text. This needs to be a longer block of text so I can figure out how this is going to look what will it look like."
+    url: "https://drive.google.com/file/d/1sPvZCSnlpsOaKGZlS-VSC5NLJbyEMUsP/view"
+    btn_label: "Taff et al. 2020"
+    btn_class: "btn--primary"  
         
 ---
 
