@@ -21,8 +21,8 @@ feature_row2:
     url: "https://drive.google.com/file/d/1YNjy-B9oUyfY3e3-7SL5cC1NRMqEn4SL/view?usp=sharing"
     btn_label: "Syllabus"
     btn_class: "btn--primary"
-    url: "https://drive.google.com/file/d/1W0iofJJNZGFXwxfd5Xxyy7Q1hyr6Lsbq/view?usp=sharing"
-    btn_label: "Assignment Sheets"
+    url2: "https://drive.google.com/file/d/1W0iofJJNZGFXwxfd5Xxyy7Q1hyr6Lsbq/view?usp=sharing"
+    btn_label2: "Assignment Sheets"
     btn_class: "btn--primary"
 
 ---
