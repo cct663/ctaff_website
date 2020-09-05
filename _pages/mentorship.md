@@ -5,6 +5,7 @@ permalink: /mentorship/
 header:
     overlay_image: /assets/images/mentoring_banner.jpg
 author_profile: true
+toc: true
 classes: wide
 date: September 3, 2020
 
@@ -32,7 +33,13 @@ Introduce variety of research projects.
 
 ### Recent student projects
 
+### Student driven research
 
+
+{% include figure image_path="/assets/images/student_assistants_list.jpg" alt="" caption="" %}
+
+
+{% include figure image_path="/assets/images/students.jpg" alt="" caption="" %}
 
 &nbsp;
 {% include feature_row id="feature_row1" type="left" %}
