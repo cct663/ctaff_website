@@ -33,6 +33,10 @@ Introduce variety of research projects.
 
 ### Recent student projects
 
+![Brianna](/assets/images/brianna.jpg)
+
+![Brianna](/assets/images/brianna.jpb){: .align-left}
+
 {% include figure image_path="/assets/images/brianna.jpg" alt="" caption="" %}
 
 [image-left](/ctaff_website/assets/images/brianna.jpg){: .align-left}
