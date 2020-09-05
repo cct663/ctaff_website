@@ -35,7 +35,7 @@ Introduce variety of research projects.
 
 ### Formalized Mentorship Program
 
-Since 2018 I have worked with graduate students [Jenny Uehling]() and [Jenn Houtz]() to formalize a mentorship training experience for students involved in the tree swallow project. 
+Since 2018 I have worked with graduate students [Jenny Uehling](https://vitousek.weebly.com/people.html) and [Jenn Houtz](https://vitousek.weebly.com/people.html) to formalize a mentorship training experience for students involved in the tree swallow project. 
 
 Professional development, 
 
