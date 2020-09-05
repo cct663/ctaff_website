@@ -31,7 +31,13 @@ Add a general paragraph here.
 
 Introduce variety of research projects.
 
-### Formalized Metorship Program
+### Formalized Mentorship Program
+
+Since 2018 I have worked with graduate students [Jenny Uehling]() and [Jenn Houtz]() to formalize a mentorship training experience for students involved in the tree swallow project. 
+
+Professional development, 
+
+The goal of this 
 
 ### Recent Student Projects
 
