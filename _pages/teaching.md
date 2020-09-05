@@ -17,7 +17,7 @@ feature_row1:
 feature_row2:
   - image_path: /assets/images/resilience_figure.png
     title: "Cornell: Ornithology BioEE4750"
-    text: "Summary about class."
+    excerpt: "Summary about class."
     url: "https://drive.google.com/file/d/1YNjy-B9oUyfY3e3-7SL5cC1NRMqEn4SL/view?usp=sharing"
     btn_label: "Syllabus"
     btn_class: "btn--primary"
@@ -33,5 +33,6 @@ feature_row2:
 |
 
 {% include feature_row id="feature_row2" type="left" %}
+<a name="Ornithology"></a>
 
      
