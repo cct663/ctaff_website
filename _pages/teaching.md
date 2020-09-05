@@ -50,7 +50,7 @@ Blurb about ornithology
 
 blurb about this class.
 
-<hr style="border:2px solid gray"> </hr>
+<hr style="border:2px solid gray"> 
 
 ### Animal Communication: UC Davis Core Class
 
