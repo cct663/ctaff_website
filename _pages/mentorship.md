@@ -37,6 +37,10 @@ Introduce variety of research projects.
 
 [image-left](/ctaff_website/assets/images/brianna.jpg){: .align-left}
 
+
+<p align="left">
+  <img width="460" height="300" src="/assets/images/brianna.jpg">
+
 <img align="left" src="/assets/images/brianna.jpg">
 
 {%include figure image_path="/assets/images/brianna.jpg" alt="" caption="" align="left" width=300 height=200 %}
