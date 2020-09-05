@@ -18,10 +18,10 @@ feature_row2:
   - image_path: /assets/images/resilience_figure.png
     title: "Cornell: Ornithology BioEE4750"
     text: "Summary about class."
-    url: "https://drive.google.com/file/d/1sPvZCSnlpsOaKGZlS-VSC5NLJbyEMUsP/view"
+    url: "https://drive.google.com/file/d/1YNjy-B9oUyfY3e3-7SL5cC1NRMqEn4SL/view?usp=sharing"
     btn_label: "Syllabus"
     btn_class: "btn--primary"
-    url: "https://drive.google.com/file/d/1sPvZCSnlpsOaKGZlS-VSC5NLJbyEMUsP/view"
+    url: "https://drive.google.com/file/d/1W0iofJJNZGFXwxfd5Xxyy7Q1hyr6Lsbq/view?usp=sharing"
     btn_label: "Assignment Sheets"
     btn_class: "btn--primary"
 
