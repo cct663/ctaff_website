@@ -23,15 +23,17 @@ feature_row1:
         
 ---
 
-### Mentoring in the field
+### Mentoring in the Field
 
 Add a general paragraph here.
 
-### Training in the lab
+### Training in the Lab
 
 Introduce variety of research projects.
 
-### Recent student projects
+### Formalized Metorship Program
+
+### Recent Student Projects
 
 Throughout my research career I have worked with many students who participated in field or lab research and then went on to develop independent research projects for credit or as a thesis project during the academic year. Below is a sample of recent projects that I have supervised working with students at Cornell University.
 
@@ -65,7 +67,7 @@ Throughout my research career I have worked with many students who participated 
 
 <hr style="border:2px solid gray">
 
-### Student driven research
+### Student Driven Research
 
 
 
