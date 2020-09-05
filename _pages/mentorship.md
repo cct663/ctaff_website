@@ -6,6 +6,8 @@ header:
     overlay_image: /assets/images/mentoring_banner.jpg
 author_profile: true
 toc: true
+toc_label: "Sections"
+toc_icon: "kiwi-bird"
 classes: wide
 date: September 3, 2020
 
