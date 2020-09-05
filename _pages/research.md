@@ -36,6 +36,8 @@ feature_row2:
         
 ---
 
+{% include figure image_path="/assets/images/research_header.jpg" alt="" caption="" %}
+
 ### Research Overview
 
 My research is motivated by a fascination with biological variation; at every scale, animals vary enormously in how they interact with and respond to their environment. Even though responding to challenges appropriately is critical, individuals in a population often vary enormously in their responses and even the same individual often varies when measured repeatedly at different times or in different contexts. I am interested in what causes these differences and what the consequences of variation are for individuals and populations. How can some individuals successfully cope with capricious environments that are fatal to others? Why do some individuals successfully produce many offspring while others fail to attract a mate? 
@@ -49,3 +51,8 @@ Introduce variety of research projects.
 
 &nbsp;
 {% include feature_row id="feature_row1" type="left" %}
+
+
+{% include figure image_path="/assets/images/coye_tres_integration.jpg" alt="" caption="" %}
+
+{% include figure image_path="/assets/images/collabs.jpg" alt="" caption="" %}
