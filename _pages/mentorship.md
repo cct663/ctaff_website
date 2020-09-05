@@ -33,9 +33,9 @@ Introduce variety of research projects.
 
 ### Recent student projects
 
-![Brianna](/assets/images/brianna.jpg)
+![Brianna](assets/images/brianna.jpg)
 
-![Brianna](/assets/images/brianna.jpb){: .align-left}
+![Brianna](assets/images/brianna.jpb){: .align-left}
 
 {% include figure image_path="/assets/images/brianna.jpg" alt="" caption="" %}
 
