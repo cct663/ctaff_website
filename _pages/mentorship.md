@@ -53,6 +53,10 @@ Throughout my research career I have worked with many students who participated 
 
 <hr style="border:2px solid gray">
 
+{%include figure image_path="/assets/images/allison_anker.jpg" alt="" caption="" %} **Allison Anker** was a summer intern and continued on during the academic year doing independent research. She developed a project watching and scoring behavior from videos of tree swallow nest boxes that she helped record the in the field the previous summer. We had [previously found](https://drive.google.com/file/d/1YTujZDQgugIg38Rv7qhFPs0BTKlN_6vz/view) that tree swallows make frequent visits to other nest boxes in the population using an RFID sensor network. The sensor network doesn't give us much information about what actually happend during those interactions. Allison's project was focused on identifying and scoring behavior at those interactions to help interpret the larger RFID dataset. She also scored parental provisioning behavior and nestling squabbles at the box entrance to get a better understanding of how to interpret RFID data from nestlings suggesting that nestlings may compete to sit in the nest box entrance. Allison found that the nestling at the entrance when parents arrived with food was the one who got fed nearly 100% of the time.
+
+<hr style="border:2px solid gray">
+
 **Danica Lee**
 
 <hr style="border:2px solid gray">
