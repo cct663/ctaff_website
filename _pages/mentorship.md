@@ -77,7 +77,7 @@ My research program is specifically designed to engage students and create oppor
 
 I am lucky to have had the opportunity to work with many amazing students over the years. None of the research on this site would have been possible without their hard work and deadication. Thank you!
 
-{% include figure image_path="/assets/images/student_assistants_list.jpg" alt="" caption="" %}
+{% include figure image_path="/assets/images/student_assistants.jpg" alt="" caption="" %}
 
 
 {% include figure image_path="/assets/images/students.jpg" alt="" caption="" %}
