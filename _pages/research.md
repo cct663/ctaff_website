@@ -70,7 +70,7 @@ Another major challenge that wild animals regularly face is the risk of infectio
 
 Crows are particularly interesting because the live in close proximity to humans and form huge communal roosts in the winter across much of North America. We used satellite and GPS tracking backpacks to study space use in the winter in an effort to understand how crows might link different habitats and disease exposures through their daily movements. The video below shows several weeks of GPS tracking of crows in Davis California returning to and departing from the communal roost each day with each individual illustrated with a different color point.
 
-<iframe width="560" height="315" src="https://youtu.be/UdgQVU7SncA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=UdgQVU7SncA&t=6s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Why do Some Individuals Succeed When Others Fail?
 
