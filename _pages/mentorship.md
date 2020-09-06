@@ -43,7 +43,7 @@ The goal of this
 
 ### Recent Student Projects
 
-Throughout my research career I have worked with many students who participated in field or lab research and then went on to develop independent research projects for credit or as a thesis project during the academic year. Below is a sample of recent projects that I have supervised working with students at Cornell University.
+Throughout my research career I have worked with many students who participated in field or lab research and then went on to develop independent research projects for credit or as a thesis project during the academic year. Below is a sample of recent projects carried out by undergraduate students at Cornell University.
 
 <hr style="border:2px solid gray">
 
