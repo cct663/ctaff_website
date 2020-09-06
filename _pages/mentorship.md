@@ -25,13 +25,9 @@ feature_row1:
         
 ---
 
-### Mentoring in the Field
+### Mentoring in the Field and Lab
 
-Add a general paragraph here.
 
-### Training in the Lab
-
-Introduce variety of research projects.
 
 ### Formalized Mentorship Program
 
@@ -86,5 +82,3 @@ I am lucky to have had the opportunity to work with many amazing students over t
 
 {% include figure image_path="/assets/images/students.jpg" alt="" caption="" %}
 
-&nbsp;
-{% include feature_row id="feature_row1" type="left" %}
