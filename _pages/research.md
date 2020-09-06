@@ -5,6 +5,9 @@ permalink: /research/
 header:
     overlay_image: /assets/images/research_banner.jpg
 author_profile: true
+toc: true
+toc_label: "Sections"
+toc_icon: "feather-alt"
 classes: wide
 date: September 3, 2020
 
