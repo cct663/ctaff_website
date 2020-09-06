@@ -67,11 +67,11 @@ Throughout my research career I have worked with many students who participated 
 
 <hr style="border:2px solid gray">
 
-**Danica Lee**
+{%include figure image_path="/assets/images/danica.jpg" alt="" caption="" %} **Danica Lee** worked on the tree swallow project as a summer intern and then stayed in the lab to work on a variety of different projects over the next few years. She initially did a lot of work on extracting and preparing cloacal swab samples for sequencing to characterize the tree swallow internal microbiome. Danica [presented work](/assets/images/danica_poster.jpg) on relationships between social interactions, coloration, and microbiome composition at the CURB symposium in 2019. Danica went on to work on developing bacteria killing assays to measure immune competence in tree swallows with [Jenn Houtz](https://vitousek.weebly.com/people.html) and in Galapagos finches with [Sabrina McNew](https://www.sabrinamcnew.com/).
 
 <hr style="border:2px solid gray">
 
-**Alyssa Rodriguez**
+{%include figure image_path="/assets/images/alyssa.jpb" alt="" caption="" %} **Alyssa Rodriguez** was a long time collaborator on the tree swallow project, working first in Ithaca, then in Alaska with postdoc [Cedric Zimmer](https://cedriczimmer.weebly.com/), and then returning to Ithaca as a field crew leader. 
 
 <hr style="border:2px solid gray">
 
