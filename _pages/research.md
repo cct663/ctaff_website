@@ -48,14 +48,26 @@ My research is motivated by a fascination with biological variation; at every sc
 My organism-centered approach emphasizes the importance of connections across different levels of biological organization from cells to populations and the scope of my research interests is necessarily broad. However, much of my work is focused around two of the major challenges that animals face in natural populations: mating successfully and coping with environmental challenges. These processes fascinate me because they often push individuals to their physiological limits, revealing between-individual differences that may not be apparent during normal daily activity or under more benign conditions. Successfully navigating these challenges demands a highly coordinated suite of traits that bridge physiology and behavior. Read about a few of my ongoing research projects below.
 
 
-### Projects
+### Resilience to Environmental Challenges
 
 Introduce variety of research projects.
 
 &nbsp;
 {% include feature_row id="feature_row1" type="left" %}
 
+### Signals, Communication, and Honesty
+
+
+
+### Disease, Ecology, and Behavior
+
+
+### Why do Some Individuals Succeed When Others Fail?
 
 {% include figure image_path="/assets/images/coye_tres_integration.jpg" alt="" caption="" %}
+
+### Collaborators and Funding
+
+
 
 {% include figure image_path="/assets/images/collabs.jpg" alt="" caption="" %}
