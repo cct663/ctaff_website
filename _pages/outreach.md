@@ -9,9 +9,12 @@ classes: wide
 date: September 3, 2020
 
 gallery:
-  -image_path: /assets/images/demo1.jpg
-  -image_path: /assets/images/demo2.jpg
-  -image_path: /assets/images/demo3.jpg
+  -url: /assets/images/demo1.jpg
+   image_path: /assets/images/demo1.jpg
+  -url: /assets/images/demo2.jpg
+   image_path: /assets/images/demo2.jpg
+  -url: /assets/images/demo3.jpg
+   image_path: /assets/images/demo3.jpg
   
 ---
 ### Public Engagement With Research and Nature
