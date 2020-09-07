@@ -104,6 +104,14 @@ At the University of California Davis, I was a teaching assistant for the follow
 
 I have consistently received excellent evaluations for my teaching. A few student testimonials are listed below and full teaching evaluations are available by request.
 
+>"I feel like most of my teachers don't know how to teach. They only teach because they are required to. Therefore, they don't really care about the students. Conor showed a willingness to help us on a daily basis."
 
+>"Conor makes sure we all understand the work and encourages us to learn the subject matter instead of just doing the steps."
+
+>"This instructor is willint to help and doesn't get frustrated even when a question is asked many times. Great instructor!"
+
+>"He was great at clarifying questions even if they weren't in his field of expertise because he always came prepared."
+
+>"Conor is great because he is helpful and extremely willing to answer questions and to take additional time to discuss materials with you that you find confusing or difficult."
 
      
