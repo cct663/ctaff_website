@@ -45,7 +45,7 @@ tres_row2:
     
 crow_row:
   - image_path: /assets/images/crow1.jpg
-    excerpt: "Using satellite tags in two different flyways, we [tracked](https://drive.google.com/file/d/1x8yWKr0zK_PzXgBmybcZe6UwoixCos3L/view) year round movements of American crows.
+    excerpt: "Using satellite tags in two different flyways, we [tracked](https://drive.google.com/file/d/1x8yWKr0zK_PzXgBmybcZe6UwoixCos3L/view) year round movements of American crows."
   - image_path: /assets/images/crow2.jpg
     excerpt: "Despite the common claim that Campylobacter is an avian commensal with no negative effects, we [found](https://drive.google.com/file/d/1XjrQ6616DUlVvNun395dwKaR1txNkVhM/view) that infected adults had reduced survival."
   - image_path: /assets/images/crow3.jpg
