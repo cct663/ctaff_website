@@ -90,7 +90,7 @@ Another major challenge that wild animals regularly face is the risk of infectio
 
 Crows are particularly interesting because the live in close proximity to humans and form huge communal roosts in the winter across much of North America. We used satellite and GPS tracking backpacks to study space use in the winter in an effort to understand how crows might link different habitats and disease exposures through their daily movements. We found that space use is critical to understanding risk. Many crows carry WNV or Campylobacter, but only certain areas get high exposure to crow feces.
 
-{% include feature_row id="crow" %}
+{% include feature_row id="crow_row" %}
 
 ### Why do Some Individuals Succeed When Others Fail?
 
