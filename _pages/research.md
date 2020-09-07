@@ -94,6 +94,8 @@ Crows are particularly interesting because the live in close proximity to humans
 
 ### Why do Some Individuals Succeed When Others Fail?
 
+A common theme across all of my research projects is trying to understand why some individuals succeed when otheres fail. For challenges that animals commonly face—dealing with unexpected weather, finding a mate, coping with infection—there should be strong and consistent selection to find an optimal solution. Yet when we go out and measure performance in these tasks, there is nearly always considerable variation between populations, between individuals, and even between the same individual when measured multiple times. What processes create this variation and what are the consequences? I am increasingly interested in the role that phenotypic integration plays in generating this variation. Responding appropriately to challenging situations often demands a highly coordinated set of phenotypic traits that all work in concert to produce a favorable outcome. Dynamic feedback betwee the social environment, physiology, ecological conditions, and previous challenges may create conditions that promote resilience or susceptibility to subsequent challenges. I am actively pursuing these questions in the tree swallow and yellowthroat systems.
+
 {% include figure image_path="/assets/images/coye_tres_integration2.jpg" alt="" caption="" %}
 
 ### Collaborators and Funding
