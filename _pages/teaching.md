@@ -75,7 +75,7 @@ I taught a seven hour lecture section on Animal Communication as part of the UC 
 
 <hr style="border:2px solid gray">
 
-### Teaching Contributions
+### Other Teaching Contributions
 
 #### Guest lecturing
 
