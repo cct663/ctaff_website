@@ -21,21 +21,17 @@ feature_row1:
    # tags: 
    #     - Stress
    
-feature_row3:
-  - image_path: /assets/images/resilience_figure.png
-    title: "Sexual Selection on Elaborate Signals"
-    excerpt: "This is about resilience...add text. This needs to be a longer block of text so I can figure out how this is going to look what will it look like."
-    url: "https://drive.google.com/file/d/1sPvZCSnlpsOaKGZlS-VSC5NLJbyEMUsP/view"
-    btn_label: "Taff et al. 2020"
-    btn_class: "btn--primary"
-   
-feature_row2:
-  - image_path: /assets/images/resilience_figure.png
-    title: "Disease Ecology and Animal Movement"
-    excerpt: "This is about resilience...add text. This needs to be a longer block of text so I can figure out how this is going to look what will it look like."
-    url: "https://drive.google.com/file/d/1sPvZCSnlpsOaKGZlS-VSC5NLJbyEMUsP/view"
-    btn_label: "Taff et al. 2020"
-    btn_class: "btn--primary"  
+feature_rowa:
+  - image_path: /assets/images/swallow_crop.jpg
+    excerpt: "I have worked with [Maren Vitousek](https://vitousek.weebly.com/) tree swallows since 2015 on a population that has been continuously studied since 1985."
+    
+feature_rowb:
+  - image_path: /assets/images/coye_square.jpg
+    excerpt: "With [Corey Freeman-Gallant](https://www.skidmore.edu/biology/faculty/freeman_gallant.php) I have maintained a banded population of common yellowthroats since 2005."
+    
+feature_rowc:
+  - image_path: /assets/images/crow_square.jpg
+    exerpct: "With [Andrea Townsend](https://hamiltoncs.org/townsend/) I have worked on disease ecology in American crows since 2012."
         
 ---
 
@@ -46,6 +42,10 @@ feature_row2:
 My research is motivated by a fascination with biological variation; at every scale, animals vary enormously in how they interact with and respond to their environment. Even though responding to challenges appropriately is critical, individuals in a population often vary enormously in their responses and even the same individual often varies when measured repeatedly at different times or in different contexts. I am interested in what causes these differences and what the consequences of variation are for individuals and populations. How can some individuals successfully cope with capricious environments that are fatal to others? Why do some individuals successfully produce many offspring while others fail to attract a mate? 
 
 My organism-centered approach emphasizes the importance of connections across different levels of biological organization from cells to populations and the scope of my research interests is necessarily broad. However, much of my work is focused around two of the major challenges that animals face in natural populations: mating successfully and coping with environmental challenges. These processes fascinate me because they often push individuals to their physiological limits, revealing between-individual differences that may not be apparent during normal daily activity or under more benign conditions. Successfully navigating these challenges demands a highly coordinated suite of traits that bridge physiology and behavior. Read about a few of my ongoing research projects below.
+
+{% include feature_row id="feature_rowa" type="left" %}
+{% include feature_row id="feature_rowb" type="center" %}
+{% include feature_row id="feature_rowc" type="right" %}
 
 ### Resilience to Environmental Challenges
 
