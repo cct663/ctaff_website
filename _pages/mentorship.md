@@ -19,7 +19,9 @@ feature_row1:
 
 ### Mentoring in the Field and Lab
 
+My love of research developed when I was a student assistant at Skidmore College. I had the opportunity to participate in an NSF funded summer research internship, and I have never looked back. I love having the chance to recreate that experience for my students as I think that the opportunity to participate in hands on research programs can reach students in a way that is hard, if not impossible, to recreate in a classroom setting. My work is designed to engage students and create opportunities for genuine independent research at the undergraduate and graduate level. Throughout my PhD and postdoctoral career, students have been involved in every aspect of my research program, including collecting samples in the field, running physiological assays in the lab, cleaning and analyzing data, and drafting papers for publication.
 
+Many students start working with me as a summer intern and then stay on during the academic year to learn the lab techniques needed to process samples that were collected the previous summer. I have trained students in a wide range of lab techniques, including molecular sexing and paternity analysis, ELISAs for hormone measurement, immune assays, pcr/qpcr, microbiome and diet metabarcoding pipelines, and color characterization by spectrophotometer, among others. I encourage students to act as full collaborators on these projects and there are many opportunities for motivated students to carve out their own independent questions using the data we assemble.
 
 ### Formalized Mentorship Program for Undergraduates
 
