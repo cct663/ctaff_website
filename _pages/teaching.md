@@ -39,7 +39,9 @@ Asking students to propose and struggle with their own questions approximates th
 
 <hr style="border:2px solid gray">
 
-### Ornithology: BioEE4750
+### Courses As Instructor
+
+#### Ornithology: BioEE4750
 
 Blurb about ornithology
 
@@ -49,23 +51,29 @@ Blurb about ornithology
 
 <hr style="border:2px solid gray">
 
-### Data Science, Visualization, Quantitative Methods
+#### Data Science, Visualization, Quantitative Methods
 
 Statistical rethinking. Data analysis training and open science methods for our lab group.
 
-### Spring Field Ornithology: BIO1250
+#### Spring Field Ornithology: BIO1250
 
 blurb about this class.
 
 <hr style="border:2px solid gray"> 
 
-### Animal Communication: UC Davis Core Class
+#### Animal Communication: UC Davis Core Class
 
 blurb about this
 
 <hr style="border:2px solid gray">
 
+### Teaching Contributions
+
 ### Guest lecturing
+
+<hr style="border:2px solid gray">
+
+### Teaching Assistant
 
 <hr style="border:2px solid gray">
 
