@@ -78,6 +78,6 @@ Crows are particularly interesting because the live in close proximity to humans
 
 ### Collaborators and Funding
 
-
+I have been really lucky to have the opportunity to work with a great group of collaborators and advisors on all of the projects listed above. Thanks to them and to the funding agencies that have made my research possible!
 
 {% include figure image_path="/assets/images/collabs.jpg" alt="" caption="" %}
