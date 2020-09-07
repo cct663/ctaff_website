@@ -23,15 +23,17 @@ feature_row1:
 
 ### Formalized Mentorship Program for Undergraduates
 
-Since 2018 I have worked with graduate students [Jenny Uehling](https://vitousek.weebly.com/people.html) and [Jenn Houtz](https://vitousek.weebly.com/people.html) to formalize a mentorship training experience for students involved in the tree swallow project. 
-
-Professional development, 
-
-The goal of this 
+Since 2018 I have worked with [Maren Vitousek](https://vitousek.weebly.com/) and with graduate students [Jenny Uehling](https://vitousek.weebly.com/people.html) and [Jenn Houtz](https://vitousek.weebly.com/people.html) to formalize a mentorship training experience for students involved in the tree swallow project. Our goal is to create a comprehensive training program that recruits students early in their undergraduate degree and guides them through an introduction to the entire research process paired with direct mentorship and professionalization. This includes the type of field and lab training described above, but also includes regular student focused meetings where we constructively evaluate journal articles, convene panels on graduate or professional school advice, run workshops for developing a CV or resume, give small workshops on data analysis and coding, and discuss justice, equity, diversity, and inclusion initiatives and how they apply to academia, among other topics. Ultimately, we hope that this intentional programming makes the training program more valuable for our students.
 
 ### Graduate Student Mentoring
 
-Working with grad students in Vitousek Lab.
+In the Vitousek Lab, I am heavily involved in graduate student mentoring and training. Many of our students work on the tree swallow system and I work as a facilitator and collaborator on all of these projects. Currently, I am contributing to the following graduate student projects:
+- [David Chang van Oordt](https://vitousek.weebly.com/people.html): Trade-offs between reproduction and immune competence.
+- [Jenny Uehling](https://vitousek.weebly.com/people.html): Relationships between foraging movements, hormones, and diet.
+- [Tom Ryan](https://vitousek.weebly.com/people.html): Social interactions at the nest box between adults, nestlings, and visitors.
+- [Jenn Houtz](https://vitousek.weebly.com/people.html): Effects of microbiome on breeding performance and effects of environment on microbiome.
+- [Colleen Miller](https://vitousek.weebly.com/people.html): Timing of activity patterns from RFID records in relation to illumination.
+- [Monique Pipkin](https://vitousek.weebly.com/people.html): Variation in signal coloration and social interactions.
 
 {% include feature_row id="feature_row1" %}
 
