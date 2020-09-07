@@ -59,17 +59,19 @@ Together with [Jen Walsh-Emond](http://jenniferlwalsh.com/) I redisigned and tau
 
 #### Data Science, Visualization, Quantitative Methods
 
-Statistical rethinking. Data analysis training and open science methods for our lab group.
+I have a strong interest in data science, visualization, quantiative methods and developing workflows to promote reproducible research. I have been a leader in the [Vitousek Lab](https://vitousek.weebly.com/) at creating lab best practices and training related to those approaches. In Spring 2019, I led a seminar with graduate students and postdocs following through the course material from [Richard McElreath's](https://xcelab.net/rm/) Statistical Rethinking textbook. The course introduces a series of approaches to making inferences from data and covers directed acyclic graphs for causal inference, generalized linear multilevel models from a Bayesian perspective, and a number of approaches to model fitting, checking, and interpretation. For this course, we used pre-recorded lectures delivered by the author with group discussion sections focused on coding practice and feedback on homework sets that were completed each week.
+
+<hr style="border:2px solid gray">
 
 #### Spring Field Ornithology: BIO1250
 
-blurb about this class.
+In Spring 2016 I taught Spring Field Ornithology for a group of 12 Cornell University undergraduate and graduate students. This course was designed to build off of the publicly offered Spring Field Ornithology Class that was offered by Steve Kress at the Lab of Ornithology every Spring for many years. The public course focuses largely on bird identification with guest lectures and video presentations related to ornithology. My students attended some of those lectures and also participated in a one credit weekly seminar that was largely focused on reading, discussing, and evaluating scientific journal articles related to current topics in ornithology. The class was designed as an entry into studying ornithology for non-majors and attracted students with a wide range of backgrounds.
 
 <hr style="border:2px solid gray"> 
 
 #### Animal Communication: UC Davis Core Class
 
-blurb about this
+I taught a seven hour lecture section on Animal Communication as part of the UC Davis Animal Behavior Graduate Group Core class that is required for all first year PhD students in the program. We covered introductions to all major areas of animal communication, such as signal design and efficacy, game theory and frequency dependence, information content and signal honesty, and systems for updating information and making choices based on communication. The section included lectures, outside readings, written assignments, and discussion sections that I led.
 
 <hr style="border:2px solid gray">
 
@@ -77,14 +79,31 @@ blurb about this
 
 #### Guest lecturing
 
+I have provided guest lectures and short multi-day teaching units in classes at Cornell University, the University of California--Davis, Hamilton College, and Skidmore College including:
+- Organismal Biology
+- Ecology
+- Fundamentals of One Health
+- Wildlife Ecology & Conservation
+- Ornithology
+- Ecology & Evolutionary Biology
+- Introduction to Geographic Information Systems
+
 <hr style="border:2px solid gray">
 
 #### Teaching Assistant
+
+At the University of California Davis, I was a teaching assistant for the following classes:
+- **Introduction to Biodiversity & the Tree of Life**: Sole instructor for two lab sections per week.
+- **Introduction to Ecology & Evolution**: Sole instructor for two lab sections per week.
+- **Animal Behavior**
+- **Introduction to Experimental Design**: Introduced basics of experimental design and statistical testing.
 
 <hr style="border:2px solid gray">
 
 ### Evidence of Teaching Excellence
 
-quotes or eval summaries?
+I have consistently received excellent evaluations for my teaching. A few student testimonials are listed below and full teaching evaluations are available by request.
+
+
 
      
