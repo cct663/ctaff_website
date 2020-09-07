@@ -4,7 +4,7 @@ title: "Contact"
 permalink: /contact/
 header:
     overlay_image: /assets/images/coye_male_banner.jpg
-author_profile: false
+author_profile: true
 classes: wide
 date: September 3, 2020
 ---
