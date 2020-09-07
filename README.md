@@ -1,27 +1,33 @@
-# Minimal Mistakes remote theme starter
-
-Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
-
-Contains basic configuration to get you a site with:
-
-- Sample posts.
-- Sample top navigation.
-- Sample author sidebar with social links.
-- Sample footer links.
-- Paginated home page.
-- Archive pages for posts grouped by year, category, and tag.
-- Sample about page.
-- Sample 404 page.
-- Site wide search.
-
-Replace sample content with your own and [configure as necessary](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
-
+---
+layout: single
+title: "Contact"
+permalink: /contact/
+header:
+    overlay_image: /assets/images/coye_male_banner.jpg
+author_profile: false
+classes: wide
+date: September 3, 2020
 ---
 
-## Troubleshooting
+{% include figure image_path="/assets/images/contact-image.jpg" alt="" caption="" %}
 
-If you have a question about using Jekyll, start a discussion on the [Jekyll Forum](https://talk.jekyllrb.com/) or [StackOverflow](https://stackoverflow.com/questions/tagged/jekyll). Other resources:
+I am in integrative organismal biologist interested in questions about behavior, ecology, evolution, and physiology. I mainly work on wild birds, but I'm interested in questions that have broad applicability to understanding how animals deal with challenging situations and why some individuals are more successful than others. Although I work on wild animals, a large part of my work uses quantitative tools and lab techniques including epigenetics, diet metabarcoding, microbiome studies, and remote sensor networks. I'm currently a Research Associate in the [Vitousek Lab](http://www.vitousek.weebly.com) at Cornell University. 
 
-- [Ruby 101](https://jekyllrb.com/docs/ruby-101/)
-- [Setting up a Jekyll site with GitHub Pages](https://jekyllrb.com/docs/github-pages/)
-- [Configuring GitHub Metadata](https://github.com/jekyll/github-metadata/blob/master/docs/configuration.md#configuration) to work properly when developing locally and avoid `No GitHub API authentication could be found. Some fields may be missing or have incorrect data.` warnings.
+### Get in touch!
+
+Dr. Conor C. Taff<br>
+Research Associate<br>
+[Department of Ecology & Evolutionary Biology][1]<br>
+[Cornell Lab of Ornithology][2]<br>
+[Vitousek Lab](https://www.vitousek.weebly.com)
+<br>
+Cornell University
+
+E240 Corson Hall<br />
+215 Tower Road Rd.<br />
+Ithaca, NY 14850<br />
+
+<a href="mailto:{{ 'cct63@cornell.edu' | encode_email }}" title="Email me">Email me</a>
+
+[1]: https://ecologyandevolution.cornell.edu/
+[2]: https://www.birds.cornell.edu
