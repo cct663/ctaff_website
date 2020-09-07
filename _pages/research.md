@@ -42,6 +42,14 @@ tres_row2:
     excerpt: "Experimental dulling of breast coloration [led to](https://www.biorxiv.org/content/10.1101/826719v1) higher seasonal reproductive success."
   - image_path: /assets/images/tres_bright.jpg
     excerpt: "The brightness of female's breast coloration [predicts](https://drive.google.com/file/d/1sPvZCSnlpsOaKGZlS-VSC5NLJbyEMUsP/view) genome wide patterns of DNA methylation."
+    
+crow:
+  - image_path: /assets/images/crow1.jpg
+    excerpt: "Using satellite tags in two different flyways, we [tracked](https://drive.google.com/file/d/1x8yWKr0zK_PzXgBmybcZe6UwoixCos3L/view) year round movements of American crows.
+  - image_path: /assets/images/crow2.jpg
+    excerpt: "Despite the common claim that Campylobacter is an avian commensal with no negative effects, we [found](https://drive.google.com/file/d/1XjrQ6616DUlVvNun395dwKaR1txNkVhM/view) that infected adults had reduced survival.
+  - image_path: /assets/images/crow3.jpg
+    excerpt: "We [conducted](https://drive.google.com/file/d/0B8ePJPhFoSk4RVpFZk5DTkVFQ00/view) a detailed analysis of space use using GPS tracking during the winter roosting season to evaluate the potential for cross-species transmission of *C. jejuni* from crows.
         
 ---
 
@@ -82,7 +90,7 @@ Another major challenge that wild animals regularly face is the risk of infectio
 
 Crows are particularly interesting because the live in close proximity to humans and form huge communal roosts in the winter across much of North America. We used satellite and GPS tracking backpacks to study space use in the winter in an effort to understand how crows might link different habitats and disease exposures through their daily movements. We found that space use is critical to understanding risk. Many crows carry WNV or Campylobacter, but only certain areas get high exposure to crow feces.
 
-
+{% include feature_row id="crow" %}
 
 ### Why do Some Individuals Succeed When Others Fail?
 
