@@ -17,5 +17,5 @@ This page is not linked through from my main website. It isn't exactly 'secret',
 
 ### Tree Swallow Projects
 
-- [Tree swallow glucose vs. corticosterone summary analysis]({% link /assets/html/tres_glucose_summary.html %})
+- [Tree swallow glucose vs. corticosterone summary analysis]({{ site.baseurl }}{% link /assets/html/tres_glucose_summary.html %})
 
