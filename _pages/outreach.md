@@ -9,9 +9,9 @@ classes: wide
 date: September 3, 2020
 
 rowa:
-  -image_path: /assets/images/demoa.jpg
-  -image_path: /assets/images/demob.jpg
-  -image_path: /assets/images/democ.jpg
+  - image_path: /assets/images/demoa.jpg
+  - image_path: /assets/images/demob.jpg
+  - image_path: /assets/images/democ.jpg
 ---
 ### Public Engagement With Research and Nature
 
