@@ -24,14 +24,10 @@ feature_row1:
 feature_rowa:
   - image_path: /assets/images/swallow_crop.jpg
     excerpt: "I have worked with [Maren Vitousek](https://vitousek.weebly.com/) tree swallows since 2015 on a population that has been continuously studied since 1985."
-    
-feature_rowb:
   - image_path: /assets/images/coye_square.jpg
     excerpt: "With [Corey Freeman-Gallant](https://www.skidmore.edu/biology/faculty/freeman_gallant.php) I have maintained a banded population of common yellowthroats since 2005."
-    
-feature_rowc:
   - image_path: /assets/images/crow_square.jpg
-    exerpct: "With [Andrea Townsend](https://hamiltoncs.org/townsend/) I have worked on disease ecology in American crows since 2012."
+    excerpt: "With [Andrea Townsend](https://hamiltoncs.org/townsend/) I have worked on disease ecology in American crows since 2012."
         
 ---
 
@@ -43,9 +39,7 @@ My research is motivated by a fascination with biological variation; at every sc
 
 My organism-centered approach emphasizes the importance of connections across different levels of biological organization from cells to populations and the scope of my research interests is necessarily broad. However, much of my work is focused around two of the major challenges that animals face in natural populations: mating successfully and coping with environmental challenges. These processes fascinate me because they often push individuals to their physiological limits, revealing between-individual differences that may not be apparent during normal daily activity or under more benign conditions. Successfully navigating these challenges demands a highly coordinated suite of traits that bridge physiology and behavior. Read about a few of my ongoing research projects below.
 
-{% include feature_row id="feature_rowa" type="left" %}
-{% include feature_row id="feature_rowb" type="center" %}
-{% include feature_row id="feature_rowc" type="right" %}
+{% include feature_row id="feature_rowa" %}
 
 ### Resilience to Environmental Challenges
 
