@@ -13,7 +13,7 @@ date: September 3, 2020
 
 feature_row1:
   - image_path: /assets/images/grads1.jpg
-  - image_path: /assets/images/grads2.jpg
+  - image_path: /assets/images/grads2a.jpg
         
 ---
 
