@@ -10,16 +10,6 @@ toc_label: "Sections"
 toc_icon: "feather-alt"
 classes: wide
 date: September 3, 2020
-
-feature_row1:
-  - image_path: /assets/images/resilience_figure.png
-    title: ""
-    text: "Tree swallows are an excellent system for manipulating realistic challenges."
-   # url: "https://drive.google.com/file/d/1sPvZCSnlpsOaKGZlS-VSC5NLJbyEMUsP/view"
-   # btn_label: "Taff et al. 2020"
-   # btn_class: "btn--primary"
-   # tags: 
-   #     - Stress
    
 feature_rowa:
   - image_path: /assets/images/swallow_crop.jpg
@@ -36,6 +26,22 @@ coye_row:
     excerpt: "Changes in the rate of telomere erosion [are associated](https://drive.google.com/file/d/1Dyde8fFwhiXWYq9Gd96ZvnJxeYJ-PLHb/view) with changes in ornamentation."
   - image_path: /assets/images/coye_c.jpg
     excerpt: "Ornaments increase as males age, but the trajectory of increase [differs](https://drive.google.com/file/d/1tovx3J3ZKkSMeGYWkTYpYrhW8wcoVWiF/view) with blood parasite infection history."
+    
+tres_row1:
+  - image_path: /assets/images/tres_figa.jpg
+    excerpt: "Tree swallows with certain combinations of baseline and stress-induced corticosterone [achieve](https://drive.google.com/file/d/1vGGRKDEzrJzbKdEm67jq_XJZEZCHvMgg/view) the highest reproductive success."
+  - image_path: /assets/images/tres_resil.jpg
+    excerpt: "This system is unusually amenable to experimental manipulations that lest us impose [realistic challenges](https://drive.google.com/file/d/1sPvZCSnlpsOaKGZlS-VSC5NLJbyEMUsP/view) and measure resilience."
+  - image_path: /assets/images/tres_negf.jpg
+    excerpt: "The strength of negative feedback (turning off the stress response) [predicts](https://drive.google.com/file/d/1Qj6ko_P1-nk3Lk2f_ImXEWjLk7dBuMZy/view) resilience to challenges and reproductive success."
+    
+tres_row2:
+  - image_path: /assets/images/tres_social.png
+    excerpt: "Female tree swallows with brighter white breasts are [more central](https://drive.google.com/file/d/1YTujZDQgugIg38Rv7qhFPs0BTKlN_6vz/view) in social interaction networks built from RFID records."
+  - image_path: /assets/images/tres_dull.jpg
+    excerpt: "Experimental dulling of breast coloration [led to](https://www.biorxiv.org/content/10.1101/826719v1) higher seasonal reproductive success."
+  - image_path: /assets/images/tres_bright.jpg
+    excerpt: "The brightness of female's breast coloration [predicts](https://drive.google.com/file/d/1sPvZCSnlpsOaKGZlS-VSC5NLJbyEMUsP/view) genome wide patterns of DNA methylation."
         
 ---
 
@@ -56,7 +62,7 @@ One of the major challenges that animals face in natural populations is dealing 
 Vertebrates often respond to unpredictable environments by rapidly elevating circulating glucocorticoid hormones that shunt resources towards survival. This system is highly flexible and responsive to environmental conditions. However, set against this backdrop of variation, a recent meta-analysis that I conducted using all vertebrate studies to date demonstrated that there are moderately consistent between-individual differences in glucocorticoids. In tree swallows, these natural differences predict survival and stress resilience. Experimental manipulations of hormones and of environmental stressors confirm both that natural variation in physiology also predicts resilience to standardized challenges and that coping ability has downstream fitness effects. While glucorticoids receive a lot of attention, many other candidate mechanisms and behaviors contribute to variation in resilience and my work also investigates epigenetics, metabolic regulation, microbiome and diet metabacoding, and social interaction networks. Individuals that successfully cope and breed in the face of natural or experimental challenges have an integrated suite of traits associated with resilience.
 
 &nbsp;
-{% include feature_row id="feature_row1" type="left" %}
+{% include feature_row id="tres_row1" %}
 
 ### Signals, Communication, and Honesty
 
@@ -67,6 +73,8 @@ For example, in common yellowthroats, song performance and variation in yellow c
 {% include feature_row id="coye_row" %}
 
 In my work on tree swallows I have directly addressed the ways that physiology and the social environment are linked through plumage signals. While it has long been known that the social environment can influence physiology and that signals can influence the social environment, it is challenging to accurately measure the social environment experienced by free-living animals. I have established a methodology using a large-scale RFID sensor network that generates millions of time and location specific identifications from hundreds of individuals across an entire breeding season. Using a custom suite of scripts that I wrote for this project, I found that females with brighter white breast patches occupy more a more central position in the social interaction network. Targeted manipulations to different aspects of the phenotype (e.g., hormones or signal manipulations) have downstream effects that ripple through the entire suite of traits. Conceptualizing signals as part of a dynamic regulatory network is a powerful approach to understanding how signals respond to selection and how ‘honesty’ is maintained.
+
+{% include feature_row id="tres_row2" %}
 
 ### Disease, Ecology, and Behavior
 
