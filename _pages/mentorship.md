@@ -33,7 +33,7 @@ The goal of this
 
 Working with grad students in Vitousek Lab.
 
-{% include feature_row1 %}
+{% include feature_row id="feature_row1" %}
 
 ### Recent Student Projects
 
