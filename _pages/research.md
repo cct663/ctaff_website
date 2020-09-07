@@ -28,6 +28,14 @@ feature_rowa:
     excerpt: "With [Corey Freeman-Gallant](https://www.skidmore.edu/biology/faculty/freeman_gallant.php) I have maintained a banded population of common yellowthroats since 2005."
   - image_path: /assets/images/crow_square.jpg
     excerpt: "With [Andrea Townsend](https://hamiltoncs.org/townsend/) I have worked on disease ecology in American crows since 2012."
+    
+coye_row:
+  - image_path: /assets/images/coye_a.jpg
+    excerpt: "Damage to DNA measured by single cell gel electophoresis [is related](https://drive.google.com/file/d/0B8ePJPhFoSk4eTRpcld1dk11SGM/edit) to elaborate male ornaments in yellowthroats."
+  - image_path: /assets/images/coye_b.jpg
+    excerpt: "Changes in the rate of telomere erosion [are associated](https://drive.google.com/file/d/1Dyde8fFwhiXWYq9Gd96ZvnJxeYJ-PLHb/view) with changes in ornamentation."
+  - image_path: /assets/images/coye_c.jpg
+    excerpt: "Ornaments increase as males age, but the trajectory of increase [differs](https://drive.google.com/file/d/1tovx3J3ZKkSMeGYWkTYpYrhW8wcoVWiF/view) with blood parasite infection history."
         
 ---
 
@@ -55,6 +63,8 @@ Vertebrates often respond to unpredictable environments by rapidly elevating cir
 Sexually selected traits offer a window into the way that organisms allocate limited resources to competing demands. Often, these elaborate traits have been thought of as ‘wasteful’ because they don’t contribute directly to survival, but they are better understood as an integrated facet of whole organism phenotypes. My work on sexually selected signals has focused on moving from demonstrating an association between signal elaboration and mating success to placing signals in a framework of dynamic regulation resulting from the interplay of internal and external processes. 
 
 For example, in common yellowthroats, song performance and variation in yellow coloration are correlated with male reproductive success. These signals are in turn associated with underlying aspects of physiology and immunocompetence. However, the way that signals function in this system is much more complicated—and more interesting—than a simple case of directional selection based on mating preferences for honest signals. Both the physiological costs and the mating benefits of signals vary with the spatial distribution of habitat and with age. Signalers respond to these changes by flexibly adjusting signal production on the timescale of minutes. Moreover, integration of the entire suite of traits appears to be maintained—to some extent—by interactions with environmental challenges, such as infection risk.
+
+{% include feature_row id="coye_row" %}
 
 In my work on tree swallows I have directly addressed the ways that physiology and the social environment are linked through plumage signals. While it has long been known that the social environment can influence physiology and that signals can influence the social environment, it is challenging to accurately measure the social environment experienced by free-living animals. I have established a methodology using a large-scale RFID sensor network that generates millions of time and location specific identifications from hundreds of individuals across an entire breeding season. Using a custom suite of scripts that I wrote for this project, I found that females with brighter white breast patches occupy more a more central position in the social interaction network. Targeted manipulations to different aspects of the phenotype (e.g., hormones or signal manipulations) have downstream effects that ripple through the entire suite of traits. Conceptualizing signals as part of a dynamic regulatory network is a powerful approach to understanding how signals respond to selection and how ‘honesty’ is maintained.
 
