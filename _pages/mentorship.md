@@ -12,16 +12,8 @@ classes: wide
 date: September 3, 2020
 
 feature_row1:
-  - image_path: /assets/images/resilience_figure.png
-    title: "Resilience to Environmental Challenges"
-    text: "Add some info about a couple of student projects."
-    url: "https://drive.google.com/file/d/1sPvZCSnlpsOaKGZlS-VSC5NLJbyEMUsP/view"
-    btn_label: "Taff et al. 2020"
-    btn_class: "btn--primary"
-   # tags: 
-   #     - Marketing
-   #     - Segmentation
-   #     - k-means clustering
+  - image_path: /assets/images/grads1.jpg
+  - image_path: /assets/images/grads2.jpg
         
 ---
 
@@ -29,7 +21,7 @@ feature_row1:
 
 
 
-### Formalized Mentorship Program
+### Formalized Mentorship Program for Undergraduates
 
 Since 2018 I have worked with graduate students [Jenny Uehling](https://vitousek.weebly.com/people.html) and [Jenn Houtz](https://vitousek.weebly.com/people.html) to formalize a mentorship training experience for students involved in the tree swallow project. 
 
@@ -37,13 +29,19 @@ Professional development,
 
 The goal of this 
 
+### Graduate Student Mentoring
+
+Working with grad students in Vitousek Lab.
+
+{% include feature_row1 %}
+
 ### Recent Student Projects
 
 Throughout my research career I have worked with many students who participated in field or lab research and then went on to develop independent research projects for credit or as a thesis project during the academic year. Below is a sample of recent projects carried out by undergraduate students at Cornell University.
 
 <hr style="border:2px solid gray">
 
-**Paige Becker** 
+**Bella Somoza** 
 
 <hr style="border:2px solid gray">
 
@@ -51,7 +49,7 @@ Throughout my research career I have worked with many students who participated 
 
 <hr style="border:2px solid gray">
 
-**Bella Somoza** is
+{%include figure image_path="assets/images/paige.jpg" alt="" caption="" %} **Paige Becker** worked on the tree swallow summer team in 2019. COVID-19 stopped her from getting back in the field in 2020, but she was able to continue research with training in R and work in the lab on DNA extractions. Paige has developed a project working with me and [Jenny Uehling](https://vitousek.weebly.com/) using fecal samples collected from nestling tree swallows over the past few years to examine trade-offs in diet. We have developed a wetlab and bioinformatic pipeline to use fecal samples for DNA metabarcoding. Next generation sequence data is compared to the barcode of life database to give us an extraordinarily detailed picture of exactly what insects our birds are eating. [Previous work](https://doi.org/10.1073/pnas.1603998113) suggests that aquatic insects are particularly important for nestling development and Paige is hoping to use diet data to look at how and when parents prioritize feeding the highest quality food items to their nestlings versus saving them for themselves.
 
 <hr style="border:2px solid gray">
 
