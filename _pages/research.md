@@ -86,7 +86,7 @@ Crows are particularly interesting because the live in close proximity to humans
 
 ### Why do Some Individuals Succeed When Others Fail?
 
-{% include figure image_path="/assets/images/coye_tres_integration.jpg" alt="" caption="" %}
+{% include figure image_path="/assets/images/coye_tres_integration2.jpg" alt="" caption="" %}
 
 ### Collaborators and Funding
 
