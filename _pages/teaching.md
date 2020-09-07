@@ -43,7 +43,13 @@ Asking students to propose and struggle with their own questions approximates th
 
 #### Ornithology: BioEE4750
 
-Blurb about ornithology
+Together with [Jen Walsh-Emond](http://jenniferlwalsh.com/) I redisigned and taught an upper level Ornithology course for 70 students at Cornell University in Spring 2020. This offering is meant to serve as the flagship Ornithology course offered by the Cornell Lab of Ornithology. In designing the course, we made extensive use of multimedia resources at the Lab of Ornithology to create flipped content with mini lectures and quizzes delivered online and class sections focused on active engagement and discussion. Our assignments were designed to engage students in critical evaluation rather than memorization. 
+
+*From my syllabus:* One of the advantages of a class focusing on birds is that we can explore the links between sub-disciplines of biology that are often covered in separate classes: ecology & evolution, anatomy & physiology, genetics, behavior, and conservation. At Cornell, we are also lucky to be able to draw on the resources of the Lab of Ornithology, the premier organization in the US for bird research, conservation, and education. In this class we will learn what birds have to tell us about each of these topics and what features make birds so unique and successful. Over the course of the semester we will combine online learning exercises with in-class discussion, activities, and guest lectures to achieve the following learning objectives:
+
+- Demonstrate the ability to read, evaluate, and synthesize information from primary scientific literature on topics in avian biology.
+- Describe key morphological and physiological charaacteristics of birds and understand how variation in these features is related to selection and life history across different avian clades.
+- Synthesize material covered throughout the course to propose and conduct original, independent research projects related to the behavioral and evolutionary ecology of birds.
 
 [Syllabus](https://drive.google.com/file/d/1YNjy-B9oUyfY3e3-7SL5cC1NRMqEn4SL/view?usp=sharing){: .btn .btn--info}
 [Assignment Sheets](https://drive.google.com/file/d/1W0iofJJNZGFXwxfd5Xxyy7Q1hyr6Lsbq/view?usp=sharing){: .btn .btn--info}
@@ -69,15 +75,15 @@ blurb about this
 
 ### Teaching Contributions
 
-### Guest lecturing
+#### Guest lecturing
 
 <hr style="border:2px solid gray">
 
-### Teaching Assistant
+#### Teaching Assistant
 
 <hr style="border:2px solid gray">
 
-### Evidence of Teaching
+### Evidence of Teaching Excellence
 
 quotes or eval summaries?
 
