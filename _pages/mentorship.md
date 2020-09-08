@@ -34,7 +34,7 @@ In the Vitousek Lab, I am heavily involved in graduate student mentoring and tra
 - [Jenny Uehling](https://vitousek.weebly.com/people.html): Relationships between foraging movements, hormones, and diet.
 - [Tom Ryan](https://vitousek.weebly.com/people.html): Social interactions at the nest box between adults, nestlings, and visitors.
 - [Jenn Houtz](https://vitousek.weebly.com/people.html): Effects of microbiome on breeding performance and effects of environment on microbiome.
-- [Colleen Miller](https://vitousek.weebly.com/people.html): Timing of activity patterns from RFID records in relation to illumination.
+- [Colleen Miller](https://colleenrosemiller1.wixsite.com/website): Timing of activity patterns from RFID records in relation to illumination.
 - [Monique Pipkin](https://vitousek.weebly.com/people.html): Variation in signal coloration and social interactions.
 
 {% include feature_row id="feature_row1" %}
