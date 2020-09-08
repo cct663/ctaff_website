@@ -108,7 +108,7 @@ I have consistently received excellent evaluations for my teaching. A few studen
 
 >"Conor makes sure we all understand the work and encourages us to learn the subject matter instead of just doing the steps."
 
->"This instructor is willint to help and doesn't get frustrated even when a question is asked many times. Great instructor!"
+>"This instructor is willing to help and doesn't get frustrated even when a question is asked many times. Great instructor!"
 
 >"He was great at clarifying questions even if they weren't in his field of expertise because he always came prepared."
 
