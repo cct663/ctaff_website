@@ -67,11 +67,11 @@ Throughout my research career I have worked with many students who participated 
 
 ### Student Driven Research
 
-My research program is specifically designed to engage students and create opportunities for genuine independent research at the undergraduate level. Throughout my PhD and postdoctoral career, students have been involved in every aspect of my research, including collecting samples in the field, running physiological assays in the lab, cleaning and analyzing data, and drafting papers for publication. I am particularly proud that I have supervised and mentored over 75 undergraduate students. Because my research program is highly integrative, there are many opportunities for students to pursue projects related to their own interests and I encourage students to develop independent research questions. To date, I have co-authored papers with 18 undergraduate and 16 graduate students; for many of these students I acted as a primary mentor throughout the research experience and at least 8 undergraduates that I worked with have gone on to graduate degrees in evolution or ecology. The list below shows undergraduate coauthors in blue and students who will most likely be evenentual coauthors on projects that are in progress in orange.
+My research program is specifically designed to engage students and create opportunities for genuine independent research at the undergraduate level. Throughout my PhD and postdoctoral career, students have been involved in every aspect of my research, including collecting samples in the field, running physiological assays in the lab, cleaning and analyzing data, and drafting papers for publication. I am particularly proud that I have supervised and mentored over 75 undergraduate students. Because my research program is highly integrative, there are many opportunities for students to pursue projects related to their own interests and I encourage students to develop independent research questions. To date, I have co-authored papers with 18 undergraduate and 16 graduate students; for many of these students I acted as a primary mentor throughout the research experience and at least 8 undergraduates that I worked with have gone on to graduate degrees in evolution or ecology.
 
 I am lucky to have had the opportunity to work with many amazing students over the years. None of the research on this site would have been possible without their hard work and deadication. Thank you!
 
-{% include figure image_path="/assets/images/student_list.jpg" alt="" caption="" %}
+{% include figure image_path="/assets/images/student_list_1.jpg" alt="" caption="" %}
 
 
 {% include figure image_path="/assets/images/students.jpg" alt="" caption="" %}
