@@ -19,3 +19,5 @@ This page is not linked through from my main website. It isn't exactly 'secret',
 
 - [Tree swallow glucose vs. corticosterone summary analysis]({{ site.baseurl }}{% link /assets/html/tres_glucose_summary.html %})
 
+- [Tree swallow color & stress manipulation 2018-19 summary analysis]({{ site.baseurl }}{% link /assets/html/tres_color_stress_summary.html %})
+
