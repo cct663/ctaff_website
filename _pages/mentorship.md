@@ -14,7 +14,7 @@ date: September 3, 2020
 feature_row1:
   - image_path: /assets/images/grads1.jpg
   - image_path: /assets/images/grads2a.jpg
-  - image_path: /assets/images/monique_mentor.jpg
+  - image_path: /assets/images/grads3.jpg
         
 ---
 
