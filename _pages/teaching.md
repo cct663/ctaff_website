@@ -48,7 +48,7 @@ Together with [Jen Walsh-Emond](http://jenniferlwalsh.com/) I redesigned and tau
 *From my syllabus:* One of the advantages of a class focusing on birds is that we can explore the links between sub-disciplines of biology that are often covered in separate classes: ecology & evolution, anatomy & physiology, genetics, behavior, and conservation. At Cornell, we are also lucky to be able to draw on the resources of the Lab of Ornithology, the premier organization in the US for bird research, conservation, and education. In this class we will learn what birds have to tell us about each of these topics and what features make birds so unique and successful. Over the course of the semester we will combine online learning exercises with in-class discussion, activities, and guest lectures to achieve the following learning objectives:
 
 - Demonstrate the ability to read, evaluate, and synthesize information from primary scientific literature on topics in avian biology.
-- Describe key morphological and physiological charaacteristics of birds and understand how variation in these features is related to selection and life history across different avian clades.
+- Describe key morphological and physiological characteristics of birds and understand how variation in these features is related to selection and life history across different avian clades.
 - Synthesize material covered throughout the course to propose and conduct original, independent research projects related to the behavioral and evolutionary ecology of birds.
 
 [Syllabus](https://drive.google.com/file/d/1YNjy-B9oUyfY3e3-7SL5cC1NRMqEn4SL/view?usp=sharing){: .btn .btn--info}
