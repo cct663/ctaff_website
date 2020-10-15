@@ -21,5 +21,7 @@ This page is not linked through from my main website. It isn't exactly 'secret',
 
 - [Tree swallow color & stress manipulation 2018-19 summary analysis]({{ site.baseurl }}{% link /assets/html/tres_color_stress_summary.html %})
 
-- [Tree swallow candidate methylation of brain and blood by pyrosequencing & NGS]({{ site.basurl }}{% link /assets/html/TRES_pyrosequence_summary.html %})
+- [Tree swallow candidate methylation of brain and blood by pyrosequencing & NGS]({{ site.baseurl }}{% link /assets/html/TRES_pyrosequence_summary.html %})
+
+- [Variation in tree swallow egg shapes]({{ site.baseurl }}{% link /assets/html/egg_shape_summary.html %})
 
