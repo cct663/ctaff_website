@@ -21,7 +21,7 @@ toc_icon: "feather-alt"
 
 **45\.** 	Odom, K. J., Araya-Salas, M., Morano, J. L., Ligon, R. A., Leighton, G. M., **Taff, C. C.**, Dalziell, A. H., Billings, A. C., Germain, R. R., Pardo, M.δ, Guimarāes de Andrade, L., Hedwig, D., Keen, S. C.δ, Shiu, Y., Charif, R. A., Webster, M. S., & Rice, A. N. *Accepted*. Comparative bioacoustics: a roadmap for quantifying and comparing animal sounds across diverse taxa. *Biological Reviews*.
 
-**44\.** 	Shipley, J. R., Twining, L., **Taff, C. C.**, Vitousek, M. N., Flack, A., & Winkler, D. W. *Accepted*. Birds advancing lay dates with warming springs face greater risk of chick mortality. *Proceedings of the National Academy of Sciences*.
+**44\.** 	Shipley, J. R., Twining, L., **Taff, C. C.**, Vitousek, M. N., Flack, A., & Winkler, D. W. *Accepted*. Birds advancing lay dates with warming springs face greater risk of chick mortality. *Proceedings of the National Academy of Sciences*. [PDF](https://drive.google.com/file/d/1S45xY36ZsE9cW8m8W9Ptaerf2tKpiMO8/view?usp=sharing){: .btn .btn--success} [Data + Code](https://knb.ecoinformatics.org/view/doi%3A10.5063%2FF1SF2TJX){: .btn .btn--info} [DOI](https://doi.org/10.1073/pnas.2009864117){: .btn .btn--warning}
 
 **43\.**	Zimmer, C., **Taff, C. C.**, Ardia, D. A., Rose, A. P., Aborn, D. A., Johnson, S. L., & Vitousek, M. N. 2020. Environmental unpredictability shapes glucocorticoid regulation across populations of tree swallows. *Scientific Reports*. [PDF](https://drive.google.com/file/d/1r344Sps7MajuOvrrH7VMgeFz02gI4fth/view?usp=sharing){: .btn .btn--success} [Preprint](https://doi.org/10.1101/2019.12.23.887075){: .btn .btn--primary} [DOI](https://doi.org/10.1038/s41598-020-70161-4){: .btn .btn--warning}
 
