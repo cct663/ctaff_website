@@ -29,8 +29,6 @@ This page is not linked through from my main website. It isn't exactly 'secret',
 
 - [Breeding date in relation to previous year temperature in Ithaca tree swallows]({{ site.baseurl }}{% link /assets/html/tres_temperature_carryover.html %})
 
-- [Tree swallow diet metabarcoding sample processing and plotting]({{ site.baseurl }}{% link /assets/html/tres_diet_metabarcoding2.html %})
-
 ### American Crow Projects
 
 - [Utilization of crows by culex mosquitoes.]({{ site.baseurl }}{% link /assets/html/amcr_mosquito_buckets.html %})
