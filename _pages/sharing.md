@@ -31,6 +31,8 @@ This page is not linked through from my main website. It isn't exactly 'secret',
 
 - [Tree swallow diet metabarcoding]({{ site.baseurl }}{% link /assets/html/tres_diet.html %})
 
+- [Tree swallow RRBS analyses]({{ site.baseurl }}{% link /assets/html/tres_rrbs_summary.html %})
+
 ### American Crow Projects
 
 - [Utilization of crows by culex mosquitoes.]({{ site.baseurl }}{% link /assets/html/amcr_mosquito_buckets.html %})
