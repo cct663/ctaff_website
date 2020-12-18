@@ -33,6 +33,10 @@ This page is not linked through from my main website. It isn't exactly 'secret',
 
 - [Tree swallow RRBS analyses]({{ site.baseurl }}{% link /assets/html/tres_rrbs_summary.html %})
 
+### Comparative Projects
+
+- [Aerial insectivores and cold snaps]({{ site.baseurl }}{% link /assets/html/aerial_insectivores_nestwatch.html % })
+
 ### American Crow Projects
 
 - [Utilization of crows by culex mosquitoes.]({{ site.baseurl }}{% link /assets/html/amcr_mosquito_buckets.html %})
