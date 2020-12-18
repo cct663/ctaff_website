@@ -35,7 +35,7 @@ This page is not linked through from my main website. It isn't exactly 'secret',
 
 ### Comparative Projects
 
-- [Aerial insectivores and cold snaps]({{ site.baseurl }}{% link /assets/html/aerial_insectivores_nestwatch.html % })
+- [Aerial insectivores and cold snaps]({{ site.baseurl }}{% link /assets/html/aerial_insectivores_nestwatch.html %})
 
 ### American Crow Projects
 
