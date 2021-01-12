@@ -12,7 +12,7 @@ date: September 3, 2020
 
 ### What this page is for
 
-This page is not linked through from my main website. It isn't exactly 'secret', but I'm using it as a way to post and share results or figures with collaborators that aren't yet published, so it can mainly be accessed by sharing the url directly.
+This page is being used to post and share ongoing analyses so that they can be shared with collaborators. Most of the summaries listed here have associated GitHub repositories on my account that can be accessed to get the full code and data.
 
 ### Simulations and Tools
 
