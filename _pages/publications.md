@@ -17,9 +17,13 @@ toc_icon: "feather-alt"
 ### Peer-Reviewed Articles
 *§ undergraduate co-authors; δ graduate student co-authors; † equal contribution*
 
-**2020**
+**2021**
+
+**46\.** **Taff, C. C.**, Zimmer, C., Houtz, J.δ, Smee, M., Hendry, T., Scheck, D.§, Ryan, T.δ, Vitousek, M. N. *Accepted*. Plumage manipulation alters associations between social behavior, physiology, internal microbiome, and fitness. *Animal Behavior*. [Preprint](https://doi.org/10.1101/826719){: .btn .btn--primary}
 
 **45\.** 	Odom, K. J., Araya-Salas, M., Morano, J. L., Ligon, R. A., Leighton, G. M., **Taff, C. C.**, Dalziell, A. H., Billings, A. C., Germain, R. R., Pardo, M.δ, Guimarāes de Andrade, L., Hedwig, D., Keen, S. C.δ, Shiu, Y., Charif, R. A., Webster, M. S., & Rice, A. N. *Accepted*. Comparative bioacoustics: a roadmap for quantifying and comparing animal sounds across diverse taxa. *Biological Reviews*.
+
+**2020**
 
 **44\.** 	Shipley, J. R., Twining, L., **Taff, C. C.**, Vitousek, M. N., Flack, A., & Winkler, D. W. *Accepted*. Birds advancing lay dates with warming springs face greater risk of chick mortality. *Proceedings of the National Academy of Sciences*. [PDF](https://drive.google.com/file/d/1S45xY36ZsE9cW8m8W9Ptaerf2tKpiMO8/view?usp=sharing){: .btn .btn--success} [Data + Code](https://knb.ecoinformatics.org/view/doi%3A10.5063%2FF1SF2TJX){: .btn .btn--info} [DOI](https://doi.org/10.1073/pnas.2009864117){: .btn .btn--warning}
 
@@ -62,7 +66,7 @@ toc_icon: "feather-alt"
 
 **27\.** 	Vitousek, M. N., **Taff, C. C.**, Stedman, J.§, Zimmer, C., Ardia, D. R., Salzman, T. C.§, & Winkler, D. W. 2018. The lingering impact of stress: brief acute glucocorticoid exposure has sustained, dose-dependent effects on reproduction. *Proceedings of the Royal Society of London, B*. [PDF](https://drive.google.com/file/d/1Dpz9qjtY3WCcvFqglSs__7xqf9Poug-c/view){: .btn .btn--success} [Data + Code](https://datadryad.org/stash/dataset/doi:10.5061/dryad.s24121t){: .btn .btn--info} [DOI](https://doi.org/10.1098/rspb.2018.0722){: .btn .btn--warning}
 
-**26\.** 	**Taff, C. C.**, Zimmer, C., & Vitousek, M. N. 2018. Efficacy of negative feedback predicts recovery from acute physiological stressors. *Biology Letters*. [PDF](https://drive.google.com/file/d/1QwaBVQecVSBofI1P6NF9xTI4SKU0ewxO/view){: .btn .btn--success} [Data + Code](https://datadryad.org/stash/dataset/doi:10.5061/dryad.v00q39g){: .btn .btn--info} [DOI](https://doi.org/10.1098/rsbl.2018.0131){: .btn .btn--warning}
+**26\.** 	**Taff, C. C.**, Zimmer, C., & Vitousek, M. N. 2018. Efficacy of negative feedback in the HPA axis predicts recovery from acute physiological stressors. *Biology Letters*. [PDF](https://drive.google.com/file/d/1QwaBVQecVSBofI1P6NF9xTI4SKU0ewxO/view){: .btn .btn--success} [Data + Code](https://datadryad.org/stash/dataset/doi:10.5061/dryad.v00q39g){: .btn .btn--info} [DOI](https://doi.org/10.1098/rsbl.2018.0131){: .btn .btn--warning}
 
 **25\.** 	Townsend, A. K., Frett, B.§, McGarvey, A.§, & **Taff, C. C.** 2018. Where do winter crows go? Characterizing partial migration with satellite telemetry, stable isotopes, and molecular markers. *The Auk: Ornithological Advances*. [PDF](https://drive.google.com/file/d/1x8yWKr0zK_PzXgBmybcZe6UwoixCos3L/view){: .btn .btn--success} [DOI](https://doi.org/10.1642/AUK-18-23.1){: .btn .btn--warning}
 
@@ -134,20 +138,22 @@ toc_icon: "feather-alt"
 
 ### Manuscripts in Review
 
-
 **Taff, C. C.**, & Freeman-Gallant, C. R. Female ornamentation, incubation behavior, and reproductive success in a wild bird.
 
-**Taff, C. C.**, Zimmer, C., Houtz, J.δ, Smee, M., Hendry, T., Scheck, D.§, Ryan, T.δ, Vitousek, M. N. Plumage manipulation alters social interactions, physiology, and reproductive success in female tree swallows. [Preprint](https://doi.org/10.1101/826719){: .btn .btn--primary}
+Wheeler, S., **Taff, C. C.**, Reisen, B., & Townsend, A. K. Nesting behavior increases interactions between mosquitoes and American Crows, a highly competent West Nile Virus host.
 
+Injaian, A. S., Uehling, J. J.δ, **Taff, C. C.**, & Vitousek, M. N. Experimental investigation of the effects of artificial light at night on avian parental behavior, offspring glucocorticoids, and reproductive success.
 
-### Manuscripts in Preparation
+### Manuscripts in Preparation (full draft available)
 
-**Taff, C. C.**, Smee, M., Hendry, T., Zimmer, C., & Vitousek, M. N. Experimental manipulation of circulating corticosterone and perceived predation risk do not result in an altered microbiome in a wild bird.
+**Taff, C. C.**, Zimmer, C., Ryan, T. R.δ, Chang van Ooordt, D.δ, Aborn, D. A., Johnson, L. S., Rose, A. P., & Vitousek, M. N. Individual variation in natural or manipulated corticosterone does not covary with circulating glucose in a wild bird.
+
+**Taff, C. C.**, Johnson, B.§, Anker, A. T.§, Rodriguez, A. M.§, Houtz, J. L.δ, Uehling, J. J.δ, & Vitousek, M. N. Is there a trade-off between the quality of nest grown feathers and pace of development in tree swallows? 
 
 Hallinger, K. K., Pegan, T. M.δ, Andersen, M. J., Ardia, D. R., Belmaker, A., Chang van Oordt, D.δ, Ferretti, V., Forsman, A. M., Gaul, J. R., Llambias, P. E., Orzechowski, S. C., Shipley, J. R., Stager, M., **Taff, C. C.**, Uehling, J. J.δ, Verhoeven, M., Vitousek, M., Wilson, M., Yoon, H. S., Wrege, P. H., & Winker, D. W. Comparing the reproductive performance of dispersers vs. non-dispersers: a point-of-settlement approach to understanding the diversity of tree swallow dispersal strategies in a continuous mainland environment.
 
 Shipley, J. R., Twining, C. W., **Taff, C. C.**, Vitousek, M. N., & Winkler, D. W. Archetype or plastic phenotype: The effects of early life developmental conditions on thermogenic capacity and allocation to growth.
 
-Wheeler, S., **Taff, C. C.**, Reisen, B., & Townsend, A. K. Nesting behavior increases interactions between mosquitoes and American Crows, a highly competent West Nile Virus host.
+
 
 
