@@ -17,11 +17,15 @@ toc_icon: "feather-alt"
 ### Peer-Reviewed Articles
 *§ undergraduate co-authors; δ graduate student co-authors; † equal contribution*
 
+**In Revision After Initial Decision**
+
+**Taff, C. C.**, Zimmer, C., Houtz, J.δ, Smee, M., Hendry, T., Scheck, D.§, Ryan, T.δ, Vitousek, M. N. Plumage manipulation alters associations between social behavior, physiology, internal microbiome, and fitness. *Animal Behavior*. [Preprint](https://doi.org/10.1101/826719){: .btn .btn--primary}
+
+**Taff, C. C.**, & Freeman-Gallant, C. R. Female ornamentation, incubation behavior, and reproductive success in a wild bird. *Behavioral Ecology & Sociobiology*.
+
 **2021**
 
-**46\.** **Taff, C. C.**, Zimmer, C., Houtz, J.δ, Smee, M., Hendry, T., Scheck, D.§, Ryan, T.δ, Vitousek, M. N. *Accepted*. Plumage manipulation alters associations between social behavior, physiology, internal microbiome, and fitness. *Animal Behavior*. [Preprint](https://doi.org/10.1101/826719){: .btn .btn--primary}
-
-**45\.** 	Odom, K. J., Araya-Salas, M., Morano, J. L., Ligon, R. A., Leighton, G. M., **Taff, C. C.**, Dalziell, A. H., Billings, A. C., Germain, R. R., Pardo, M.δ, Guimarāes de Andrade, L., Hedwig, D., Keen, S. C.δ, Shiu, Y., Charif, R. A., Webster, M. S., & Rice, A. N. *Accepted*. Comparative bioacoustics: a roadmap for quantifying and comparing animal sounds across diverse taxa. *Biological Reviews*.
+**45\.** 	Odom, K. J., Araya-Salas, M., Morano, J. L., Ligon, R. A., Leighton, G. M., **Taff, C. C.**, Dalziell, A. H., Billings, A. C., Germain, R. R., Pardo, M.δ, Guimarāes de Andrade, L., Hedwig, D., Keen, S. C.δ, Shiu, Y., Charif, R. A., Webster, M. S., & Rice, A. N. *Accepted*. Comparative bioacoustics: a roadmap for quantifying and comparing animal sounds across diverse taxa. *Biological Reviews*. [PDF](https://drive.google.com/file/d/1D2teyVDneuARwuI0a2IEd4PqWEW1LuqB/view?usp=sharing){: .btn .btn--success} [DOI](https://doi.org/10.1111/brv.12695){: .btn .btn--warning}
 
 **2020**
 
@@ -137,8 +141,6 @@ toc_icon: "feather-alt"
 
 
 ### Manuscripts in Review
-
-**Taff, C. C.**, & Freeman-Gallant, C. R. Female ornamentation, incubation behavior, and reproductive success in a wild bird.
 
 Wheeler, S., **Taff, C. C.**, Reisen, B., & Townsend, A. K. Nesting behavior increases interactions between mosquitoes and American Crows, a highly competent West Nile Virus host.
 
