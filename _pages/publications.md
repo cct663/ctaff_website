@@ -19,9 +19,11 @@ toc_icon: "feather-alt"
 
 **In Revision After Initial Decision**
 
-
-
 **Taff, C. C.**, & Freeman-Gallant, C. R. Female ornamentation, incubation behavior, and reproductive success in a wild bird. *Behavioral Ecology & Sociobiology*.
+
+Wheeler, S., **Taff, C. C.**, Reisen, B., & Townsend, A. K. Nesting behavior increases interactions between mosquitoes and American Crows, a highly competent West Nile Virus host. *Parasites & Vectors*.
+
+Injaian, A. S., Uehling, J. J.δ, **Taff, C. C.**, & Vitousek, M. N. Experimental investigation of the effects of artificial light at night on avian parental behavior, offspring glucocorticoids, and reproductive success. *Integrative and Comparative Biology*.
 
 **2021**
 
@@ -144,15 +146,11 @@ toc_icon: "feather-alt"
 
 ### Manuscripts in Review
 
-Wheeler, S., **Taff, C. C.**, Reisen, B., & Townsend, A. K. Nesting behavior increases interactions between mosquitoes and American Crows, a highly competent West Nile Virus host.
-
-Injaian, A. S., Uehling, J. J.δ, **Taff, C. C.**, & Vitousek, M. N. Experimental investigation of the effects of artificial light at night on avian parental behavior, offspring glucocorticoids, and reproductive success.
-
-### Manuscripts in Preparation (full draft available)
-
 **Taff, C. C.**, Zimmer, C., Ryan, T. R.δ, Chang van Ooordt, D.δ, Aborn, D. A., Johnson, L. S., Rose, A. P., & Vitousek, M. N. Individual variation in natural or manipulated corticosterone does not covary with circulating glucose in a wild bird.
 
-**Taff, C. C.**, Johnson, B.§, Anker, A. T.§, Rodriguez, A. M.§, Houtz, J. L.δ, Uehling, J. J.δ, & Vitousek, M. N. Is there a trade-off between the quality of nest grown feathers and pace of development in tree swallows? 
+**Taff, C. C.**, Johnson, B.§, Anker, A. T.§, Rodriguez, A. M.§, Houtz, J. L.δ, Uehling, J. J.δ, & Vitousek, M. N. Investigating a trade-off between the quality of nest grown feathers and pace of development in an altricial bird.
+
+### Manuscripts in Preparation (full draft available)
 
 Hallinger, K. K., Pegan, T. M.δ, Andersen, M. J., Ardia, D. R., Belmaker, A., Chang van Oordt, D.δ, Ferretti, V., Forsman, A. M., Gaul, J. R., Llambias, P. E., Orzechowski, S. C., Shipley, J. R., Stager, M., **Taff, C. C.**, Uehling, J. J.δ, Verhoeven, M., Vitousek, M., Wilson, M., Yoon, H. S., Wrege, P. H., & Winker, D. W. Comparing the reproductive performance of dispersers vs. non-dispersers: a point-of-settlement approach to understanding the diversity of tree swallow dispersal strategies in a continuous mainland environment.
 
