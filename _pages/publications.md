@@ -17,6 +17,10 @@ toc_icon: "feather-alt"
 ### Peer-Reviewed Articles
 *§ undergraduate co-authors; δ graduate student co-authors; † equal contribution*
 
+**Preprints**
+
+**Taff, C. C.**, Johnson, B.§, Anker, A. T.§, Rodriguez, A. M.§, Houtz, J. L.δ, Uehling, J. J.δ, & Vitousek, M. N. Investigating a trade-off between the quality of nest grown feathers and pace of development in an altricial bird. [Preprint](https://www.biorxiv.org/content/10.1101/2021.04.07.438834v1){: .btn .btn--primary}
+
 **In Revision After Initial Decision**
 
 **Taff, C. C.**, & Freeman-Gallant, C. R. Female ornamentation, incubation behavior, and reproductive success in a wild bird. *Behavioral Ecology & Sociobiology*.
@@ -148,7 +152,6 @@ Injaian, A. S., Uehling, J. J.δ, **Taff, C. C.**, & Vitousek, M. N. Experimenta
 
 **Taff, C. C.**, Zimmer, C., Ryan, T. R.δ, Chang van Ooordt, D.δ, Aborn, D. A., Johnson, L. S., Rose, A. P., & Vitousek, M. N. Individual variation in natural or manipulated corticosterone does not covary with circulating glucose in a wild bird.
 
-**Taff, C. C.**, Johnson, B.§, Anker, A. T.§, Rodriguez, A. M.§, Houtz, J. L.δ, Uehling, J. J.δ, & Vitousek, M. N. Investigating a trade-off between the quality of nest grown feathers and pace of development in an altricial bird.
 
 ### Manuscripts in Preparation (full draft available)
 
