@@ -23,13 +23,13 @@ toc_icon: "feather-alt"
 
 **In Revision After Initial Decision**
 
-**Taff, C. C.**, & Freeman-Gallant, C. R. Female ornamentation, incubation behavior, and reproductive success in a wild bird. *Behavioral Ecology & Sociobiology*.
-
 Wheeler, S., **Taff, C. C.**, Reisen, B., & Townsend, A. K. Nesting behavior increases interactions between mosquitoes and American Crows, a highly competent West Nile Virus host. *Parasites & Vectors*.
 
-Injaian, A. S., Uehling, J. J.δ, **Taff, C. C.**, & Vitousek, M. N. Experimental investigation of the effects of artificial light at night on avian parental behavior, offspring glucocorticoids, and reproductive success. *Integrative and Comparative Biology*.
-
 **2021**
+
+**48\.** **Taff, C. C.**, & Freeman-Gallant, C. R. *Accepted.* Female ornamentation, incubation behavior, and reproductive success in a wild bird. *Behavioral Ecology & Sociobiology*.
+
+**47\.** Injaian, A. S., Uehling, J. J.δ, **Taff, C. C.**, & Vitousek, M. N. *Accepted.* Experimental investigation of the effects of artificial light at night on avian parental behavior, offspring glucocorticoids, and reproductive success. *Integrative and Comparative Biology*.
 
 **46\.** **Taff, C. C.**, Zimmer, C., Houtz, J.δ, Smee, M., Hendry, T., Scheck, D.§, Ryan, T.δ, Vitousek, M. N. *In Press*. Plumage manipulation alters associations between social behavior, physiology, internal microbiome, and fitness. *Animal Behavior*. [Preprint](https://doi.org/10.1101/826719){: .btn .btn--primary}
 
