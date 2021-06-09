@@ -21,11 +21,9 @@ toc_icon: "feather-alt"
 
 **Taff, C. C.**, Johnson, B.§, Anker, A. T.§, Rodriguez, A. M.§, Houtz, J. L.δ, Uehling, J. J.δ, & Vitousek, M. N. Investigating a trade-off between the quality of nest grown feathers and pace of development in an altricial bird. [Preprint](https://www.biorxiv.org/content/10.1101/2021.04.07.438834v1){: .btn .btn--primary}
 
-**In Revision After Initial Decision**
-
-Wheeler, S., **Taff, C. C.**, Reisen, B., & Townsend, A. K. Nesting behavior increases interactions between mosquitoes and American Crows, a highly competent West Nile Virus host. *Parasites & Vectors*.
-
 **2021**
+
+**49\.** Wheeler, S., **Taff, C. C.**, Reisen, B., & Townsend, A. K. *Accepted* Nesting behavior increases interactions between mosquitoes and American Crows, a highly competent West Nile Virus host. *Parasites & Vectors*.
 
 **48\.** **Taff, C. C.**, & Freeman-Gallant, C. R. *Accepted.* Female ornamentation, incubation behavior, and reproductive success in a wild bird. *Behavioral Ecology & Sociobiology*.
 
