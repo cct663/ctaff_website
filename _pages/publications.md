@@ -23,7 +23,7 @@ toc_icon: "feather-alt"
 
 **2021**
 
-**49\.** Wheeler, S., **Taff, C. C.**, Reisen, B., & Townsend, A. K. *Accepted* Nesting behavior increases interactions between mosquitoes and American Crows, a highly competent West Nile Virus host. *Parasites & Vectors*.
+**49\.** Wheeler, S., **Taff, C. C.**, Reisen, B., & Townsend, A. K. *Accepted.* Nesting behavior increases interactions between mosquitoes and American Crows, a highly competent West Nile Virus host. *Parasites & Vectors*.
 
 **48\.** **Taff, C. C.**, & Freeman-Gallant, C. R. *Accepted.* Female ornamentation, incubation behavior, and reproductive success in a wild bird. *Behavioral Ecology & Sociobiology*.
 
