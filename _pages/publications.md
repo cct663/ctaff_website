@@ -23,13 +23,13 @@ toc_icon: "feather-alt"
 
 **2021**
 
-**49\.** Wheeler, S., **Taff, C. C.**, Reisen, B., & Townsend, A. K. *Accepted.* Nesting behavior increases interactions between mosquitoes and American Crows, a highly competent West Nile Virus host. *Parasites & Vectors*.
+**49\.** Injaian, A. S., Uehling, J. J.δ, **Taff, C. C.**, & Vitousek, M. N. *In Press*. Experimental investigation of the effects of artificial light at night on avian parental behavior, offspring glucocorticoids, and reproductive success. *Integrative and Comparative Biology*.
 
-**48\.** **Taff, C. C.**, & Freeman-Gallant, C. R. *Accepted.* Female ornamentation, incubation behavior, and reproductive success in a wild bird. *Behavioral Ecology & Sociobiology*.
+**48\.** **Taff, C. C.**, & Freeman-Gallant, C. R. 2021. Female ornamentation, incubation behavior, and reproductive success in a wild bird. *Behavioral Ecology & Sociobiology*. [PDF](https://drive.google.com/file/d/1gA8VYMSJQaSqzXpihnuqnPrSC6x0ltva/view?usp=sharing){: .btn .btn--success} [DOI](https://link.springer.com/article/10.1007/s00265-021-03033-0){: .btn .btn--warning} [Data + Code](https://data.mendeley.com/datasets/8mv667h87t/1){: .btn .btn--info}
 
-**47\.** Injaian, A. S., Uehling, J. J.δ, **Taff, C. C.**, & Vitousek, M. N. *Accepted.* Experimental investigation of the effects of artificial light at night on avian parental behavior, offspring glucocorticoids, and reproductive success. *Integrative and Comparative Biology*.
+**47\.** Wheeler, S., **Taff, C. C.**, Reisen, B., & Townsend, A. K. 2021. Nesting behavior increases interactions between mosquitoes and American Crows, a highly competent West Nile Virus host. *Parasites & Vectors*. [PDF](https://drive.google.com/file/d/1jbAUuJC9Yglda_gnJVB2EEDt4D_5JYhm/view?usp=sharing){: .btn .btn--success] [DOI]{https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-021-04827-x){: .btn .btn--warning}
 
-**46\.** **Taff, C. C.**, Zimmer, C., Houtz, J.δ, Smee, M., Hendry, T., Scheck, D.§, Ryan, T.δ, Vitousek, M. N. *In Press*. Plumage manipulation alters associations between social behavior, physiology, internal microbiome, and fitness. *Animal Behavior*. [Preprint](https://doi.org/10.1101/826719){: .btn .btn--primary}
+**46\.** **Taff, C. C.**, Zimmer, C., Houtz, J.δ, Smee, M., Hendry, T., Scheck, D.§, Ryan, T.δ, Vitousek, M. N. *In Press*. Plumage manipulation alters associations between social behavior, physiology, internal microbiome, and fitness. *Animal Behavior*. [PDF](https://drive.google.com/file/d/1_YESSsOgfr1POYDw31CVWvrC_T8AtQ-e/view?usp=sharing){: .btn .btn--success} [Preprint](https://doi.org/10.1101/826719){: .btn .btn--primary} [DOI](https://www.sciencedirect.com/science/article/abs/pii/S0003347221001573){: .btn .btn--warning} [Data + Code](https://data.mendeley.com/datasets/963z9x3frd/1){: .btn .btn--info}
 
 **45\.** 	Odom, K. J., Araya-Salas, M., Morano, J. L., Ligon, R. A., Leighton, G. M., **Taff, C. C.**, Dalziell, A. H., Billings, A. C., Germain, R. R., Pardo, M.δ, Guimarāes de Andrade, L., Hedwig, D., Keen, S. C.δ, Shiu, Y., Charif, R. A., Webster, M. S., & Rice, A. N. 2021. Comparative bioacoustics: a roadmap for quantifying and comparing animal sounds across diverse taxa. *Biological Reviews*. [PDF](https://drive.google.com/file/d/1D2teyVDneuARwuI0a2IEd4PqWEW1LuqB/view?usp=sharing){: .btn .btn--success} [DOI](https://doi.org/10.1111/brv.12695){: .btn .btn--warning}
 
