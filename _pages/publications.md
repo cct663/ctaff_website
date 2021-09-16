@@ -14,12 +14,22 @@ toc_icon: "feather-alt"
 ### Google Scholar Profile
 [Click here](https://scholar.google.com/citations?user=PEw-C7MAAAAJ&hl=en&oi=ao)
 
+### Manuscripts in Review
+
+**Taff, C. C.** Functions for simulating data and designing studies of physiological flexibility in the acute glucocorticoid response to stressors. [Preprint](https://doi.org/10.32942/osf.io/fk29q){: .btn .btn--primary} [R Package]{https://github.com/cct663/simcoRt){: .btn .btn--info} [Data + Code](https://github.com/cct663/speed_vs_scope){.btn .btn--info}
+
+**Taff, C. C.**, Zimmer, C., Ryan, T. R.δ, Chang van Ooordt, D.δ, Aborn, D. A., Johnson, L. S., Rose, A. P., & Vitousek, M. N. Individual variation in natural or manipulated corticosterone does not covary with circulating glucose in a wild bird.
+
+Shipley, J. R., Twining, C. W., **Taff, C. C.**, Vitousek, M. N., & Winkler, D. W. Developmental environments can shape adult body size, but selection filters the response to climate change.
+
+**Taff, C. C.**, Johnson, B.§, Anker, A. T.§, Rodriguez, A. M.§, Houtz, J. L.δ, Uehling, J. J.δ, & Vitousek, M. N. Investigating a trade-off between the quality of nest grown feathers and pace of development in an altricial bird. [Preprint](https://www.biorxiv.org/content/10.1101/2021.04.07.438834v1){: .btn .btn--primary}
+
 ### Peer-Reviewed Articles
 *§ undergraduate co-authors; δ graduate student co-authors; † equal contribution*
 
 **2021**
 
-**49\.** Injaian, A. S., Uehling, J. J.δ, **Taff, C. C.**, & Vitousek, M. N. *In Press*. Experimental investigation of the effects of artificial light at night on avian parental behavior, offspring glucocorticoids, and reproductive success. *Integrative and Comparative Biology*.
+**49\.** Injaian, A. S., Uehling, J. J.δ, **Taff, C. C.**, & Vitousek, M. N. 2021. Effects of artificial light at night on avian provisioning, corticosterone, and reproductive success. *Integrative and Comparative Biology*. [PDF](https://drive.google.com/file/d/1j8LmUOkyioCer9aKs_3JMYLml_pUKaxx/view?usp=sharing){: .btn .btn--success} [DOI](https://academic-oup-com.proxy.library.cornell.edu/icb/advance-article/doi/10.1093/icb/icab055/6281100?searchresult=1){.btn .btn--warning}
 
 **48\.** **Taff, C. C.**, & Freeman-Gallant, C. R. 2021. Female ornamentation, incubation behavior, and reproductive success in a wild bird. *Behavioral Ecology & Sociobiology*. [PDF](https://drive.google.com/file/d/1gA8VYMSJQaSqzXpihnuqnPrSC6x0ltva/view?usp=sharing){: .btn .btn--success} [DOI](https://link.springer.com/article/10.1007/s00265-021-03033-0){: .btn .btn--warning} [Data + Code](https://data.mendeley.com/datasets/8mv667h87t/1){: .btn .btn--info}
 
@@ -140,15 +150,6 @@ toc_icon: "feather-alt"
 
 **1\.** 	Freeman-Gallant, C. R., **Taff, C. C.**, Morin, D.§, Dunn, P. O., Whittingham, L. A. & Tsang, S. M.§ 2010. Sexual selection, multiple male ornaments, and age- and condition-dependent signaling in the common yellowthroat. *Evolution*. [PDF](https://drive.google.com/file/d/0B8ePJPhFoSk4YnZYc083R3NCY28/edit){: .btn .btn--success} [DOI](https://doi.org/10.1111/j.1558-5646.2009.00873.x){: .btn .btn--warning} [Science Now](https://drive.google.com/file/d/0B8ePJPhFoSk4RnpsUHlMVTU0dlU/edit){: .btn .btn--danger}
 
-
-
-### Manuscripts in Review
-
-**Taff, C. C.**, Zimmer, C., Ryan, T. R.δ, Chang van Ooordt, D.δ, Aborn, D. A., Johnson, L. S., Rose, A. P., & Vitousek, M. N. Individual variation in natural or manipulated corticosterone does not covary with circulating glucose in a wild bird.
-
-Shipley, J. R., Twining, C. W., **Taff, C. C.**, Vitousek, M. N., & Winkler, D. W. Developmental environments can shape adult body size, but selection filters the response to climate change.
-
-**Taff, C. C.**, Johnson, B.§, Anker, A. T.§, Rodriguez, A. M.§, Houtz, J. L.δ, Uehling, J. J.δ, & Vitousek, M. N. Investigating a trade-off between the quality of nest grown feathers and pace of development in an altricial bird. [Preprint](https://www.biorxiv.org/content/10.1101/2021.04.07.438834v1){: .btn .btn--primary}
 
 ### What I'm working on! (only complete drafts are listed)
 
