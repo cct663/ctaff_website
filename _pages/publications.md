@@ -16,7 +16,7 @@ toc_icon: "feather-alt"
 
 ### Manuscripts in Review
 
-**Taff, C. C.** Functions for simulating data and designing studies of physiological flexibility in the acute glucocorticoid response to stressors. [Preprint](https://doi.org/10.32942/osf.io/fk29q){: .btn .btn--primary} [R Package](https://github.com/cct663/simcoRt){: .btn .btn--info} [Data + Code](https://github.com/cct663/speed_vs_scope){.btn .btn--info}
+**Taff, C. C.** Functions for simulating data and designing studies of physiological flexibility in the acute glucocorticoid response to stressors. [Preprint](https://doi.org/10.32942/osf.io/fk29q){: .btn .btn--primary} [R Package](https://github.com/cct663/simcoRt){: .btn .btn--info} [Data + Code](https://github.com/cct663/speed_vs_scope){: .btn .btn--info}
 
 **Taff, C. C.**, Zimmer, C., Ryan, T. R.δ, Chang van Ooordt, D.δ, Aborn, D. A., Johnson, L. S., Rose, A. P., & Vitousek, M. N. Individual variation in natural or manipulated corticosterone does not covary with circulating glucose in a wild bird.
 
