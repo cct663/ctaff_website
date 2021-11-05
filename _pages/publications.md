@@ -15,6 +15,7 @@ toc_icon: "feather-alt"
 [Click here](https://scholar.google.com/citations?user=PEw-C7MAAAAJ&hl=en&oi=ao)
 
 ### Manuscripts in Review
+*§ undergraduate co-authors; δ graduate student co-authors; † equal contribution*
 
 **Taff, C. C.** Functions for simulating data and designing studies of physiological flexibility in the acute glucocorticoid response to stressors. [Preprint](https://doi.org/10.32942/osf.io/fk29q){: .btn .btn--primary} [R Package](https://github.com/cct663/simcoRt){: .btn .btn--info} [Data + Code](https://github.com/cct663/speed_vs_scope){: .btn .btn--info}
 
@@ -29,7 +30,6 @@ Shipley, J. R., Twining, C. W., **Taff, C. C.**, Vitousek, M. N., & Winkler, D. 
 Chang van Oordt, D.δ, **Taff, C. C.**, Ryan, T. A., & Vitousek, M. N. Timing of breeding reveals the trade-offs between constitutive immue investment and life history in a migratory bird.
 
 ### Peer-Reviewed Articles
-*§ undergraduate co-authors; δ graduate student co-authors; † equal contribution*
 
 **2021**
 
