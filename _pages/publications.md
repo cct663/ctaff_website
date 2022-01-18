@@ -31,7 +31,7 @@ Chang van Oordt, D.δ, **Taff, C. C.**, Ryan, T. A., & Vitousek, M. N. Timing of
 
 **2022**
 
-**50\.** **Taff, C. C.**, Zimmer, C., Ryan, T. R.δ, Chang van Ooordt, D.δ, Aborn, D. A., Johnson, L. S., Rose, A. P., & Vitousek, M. N. *In Press*. Individual variation in natural or manipulated corticosterone does not covary with circulating glucose in a wild bird. *Journal of Experimental Biology*
+**50\.** **Taff, C. C.**, Zimmer, C., Ryan, T. A.δ, Chang van Oordt, D.δ, Aborn, D. A., Johnson, L. S., Rose, A. P., & Vitousek, M. N. *In Press*. Individual variation in natural or manipulated corticosterone does not covary with circulating glucose in a wild bird. *Journal of Experimental Biology*
 
 **2021**
 
