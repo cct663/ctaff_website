@@ -19,19 +19,23 @@ toc_icon: "feather-alt"
 
 **Taff, C. C.** Functions for simulating data and designing studies of physiological flexibility in the acute glucocorticoid response to stressors. [Preprint](https://doi.org/10.32942/osf.io/fk29q){: .btn .btn--primary} [R Package](https://github.com/cct663/simcoRt){: .btn .btn--info} [Data + Code](https://github.com/cct663/speed_vs_scope){: .btn .btn--info}
 
+Zimmer, C., **Taff, C. C.**, Ardia, D. R., Rosvall, K. A., Bentz, A. B., Taylor, A. R., Johnson, L. S., & Vitousek, M. N. Differential gene expression in the tree swallow brain is associated with environment and within-individual and among-population variation in glucocorticoid levels.
+
 **Taff, C. C.**, Wingfield, J. C., & Vitousek, M. N. Environmental variability and longevity predict the speed of the acute glucocorticoid response across birds. [Preprint](https://www.biorxiv.org/content/10.1101/2021.10.18.464833v1){: .btn .btn--primary} *Invited for special issue of Hormones & Behavior*
 
 Shipley, J. R., Twining, C. W., **Taff, C. C.**, Vitousek, M. N., & Winkler, D. W. Developmental environments can shape adult body size, but selection filters the response to climate change.
 
-**Taff, C. C.**, Johnson, B.§, Anker, A. T.§, Rodriguez, A. M.§, Houtz, J. L.δ, Uehling, J. J.δ, & Vitousek, M. N. Investigating a trade-off between the quality of nest grown feathers and pace of development in an altricial bird. [Preprint](https://www.biorxiv.org/content/10.1101/2021.04.07.438834v1){: .btn .btn--primary}
+**Taff, C. C.**, Johnson, B.§, Anker, A. T.§, Rodriguez, A. M.§, Houtz, J. L.δ, Uehling, J. J.δ, & Vitousek, M. N. Investigating a trade-off between the quality of nest grown feathers and pace of development in an altricial bird. [Preprint](https://www.biorxiv.org/content/10.1101/2021.04.07.438834v1){: .btn .btn--primary} [Data + Code](https://github.com/cct663/tres_feather_density){: .btn .btn--info}
 
 Chang van Oordt, D.δ, **Taff, C. C.**, Ryan, T. A., & Vitousek, M. N. Timing of breeding reveals the trade-offs between constitutive immue investment and life history in a migratory bird.
+
+**Taff, C. C.**, Ryan, T. A., Uehling, J. J., Injaian, A. S., & Vitousek, M. N. Within-individual consistency and between-individual variation in the egg shapes of tree swallows (*Tachycinets bicolor*). [Preprint - soon](){: .btn .btn--primary} [Data + Code](https://github.com/cct663/tres_egg_shape){: .btn .btn--info}
 
 ### Peer-Reviewed Articles
 
 **2022**
 
-**50\.** **Taff, C. C.**, Zimmer, C., Ryan, T. A.δ, Chang van Oordt, D.δ, Aborn, D. A., Johnson, L. S., Rose, A. P., & Vitousek, M. N. *In Press*. Individual variation in natural or manipulated corticosterone does not covary with circulating glucose in a wild bird. *Journal of Experimental Biology*
+**50\.** **Taff, C. C.**, Zimmer, C., Ryan, T. A.δ, Chang van Oordt, D.δ, Aborn, D. A., Johnson, L. S., Rose, A. P., & Vitousek, M. N. *In Press*. Individual variation in natural or manipulated corticosterone does not covary with circulating glucose in a wild bird. *Journal of Experimental Biology*. [PDF - soon](){: .btn .btn--success} [DOI](https://doi.org/10.1242/jeb.243262){: .btn .btn--warning} [Data + Code](https://github.com/cct663/glucose_cort){: .btn .btn--info}
 
 **2021**
 
@@ -157,15 +161,20 @@ Chang van Oordt, D.δ, **Taff, C. C.**, Ryan, T. A., & Vitousek, M. N. Timing of
 **1\.** 	Freeman-Gallant, C. R., **Taff, C. C.**, Morin, D.§, Dunn, P. O., Whittingham, L. A. & Tsang, S. M.§ 2010. Sexual selection, multiple male ornaments, and age- and condition-dependent signaling in the common yellowthroat. *Evolution*. [PDF](https://drive.google.com/file/d/0B8ePJPhFoSk4YnZYc083R3NCY28/edit){: .btn .btn--success} [DOI](https://doi.org/10.1111/j.1558-5646.2009.00873.x){: .btn .btn--warning} [Science Now](https://drive.google.com/file/d/0B8ePJPhFoSk4RnpsUHlMVTU0dlU/edit){: .btn .btn--danger}
 
 
-### What I'm working on! Only projects with full draft manuscripts are listed.
+### What I'm working on! 
+**Only projects with all data collected and lab work complete are listed. At writing or revising stage.**
 
 Hallinger, K. K., Pegan, T. M.δ, Andersen, M. J., Ardia, D. R., Belmaker, A., Chang van Oordt, D.δ, Ferretti, V., Forsman, A. M., Gaul, J. R., Llambias, P. E., Orzechowski, S. C., Shipley, J. R., Stager, M., **Taff, C. C.**, Uehling, J. J.δ, Verhoeven, M., Vitousek, M., Wilson, M., Yoon, H. S., Wrege, P. H., & Winker, D. W. Comparing the reproductive performance of dispersers vs. non-dispersers: a point-of-settlement approach to understanding the diversity of tree swallow dispersal strategies in a continuous mainland environment.
 
-Zimmer, C., Ardia, D. R., Rosvall, K. A., Bentz, A. B., Taylor, A. R., Johnson, L. S., **Taff, C. C.**, & Vitousek, M. N. Differential glucocorticoid receptor expression in the tree swallow brain is associated with individual and population variation in stress physiology.
-
 **Taff, C. C.**, Zimmer, C., Uehling, J., Ryan, T. A., Chang van Oordt, D., Houtz, J., Injaian, A., & Vitousek, M. N. Joint effects of social interactions and environmental challenges on physiology, internal microbiome, and reproductive performance in a wild bird.
 
-**Taff, C. C.**, Ryan, T. A., Injaian, A. S., Uehling, J. J., & Vitousek, M. N. Within-individual consistency and between-individual variation in the egg shapes of tree swallows (*Tachycinets bicolor*).
+**Taff, C. C.**, McNew, S. M., Campagna, L., & Vitousek, M. N. Brief increases in corticosterone result in immediate and lasting changes to DNA methylation in a wild bird.
+
+**Taff, C. C.**, & Shipley, R. J. Sensitivity to cold snaps and heat waves during breeding across space and time in 24 common North American birds.
+
+**Taff, C. C.**, Smee, M., Houtz, J. L., Zimmer, C., & Vitousek, M. N. Experimental manipulation of circulating corticosterone and perceived predation risk do not result in an altered microbiome in a wild bird.
+
+Vitousek, M. N., **Taff, C. C.**, et al. Weather conditions influence expression of acute corticosterone responses over multiple time scales in an aerial insectivore.
 
 Suh, Y. A., **Taff, C. C.**, Tringali, A., & Fitzpatrick, J. W. Prospecting is physiologically costly in a resident cooperative breeder. 
 
