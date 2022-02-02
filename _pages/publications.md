@@ -19,7 +19,7 @@ toc_icon: "feather-alt"
 
 **Taff, C. C.** Functions for simulating data and designing studies of physiological flexibility in the acute glucocorticoid response to stressors. [Preprint](https://doi.org/10.32942/osf.io/fk29q){: .btn .btn--primary} [R Package](https://github.com/cct663/simcoRt){: .btn .btn--info} [Data + Code](https://github.com/cct663/speed_vs_scope){: .btn .btn--info}
 
-Zimmer, C., **Taff, C. C.**, Ardia, D. R., Rosvall, K. A., Bentz, A. B., Taylor, A. R., Johnson, L. S., & Vitousek, M. N. Differential gene expression in the tree swallow brain is associated with environment and within-individual and among-population variation in glucocorticoid levels.
+Zimmer, C., **Taff, C. C.**, Ardia, D. R., Rosvall, K. A., Kallenberg, C., Bentz, A. B., Taylor, A. R., Johnson, L. S., & Vitousek, M. N. Differential gene expression in the tree swallow brain is associated with environment and within-individual and among-population variation in glucocorticoid levels.
 
 **Taff, C. C.**, Wingfield, J. C., & Vitousek, M. N. Environmental variability and longevity predict the speed of the acute glucocorticoid response across birds. [Preprint](https://www.biorxiv.org/content/10.1101/2021.10.18.464833v1){: .btn .btn--primary} *Invited for special issue of Hormones & Behavior*
 
