@@ -33,15 +33,15 @@ Shipley, J. R., Twining, C. W., **Taff, C. C.**, Vitousek, M. N., & Winkler, D. 
 
 Chang van Oordt, D.δ, **Taff, C. C.**, Ryan, T. A.δ, & Vitousek, M. N. Timing of breeding reveals the trade-offs between constitutive immue investment and life history in a migratory bird.
 
-**Taff, C. C.**, Ryan, T. A.δ, Uehling, J. J.δ, Injaian, A. S., & Vitousek, M. N. Within-individual consistency and between-individual variation in the egg shapes of tree swallows (*Tachycinets bicolor*). [Preprint - soon](){: .btn .btn--primary} [Data + Code](https://github.com/cct663/tres_egg_shape){: .btn .btn--info}
+**Taff, C. C.**, Ryan, T. A.δ, Uehling, J. J.δ, Injaian, A. S., & Vitousek, M. N. Within-individual consistency and between-individual variation in the egg shapes of tree swallows (*Tachycineta bicolor*). [Preprint - soon](){: .btn .btn--primary} [Data + Code](https://github.com/cct663/tres_egg_shape){: .btn .btn--info}
 
 ### Peer-Reviewed Articles
 
 **2022**
 
-**51\.** **Taff, C. C.**, Johnson, B.§, Anker, A. T.§, Rodriguez, A. M.§, Houtz, J. L.δ, Uehling, J. J.δ, & Vitousek, M. N. No apparent trade-off between teh quality of nest grown feathers and time spent in the nest in an aerial insectivore, the tree swallow. *Ornithology*. [PDF - soon](){: .btn .btn--success} [DOI - soon](){: .btn .btn--warning} [Preprint](https://www.biorxiv.org/content/10.1101/2021.04.07.438834v1){: .btn .btn--primary} [Data + Code](https://github.com/cct663/tres_feather_density){: .btn .btn--info}
+**51\.** **Taff, C. C.**, Johnson, B.§, Anker, A. T.§, Rodriguez, A. M.§, Houtz, J. L.δ, Uehling, J. J.δ, & Vitousek, M. N. No apparent trade-off between the quality of nest grown feathers and time spent in the nest in an aerial insectivore, the tree swallow. *Ornithology*. [PDF - soon](){: .btn .btn--success} [DOI - soon](){: .btn .btn--warning} [Preprint](https://www.biorxiv.org/content/10.1101/2021.04.07.438834v1){: .btn .btn--primary} [Data + Code](https://github.com/cct663/tres_feather_density){: .btn .btn--info}
 
-**50\.** **Taff, C. C.**, Zimmer, C., Ryan, T. A.δ, Chang van Oordt, D.δ, Aborn, D. A., Johnson, L. S., Rose, A. P., & Vitousek, M. N. *In Press*. Individual variation in natural or manipulated corticosterone does not covary with circulating glucose in a wild bird. *Journal of Experimental Biology*. [PDF](https://drive.google.com/file/d/1H-0Q7oSIePZEP6cBYDJOzdQsZEKcKJaP/view?usp=sharing){: .btn .btn--success} [DOI](https://doi.org/10.1242/jeb.243262){: .btn .btn--warning} [Data + Code](https://github.com/cct663/glucose_cort){: .btn .btn--info}
+**50\.** **Taff, C. C.**, Zimmer, C., Ryan, T. A.δ, Chang van Oordt, D.δ, Aborn, D. A., Johnson, L. S., Rose, A. P., & Vitousek, M. N. 2022. Individual variation in natural or manipulated corticosterone does not covary with circulating glucose in a wild bird. *Journal of Experimental Biology*. [PDF](https://drive.google.com/file/d/1H-0Q7oSIePZEP6cBYDJOzdQsZEKcKJaP/view?usp=sharing){: .btn .btn--success} [DOI](https://doi.org/10.1242/jeb.243262){: .btn .btn--warning} [Data + Code](https://github.com/cct663/glucose_cort){: .btn .btn--info}
 
 **2021**
 
