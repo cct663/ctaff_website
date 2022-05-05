@@ -17,8 +17,6 @@ toc_icon: "feather-alt"
 ### Manuscripts in Review or Revision
 *§ undergraduate co-authors; δ graduate student co-authors; † equal contribution; †† senior author role*
 
-Houtz, J. H.δ, **Taff, C. C.**, & Vitousek, M. N. Gut microbiome as a bioindicator of stress resilience: a reactive scope model framework.
-
 Vitousek, M. N., Houtz, J. L.δ, Pipkin, M. A.δ, Chang van Oordt, D. A.δ, Hallinger, K. K., Uehling, J. J.δ, Zimmer, C., & **Taff, C. C.††** Natural and experimental cold exposure increase the sensitivity to future stressors in a free-living songbird.
 
 Suh, Y. A.δ, **Taff, C. C.**, Tringali, A., & Fitzpatrick, J. W. Prospecting is physiologically costly in a resident cooperative breeder.
@@ -31,13 +29,15 @@ Zimmer, C., **Taff, C. C.**, Ardia, D. R., Rosvall, K. A., Kallenberg, C.§, Ben
 
 Shipley, J. R., Twining, C. W., **Taff, C. C.**, Vitousek, M. N., & Winkler, D. W. Developmental environments can shape adult body size, but selection filters the response to climate change.
 
-Chang van Oordt, D.δ, **Taff, C. C.**, Ryan, T. A.δ, & Vitousek, M. N. Timing of breeding reveals the trade-offs between constitutive immue investment and life history in a migratory bird.
-
-**Taff, C. C.**, Ryan, T. A.δ, Uehling, J. J.δ, Injaian, A. S., & Vitousek, M. N. Within-individual consistency and between-individual variation in the egg shapes of tree swallows (*Tachycineta bicolor*). [Preprint - soon](){: .btn .btn--primary} [Data + Code](https://github.com/cct663/tres_egg_shape){: .btn .btn--info}
+**Taff, C. C.**, Ryan, T. A.δ, Uehling, J. J.δ, Injaian, A. S., & Vitousek, M. N. Within-individual consistency and between-individual variation in the egg shapes of tree swallows (*Tachycineta bicolor*). [Preprint](https://www.biorxiv.org/content/10.1101/2022.02.02.478835v1){: .btn .btn--primary} [Data + Code](https://github.com/cct663/tres_egg_shape){: .btn .btn--info}
 
 ### Peer-Reviewed Articles
 
 **2022**
+
+**53\.** Houtz, J. H.δ, **Taff, C. C.**, & Vitousek, M. N. *In Press*. Gut microbiome as a bioindicator of stress resilience: a reactive scope model framework. *Integrative & Comparative Biology*.
+
+**52\.** Chang van Oordt, D.δ, **Taff, C. C.**, Ryan, T. A.δ, & Vitousek, M. N. *In Press*. Timing of breeding reveals the trade-offs between constitutive immue investment and life history in a migratory bird. *Integrative & Comparative Biology*.
 
 **51\.** **Taff, C. C.**, Johnson, B.§, Anker, A. T.§, Rodriguez, A. M.§, Houtz, J. L.δ, Uehling, J. J.δ, & Vitousek, M. N. 2022. No apparent trade-off between the quality of nest grown feathers and time spent in the nest in an aerial insectivore, the tree swallow. *Ornithology*. [PDF - soon](){: .btn .btn--success} [DOI](https://doi.org/10.1093/ornithology/ukac017){: .btn .btn--warning} [Preprint](https://www.biorxiv.org/content/10.1101/2021.04.07.438834v1){: .btn .btn--primary} [Data + Code](https://github.com/cct663/tres_feather_density){: .btn .btn--info}
 
