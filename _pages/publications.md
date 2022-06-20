@@ -25,8 +25,6 @@ Suh, Y. A.δ, **Taff, C. C.**, Tringali, A., & Fitzpatrick, J. W. Prospecting is
 
 Zimmer, C., **Taff, C. C.**, Ardia, D. R., Rosvall, K. A., Kallenberg, C.§, Bentz, A. B., Taylor, A. R., Johnson, L. S., & Vitousek, M. N. Differential gene expression in the tree swallow brain is associated with environment and within-individual and among-population variation in glucocorticoid levels.
 
-**Taff, C. C.**, Wingfield, J. C., & Vitousek, M. N. Environmental variability and longevity predict the speed of the acute glucocorticoid response across birds. [Preprint](https://www.biorxiv.org/content/10.1101/2021.10.18.464833v1){: .btn .btn--primary} *Invited for special issue of Hormones & Behavior*
-
 Shipley, J. R., Twining, C. W., **Taff, C. C.**, Vitousek, M. N., & Winkler, D. W. Developmental environments can shape adult body size, but selection filters the response to climate change.
 
 **Taff, C. C.**, Ryan, T. A.δ, Uehling, J. J.δ, Injaian, A. S., & Vitousek, M. N. Within-individual consistency and between-individual variation in the egg shapes of tree swallows (*Tachycineta bicolor*). [Preprint](https://www.biorxiv.org/content/10.1101/2022.02.02.478835v1){: .btn .btn--primary} [Data + Code](https://github.com/cct663/tres_egg_shape){: .btn .btn--info}
@@ -34,6 +32,8 @@ Shipley, J. R., Twining, C. W., **Taff, C. C.**, Vitousek, M. N., & Winkler, D. 
 ### Peer-Reviewed Articles
 
 **2022**
+
+**54\.** **Taff, C. C.**, Wingfield, J. C., & Vitousek, M. N. *In Press*. Environmental variability and longevity predict the speed of the acute glucocorticoid response across birds. *Hormones & Behavior*. [Preprint](https://www.biorxiv.org/content/10.1101/2021.10.18.464833v1){: .btn .btn--primary} 
 
 **53\.** Houtz, J. H.δ, **Taff, C. C.**, & Vitousek, M. N. *In Press*. Gut microbiome as a bioindicator of stress resilience: a reactive scope model framework. *Integrative & Comparative Biology*.
 
