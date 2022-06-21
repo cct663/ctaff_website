@@ -29,6 +29,10 @@ Shipley, J. R., Twining, C. W., **Taff, C. C.**, Vitousek, M. N., & Winkler, D. 
 
 **Taff, C. C.**, Ryan, T. A.δ, Uehling, J. J.δ, Injaian, A. S., & Vitousek, M. N. Within-individual consistency and between-individual variation in the egg shapes of tree swallows (*Tachycineta bicolor*). [Preprint](https://www.biorxiv.org/content/10.1101/2022.02.02.478835v1){: .btn .btn--primary} [Data + Code](https://github.com/cct663/tres_egg_shape){: .btn .btn--info}
 
+Gutiérrez, J.δ, **Taff, C. C.**, Tupy, S.§, Goncalves, C.§, & Knutie, S. A. Experimental effects of within-brood genetic variation on parasite resistance in a wild bird host. [Preprint](https://doi.org/10.1101/2022.05.26.493631){: .btn .btn--info}
+
+Knutie, S. A., Bertone, M., Bahouth, R.§, Webb, C.§, Mehta, M.§, Nahom, M.§, Barta, R.§, Ghai, S.§, Balenter, S., Butler, M., Kennedy, A., Reichard, B. S., **Taff, C. C.**, & Albery, G. Understanding spatiotemporal effects of food supplementation on host-parasite interactions using community-based science. [Preprint](https://doi.org/10.1101/2022.06.02.494595){: .btn .btn--info}
+
 ### Peer-Reviewed Articles
 
 **2022**
@@ -171,6 +175,12 @@ Shipley, J. R., Twining, C. W., **Taff, C. C.**, Vitousek, M. N., & Winkler, D. 
 **Only projects with all data collected and lab work complete are listed. At writing or revising stage.**
 
 Hallinger, K. K., Pegan, T. M.δ, Andersen, M. J., Ardia, D. R., Belmaker, A., Chang van Oordt, D.δ, Ferretti, V., Forsman, A. M., Gaul, J. R., Llambias, P. E., Orzechowski, S. C., Shipley, J. R., Stager, M., **Taff, C. C.**, Uehling, J. J.δ, Verhoeven, M., Vitousek, M., Wilson, M., Yoon, H. S., Wrege, P. H., & Winker, D. W. Comparing the reproductive performance of dispersers vs. non-dispersers: a point-of-settlement approach to understanding the diversity of tree swallow dispersal strategies in a continuous mainland environment.
+
+Miller, C. R.δ, **Taff, C. C.**, Uehling, J. J.δ, Rose, A. P., & Vitousek, M. N. Tree swallow provisioning behavior fluctuates with moonlight availability.
+
+Wolf, S. E.δ, Woodruff, M. J.δ, Chang van Oordt, D. A.δ, Clotfelter, E. D., Cristol, D. A., Derryberry, E. P., Ferguson, S. M., Stanback, M. T., **Taff, C. C.**, Tobin, K. J., Vitousek, M. N., Westneat, D. F., & Rosvall, K. A. Telomeres and ecogeographic variation in life history: insights on the role of shelterin proteins.
+
+Uehling, J. J.δ, **Taff, C. C.**, Houtz, J. L.δ, Becker, P. M.§, & Vitousek, M. N. Predictors and consequences of diet variation in a declining generalist aerial insectivore.
 
 **Taff, C. C.**, Zimmer, C., Uehling, J., Ryan, T. A., Chang van Oordt, D., Houtz, J., Injaian, A., & Vitousek, M. N. Joint effects of social interactions and environmental challenges on physiology, internal microbiome, and reproductive performance in a wild bird.
 
