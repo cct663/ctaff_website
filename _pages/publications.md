@@ -29,9 +29,9 @@ Shipley, J. R., Twining, C. W., **Taff, C. C.**, Vitousek, M. N., & Winkler, D. 
 
 **Taff, C. C.**, Ryan, T. A.δ, Uehling, J. J.δ, Injaian, A. S., & Vitousek, M. N. Within-individual consistency and between-individual variation in the egg shapes of tree swallows (*Tachycineta bicolor*). [Preprint](https://www.biorxiv.org/content/10.1101/2022.02.02.478835v1){: .btn .btn--primary} [Data + Code](https://github.com/cct663/tres_egg_shape){: .btn .btn--info}
 
-Gutiérrez, J.δ, **Taff, C. C.**, Tupy, S.§, Goncalves, C.§, & Knutie, S. A. Experimental effects of within-brood genetic variation on parasite resistance in a wild bird host. [Preprint](https://doi.org/10.1101/2022.05.26.493631){: .btn .btn--info}
+Gutiérrez, J.δ, **Taff, C. C.**, Tupy, S.§, Goncalves, C.§, & Knutie, S. A. Experimental effects of within-brood genetic variation on parasite resistance in a wild bird host. [Preprint](https://doi.org/10.1101/2022.05.26.493631){: .btn .btn--primary}
 
-Knutie, S. A., Bertone, M., Bahouth, R.§, Webb, C.§, Mehta, M.§, Nahom, M.§, Barta, R.§, Ghai, S.§, Balenter, S., Butler, M., Kennedy, A., Reichard, B. S., **Taff, C. C.**, & Albery, G. Understanding spatiotemporal effects of food supplementation on host-parasite interactions using community-based science. [Preprint](https://doi.org/10.1101/2022.06.02.494595){: .btn .btn--info}
+Knutie, S. A., Bertone, M., Bahouth, R.§, Webb, C.§, Mehta, M.§, Nahom, M.§, Barta, R.§, Ghai, S.§, Balenter, S., Butler, M., Kennedy, A., Reichard, B. S., **Taff, C. C.**, & Albery, G. Understanding spatiotemporal effects of food supplementation on host-parasite interactions using community-based science. [Preprint](https://doi.org/10.1101/2022.06.02.494595){: .btn .btn--primary}
 
 ### Peer-Reviewed Articles
 
