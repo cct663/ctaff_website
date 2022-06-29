@@ -17,15 +17,13 @@ toc_icon: "feather-alt"
 ### Manuscripts in Review or Revision
 *§ undergraduate co-authors; δ graduate student co-authors; † equal contribution; †† senior author role*
 
-Vitousek, M. N., Houtz, J. L.δ, Pipkin, M. A.δ, Chang van Oordt, D. A.δ, Hallinger, K. K., Uehling, J. J.δ, Zimmer, C., & **Taff, C. C.††** Natural and experimental cold exposure increase the sensitivity to future stressors in a free-living songbird.
-
 Suh, Y. A.δ, **Taff, C. C.**, Tringali, A., & Fitzpatrick, J. W. Prospecting is physiologically costly in a resident cooperative breeder.
 
 **Taff, C. C.** Functions for simulating data and designing studies of physiological flexibility in the acute glucocorticoid response to stressors. [Preprint](https://doi.org/10.32942/osf.io/fk29q){: .btn .btn--primary} [R Package](https://github.com/cct663/simcoRt){: .btn .btn--info} [Data + Code](https://github.com/cct663/speed_vs_scope){: .btn .btn--info}
 
 Zimmer, C., **Taff, C. C.**, Ardia, D. R., Rosvall, K. A., Kallenberg, C.§, Bentz, A. B., Taylor, A. R., Johnson, L. S., & Vitousek, M. N. Differential gene expression in the tree swallow brain is associated with environment and within-individual and among-population variation in glucocorticoid levels.
 
-Shipley, J. R., Twining, C. W., **Taff, C. C.**, Vitousek, M. N., & Winkler, D. W. Developmental environments can shape adult body size, but selection filters the response to climate change.
+Shipley, J. R., Twining, C. W., **Taff, C. C.**, Vitousek, M. N., & Winkler, D. W. Selection counteracts developmental plasticity in body-size responses to climate change.
 
 **Taff, C. C.**, Ryan, T. A.δ, Uehling, J. J.δ, Injaian, A. S., & Vitousek, M. N. Within-individual consistency and between-individual variation in the egg shapes of tree swallows (*Tachycineta bicolor*). [Preprint](https://www.biorxiv.org/content/10.1101/2022.02.02.478835v1){: .btn .btn--primary} [Data + Code](https://github.com/cct663/tres_egg_shape){: .btn .btn--info}
 
@@ -36,6 +34,8 @@ Knutie, S. A., Bertone, M., Bahouth, R.§, Webb, C.§, Mehta, M.§, Nahom, M.§,
 ### Peer-Reviewed Articles
 
 **2022**
+
+**55\.** Vitousek, M. N., Houtz, J. L.δ, Pipkin, M. A.δ, Chang van Oordt, D. A.δ, Hallinger, K. K., Uehling, J. J.δ, Zimmer, C., & **Taff, C. C.††** *In Press*. Natural and experimental cold exposure increase the sensitivity to future stressors in a free-living songbird. *Functional Ecology*.
 
 **54\.** **Taff, C. C.**, Wingfield, J. C., & Vitousek, M. N. *In Press*. Environmental variability and longevity predict the speed of the acute glucocorticoid response across birds. *Hormones & Behavior*. [Preprint](https://www.biorxiv.org/content/10.1101/2021.10.18.464833v1){: .btn .btn--primary} 
 
