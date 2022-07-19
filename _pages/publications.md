@@ -37,7 +37,7 @@ Knutie, S. A., Bertone, M., Bahouth, R.§, Webb, C.§, Mehta, M.§, Nahom, M.§,
 
 **55\.** Vitousek, M. N., Houtz, J. L.δ, Pipkin, M. A.δ, Chang van Oordt, D. A.δ, Hallinger, K. K., Uehling, J. J.δ, Zimmer, C., & **Taff, C. C.††** *In Press*. Natural and experimental cold exposure increase the sensitivity to future stressors in a free-living songbird. *Functional Ecology*.
 
-**54\.** **Taff, C. C.**, Wingfield, J. C., & Vitousek, M. N. *In Press*. Environmental variability and longevity predict the speed of the acute glucocorticoid response across birds. *Hormones & Behavior*. [Preprint](https://www.biorxiv.org/content/10.1101/2021.10.18.464833v1){: .btn .btn--primary} 
+**54\.** **Taff, C. C.**, Wingfield, J. C., & Vitousek, M. N. 2022. Environmental variability and longevity predict the speed of the acute glucocorticoid response across birds. *Hormones & Behavior*. [PDF](https://drive.google.com/file/d/1JjGZ41EbOHl23JmTD7OOwpv9pyiKD5Hs/view?usp=sharing){: .btn .btn--success} [DOI](https://doi.org/10.1016/j.yhbeh.2022.105226){: .btn .btn--warning} [Preprint](https://www.biorxiv.org/content/10.1101/2021.10.18.464833v1){: .btn .btn--primary} [Data + Code](https://github.com/cct663/corticosterone-speed){: .btn .btn--info}
 
 **53\.** Houtz, J. H.δ, **Taff, C. C.**, & Vitousek, M. N. 2022. Gut microbiome as a bioindicator of stress resilience: a reactive scope model framework. *Integrative & Comparative Biology*. [PDF](https://drive.google.com/file/d/1-BPe7toPGrPzuUoanFESCWJ4PmZg8_SJ/view?usp=sharing){: .btn .btn--success} [DOI](https://doi-org/10.1093/icb/icac030){: .btn .btn--warning}
 
