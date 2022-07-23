@@ -35,7 +35,7 @@ Knutie, S. A., Bertone, M., Bahouth, R.§, Webb, C.§, Mehta, M.§, Nahom, M.§,
 
 **2022**
 
-**55\.** Vitousek, M. N., Houtz, J. L.δ, Pipkin, M. A.δ, Chang van Oordt, D. A.δ, Hallinger, K. K., Uehling, J. J.δ, Zimmer, C., & **Taff, C. C.††** 2022. Natural and experimental cold exposure increase the sensitivity to future stressors in a free-living songbird. *Functional Ecology*. [PDF](https://drive.google.com/file/d/1spI6_U0bp9ZvXts-x-rBCOqUBUi-Y-Ey/view?usp=sharing){: .btn .btn--success} [DOI](https://doi.org/10.1111/1365-2435.14144){: .btn .btn--warning} [Data + Code](https://github.com/cct663/cort_weather_tres/tree/v1.0){: .btn--info}
+**55\.** Vitousek, M. N., Houtz, J. L.δ, Pipkin, M. A.δ, Chang van Oordt, D. A.δ, Hallinger, K. K., Uehling, J. J.δ, Zimmer, C., & **Taff, C. C.††** 2022. Natural and experimental cold exposure increase the sensitivity to future stressors in a free-living songbird. *Functional Ecology*. [PDF](https://drive.google.com/file/d/1spI6_U0bp9ZvXts-x-rBCOqUBUi-Y-Ey/view?usp=sharing){: .btn .btn--success} [DOI](https://doi.org/10.1111/1365-2435.14144){: .btn .btn--warning} [Data + Code](https://github.com/cct663/cort_weather_tres/tree/v1.0){: .btn .btn--info}
 
 **54\.** **Taff, C. C.**, Wingfield, J. C., & Vitousek, M. N. 2022. Environmental variability and longevity predict the speed of the acute glucocorticoid response across birds. *Hormones & Behavior*. [PDF](https://drive.google.com/file/d/1JjGZ41EbOHl23JmTD7OOwpv9pyiKD5Hs/view?usp=sharing){: .btn .btn--success} [DOI](https://doi.org/10.1016/j.yhbeh.2022.105226){: .btn .btn--warning} [Preprint](https://www.biorxiv.org/content/10.1101/2021.10.18.464833v1){: .btn .btn--primary} [Data + Code](https://github.com/cct663/corticosterone-speed){: .btn .btn--info}
 
