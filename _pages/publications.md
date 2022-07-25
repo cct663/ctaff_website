@@ -23,8 +23,6 @@ Suh, Y. A.δ, **Taff, C. C.**, Tringali, A., & Fitzpatrick, J. W. Prospecting is
 
 Zimmer, C., **Taff, C. C.**, Ardia, D. R., Rosvall, K. A., Kallenberg, C.§, Bentz, A. B., Taylor, A. R., Johnson, L. S., & Vitousek, M. N. Differential gene expression in the tree swallow brain is associated with environment and within-individual and among-population variation in glucocorticoid levels.
 
-Shipley, J. R., Twining, C. W., **Taff, C. C.**, Vitousek, M. N., & Winkler, D. W. Selection counteracts developmental plasticity in body-size responses to climate change.
-
 **Taff, C. C.**, Ryan, T. A.δ, Uehling, J. J.δ, Injaian, A. S., & Vitousek, M. N. Within-individual consistency and between-individual variation in the egg shapes of tree swallows (*Tachycineta bicolor*). [Preprint](https://www.biorxiv.org/content/10.1101/2022.02.02.478835v1){: .btn .btn--primary} [Data + Code](https://github.com/cct663/tres_egg_shape){: .btn .btn--info}
 
 Gutiérrez, J.δ, **Taff, C. C.**, Tupy, S.§, Goncalves, C.§, & Knutie, S. A. Experimental effects of within-brood genetic variation on parasite resistance in a wild bird host. [Preprint](https://doi.org/10.1101/2022.05.26.493631){: .btn .btn--primary}
@@ -34,6 +32,8 @@ Knutie, S. A., Bertone, M., Bahouth, R.§, Webb, C.§, Mehta, M.§, Nahom, M.§,
 ### Peer-Reviewed Articles
 
 **2022**
+
+**56\.** Shipley, J. R., Twining, C. W., **Taff, C. C.**, Vitousek, M. N., & Winkler, D. W. *In Press*. Selection counteracts developmental plasticity in body-size responses to climate change. *Nature Climate Change*.
 
 **55\.** Vitousek, M. N., Houtz, J. L.δ, Pipkin, M. A.δ, Chang van Oordt, D. A.δ, Hallinger, K. K., Uehling, J. J.δ, Zimmer, C., & **Taff, C. C.††** 2022. Natural and experimental cold exposure increase the sensitivity to future stressors in a free-living songbird. *Functional Ecology*. [PDF](https://drive.google.com/file/d/1spI6_U0bp9ZvXts-x-rBCOqUBUi-Y-Ey/view?usp=sharing){: .btn .btn--success} [DOI](https://doi.org/10.1111/1365-2435.14144){: .btn .btn--warning} [Data + Code](https://github.com/cct663/cort_weather_tres/tree/v1.0){: .btn .btn--info}
 
