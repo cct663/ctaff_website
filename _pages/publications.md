@@ -14,7 +14,7 @@ toc_icon: "feather-alt"
 ### Google Scholar Profile
 [Click here](https://scholar.google.com/citations?user=PEw-C7MAAAAJ&hl=en&oi=ao)
 
-### Manuscripts in Review or Revision
+### Manuscripts in Review
 *§ undergraduate co-authors; δ graduate student co-authors; † equal contribution; †† senior author role*
 
 Suh, Y. A.δ, **Taff, C. C.**, Tringali, A., & Fitzpatrick, J. W. Prospecting is physiologically costly in a resident cooperative breeder.
@@ -28,6 +28,8 @@ Zimmer, C., **Taff, C. C.**, Ardia, D. R., Rosvall, K. A., Kallenberg, C.§, Ben
 Gutiérrez, J.δ, **Taff, C. C.**, Tupy, S.§, Goncalves, C.§, & Knutie, S. A. Experimental effects of within-brood genetic variation on parasite resistance in a wild bird host. [Preprint](https://doi.org/10.1101/2022.05.26.493631){: .btn .btn--primary}
 
 Knutie, S. A., Bertone, M., Bahouth, R.§, Webb, C.§, Mehta, M.§, Nahom, M.§, Barta, R.§, Ghai, S.§, Balenter, S., Butler, M., Kennedy, A., Reichard, B. S., **Taff, C. C.**, & Albery, G. Understanding spatiotemporal effects of food supplementation on host-parasite interactions using community-based science. [Preprint](https://doi.org/10.1101/2022.06.02.494595){: .btn .btn--primary}
+
+Dunn, P. O., ..., **Taff, C. C.**, ..., et al. (77 additional authors). Geographic and phenological variation in insect abundance across North America: implications for monitoring insect declines.
 
 ### Peer-Reviewed Articles
 
