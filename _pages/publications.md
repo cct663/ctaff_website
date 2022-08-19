@@ -19,8 +19,6 @@ toc_icon: "feather-alt"
 
 Suh, Y. A.δ, **Taff, C. C.**, Tringali, A., & Fitzpatrick, J. W. Prospecting is physiologically costly in a resident cooperative breeder.
 
-**Taff, C. C.** Functions for simulating data and designing studies of physiological flexibility in the acute glucocorticoid response to stressors. [Preprint](https://doi.org/10.32942/osf.io/fk29q){: .btn .btn--primary} [R Package](https://github.com/cct663/simcoRt){: .btn .btn--info} [Data + Code](https://github.com/cct663/speed_vs_scope){: .btn .btn--info}
-
 Zimmer, C., **Taff, C. C.**, Ardia, D. R., Rosvall, K. A., Kallenberg, C.§, Bentz, A. B., Taylor, A. R., Johnson, L. S., & Vitousek, M. N. Differential gene expression in the tree swallow brain is associated with environment and within-individual and among-population variation in glucocorticoid levels.
 
 **Taff, C. C.**, Ryan, T. A.δ, Uehling, J. J.δ, Injaian, A. S., & Vitousek, M. N. Within-individual consistency and between-individual variation in the egg shapes of tree swallows (*Tachycineta bicolor*). [Preprint](https://www.biorxiv.org/content/10.1101/2022.02.02.478835v1){: .btn .btn--primary} [Data + Code](https://github.com/cct663/tres_egg_shape){: .btn .btn--info}
@@ -32,6 +30,8 @@ Dunn, P. O., ..., **Taff, C. C.**, ..., et al. (77 additional authors). Geograph
 ### Peer-Reviewed Articles
 
 **2022**
+
+**57\.** **Taff, C. C.** *In Press.* Functions for simulating data and designing studies of physiological flexibility in the acute glucocorticoid response to stressors. *PeerJ*. [Preprint](https://doi.org/10.32942/osf.io/fk29q){: .btn .btn--primary} [R Package](https://github.com/cct663/simcoRt){: .btn .btn--info} [Data + Code](https://github.com/cct663/speed_vs_scope){: .btn .btn--info}
 
 **56\.** Shipley, J. R., Twining, C. W., **Taff, C. C.**, Vitousek, M. N., & Winkler, D. W. *In Press*. Selection counteracts developmental plasticity in body-size responses to climate change. *Nature Climate Change*.
 
@@ -172,7 +172,7 @@ Dunn, P. O., ..., **Taff, C. C.**, ..., et al. (77 additional authors). Geograph
 
 
 ### What I'm working on! 
-**Only projects with all data collected and lab work complete are listed. At writing or revising stage.**
+**Only projects with all data collected and lab work complete are listed. Most of these have complete draft manuscripts available.**
 
 Hallinger, K. K., Pegan, T. M.δ, Andersen, M. J., Ardia, D. R., Belmaker, A., Chang van Oordt, D.δ, Ferretti, V., Forsman, A. M., Gaul, J. R., Llambias, P. E., Orzechowski, S. C., Shipley, J. R., Stager, M., **Taff, C. C.**, Uehling, J. J.δ, Verhoeven, M., Vitousek, M., Wilson, M., Yoon, H. S., Wrege, P. H., & Winker, D. W. Comparing the reproductive performance of dispersers vs. non-dispersers: a point-of-settlement approach to understanding the diversity of tree swallow dispersal strategies in a continuous mainland environment.
 
@@ -182,6 +182,8 @@ Wolf, S. E.δ, Woodruff, M. J.δ, Chang van Oordt, D. A.δ, Clotfelter, E. D., C
 
 Uehling, J. J.δ, **Taff, C. C.**, Houtz, J. L.δ, Becker, P. M.§, & Vitousek, M. N. Predictors and consequences of diet variation in a declining generalist aerial insectivore.
 
+Garcia, J.δ, Vitousek, M. N., **Taff, C. C.**, & Zamudio, K. R. Adaptation to cold climate and exposure to lower temperatures during development facilitate effective hormonal response to acute cold stress in *Ambystoma maculatum*.
+
 **Taff, C. C.**, Zimmer, C., Uehling, J., Ryan, T. A., Chang van Oordt, D., Houtz, J., Injaian, A., & Vitousek, M. N. Joint effects of social interactions and environmental challenges on physiology, internal microbiome, and reproductive performance in a wild bird.
 
 **Taff, C. C.**, McNew, S. M., Campagna, L., & Vitousek, M. N. Brief increases in corticosterone result in immediate and lasting changes to DNA methylation in a wild bird.
@@ -189,6 +191,8 @@ Uehling, J. J.δ, **Taff, C. C.**, Houtz, J. L.δ, Becker, P. M.§, & Vitousek, 
 **Taff, C. C.**, & Shipley, R. J. Sensitivity to cold snaps and heat waves during breeding across space and time in 24 common North American birds.
 
 **Taff, C. C.**, Smee, M., Houtz, J. L., Zimmer, C., & Vitousek, M. N. Experimental manipulation of circulating corticosterone and perceived predation risk do not result in an altered microbiome in a wild bird.
+
+Zhou, J.δ, **Taff, C. C.**, Chang van Oordt, D.δ, Vitousek, M. N., & Kan, E. C. Radio-frequency near-field sensor design for miniscule internal motion.
 
  
 
