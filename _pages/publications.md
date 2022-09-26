@@ -31,7 +31,7 @@ Dunn, P. O., ..., **Taff, C. C.**, ..., et al. (77 additional authors). Geograph
 
 **2022**
 
-**57\.** **Taff, C. C.** 2022. Functions for simulating data and designing studies of physiological flexibility in the acute glucocorticoid response to stressors. *PeerJ*. [PDF](https://drive.google.com/file/d/1xha3PznPmY1a90gyJc-7uU1dQsE5abnx/view?usp=sharing){: .btn .btn--success} [Preprint](https://doi.org/10.32942/osf.io/fk29q){: .btn .btn--primary} [R Package](https://github.com/cct663/simcoRt){: .btn .btn--info} [Data + Code](https://github.com/cct663/speed_vs_scope){: .btn .btn--info}
+**57\.** **Taff, C. C.** 2022. Functions for simulating data and designing studies of physiological flexibility in the acute glucocorticoid response to stressors. *PeerJ*. [PDF](https://drive.google.com/file/d/1xha3PznPmY1a90gyJc-7uU1dQsE5abnx/view?usp=sharing){: .btn .btn--success} [DOI](https://peerj.com/articles/14039/){: .btn .btn--warning} [Preprint](https://doi.org/10.32942/osf.io/fk29q){: .btn .btn--primary} [R Package](https://github.com/cct663/simcoRt){: .btn .btn--info} [Data + Code](https://github.com/cct663/speed_vs_scope){: .btn .btn--info}
 
 **56\.** Shipley, J. R., Twining, C. W., **Taff, C. C.**, Vitousek, M. N., & Winkler, D. W. 2022. Selection counteracts developmental plasticity in body-size responses to climate change. *Nature Climate Change*. [PDF](https://drive.google.com/file/d/15MpSHp0piN-kIegWSeRv4u640Yfy1MWz/view?usp=sharing){: .btn .btn--success} [DOI](https://www.nature.com/articles/s41558-022-01457-8){: .btn .btn--warning} [Data + Code](https://datadryad.org/stash/dataset/doi:10.5061/dryad.hdr7sqvjf){: .btn .btn--info} [NCC News & Views](https://www.nature.com/articles/s41558-022-01463-w){: .btn .btn--danger}
 
