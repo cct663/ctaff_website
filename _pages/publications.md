@@ -35,7 +35,7 @@ Uehling, J. J.δ, **Taff, C. C.**, Houtz, J. L.δ, Becker, P. M.§, & Vitousek, 
 
 **59\.** Zhou, J.δ, **Taff, C. C.**, Chang van Oordt, D.δ, Vitousek, M. N., & Kan, E. C. *In Press*. Radio-frequency near-field sensor design for miniscule internal motion. IEEE Sensors Journal.
 
-**58\.** Zimmer, C., **Taff, C. C.**, Ardia, D. R., Rosvall, K. A., Kallenberg, C.§, Bentz, A. B., Taylor, A. R., Johnson, L. S., & Vitousek, M. N. 2022. Differential gene expression in the tree swallow brain is associated with environment and within-individual and among-population variation in glucocorticoid levels. *Hormones & Behavior*.
+**58\.** Zimmer, C., **Taff, C. C.**, Ardia, D. R., Rosvall, K. A., Kallenberg, C.§, Bentz, A. B., Taylor, A. R., Johnson, L. S., & Vitousek, M. N. 2022. Differential gene expression in the tree swallow brain is associated with environment and within-individual and among-population variation in glucocorticoid levels. *Hormones & Behavior*. [PDF](https://drive.google.com/file/d/1UVd0FOKOqpey3PynbPCNJmNznfq1Q0R1/view?usp=sharing){: .btn .btn--success} [DOI](https://www.sciencedirect.com/science/article/abs/pii/S0018506X2200174X){: .btn .btn--warning}
 
 **57\.** **Taff, C. C.** 2022. Functions for simulating data and designing studies of physiological flexibility in the acute glucocorticoid response to stressors. *PeerJ*. [PDF](https://drive.google.com/file/d/1xha3PznPmY1a90gyJc-7uU1dQsE5abnx/view?usp=sharing){: .btn .btn--success} [DOI](https://peerj.com/articles/14039/){: .btn .btn--warning} [Preprint](https://doi.org/10.32942/osf.io/fk29q){: .btn .btn--primary} [R Package](https://github.com/cct663/simcoRt){: .btn .btn--info} [Data + Code](https://github.com/cct663/speed_vs_scope){: .btn .btn--info}
 
