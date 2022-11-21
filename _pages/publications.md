@@ -25,11 +25,17 @@ Knutie, S. A., Bertone, M., Bahouth, R.§, Webb, C.§, Mehta, M.§, Nahom, M.§,
 
 Dunn, P. O., ..., **Taff, C. C.**, ..., et al. (77 additional authors). Geographic and phenological variation in insect abundance across North America: implications for monitoring insect declines.
 
+Wolf, S. E.δ, Woodruff, M. J.δ, Chang van Oordt, D. A.δ, Clotfelter, E. D., Cristol, D. A., Derryberry, E. P., Ferguson, S. M., Stanback, M. T., **Taff, C. C.**, Tobin, K. J., Vitousek, M. N., Westneat, D. F., & Rosvall, K. A. Ecogeographic variation in telomere regulatory proteins and their potential to drive life history variation.
+
+Uehling, J. J.δ, **Taff, C. C.**, Houtz, J. L.δ, Becker, P. M.§, & Vitousek, M. N. Predictors and consequences of diet variation in a declining generalist aerial insectivore.
+
 ### Peer-Reviewed Articles
 
 **2022**
 
-**58\.** Zimmer, C., **Taff, C. C.**, Ardia, D. R., Rosvall, K. A., Kallenberg, C.§, Bentz, A. B., Taylor, A. R., Johnson, L. S., & Vitousek, M. N. *In Press*. Differential gene expression in the tree swallow brain is associated with environment and within-individual and among-population variation in glucocorticoid levels. *Hormones & Behavior*.
+**59\.** Zhou, J.δ, **Taff, C. C.**, Chang van Oordt, D.δ, Vitousek, M. N., & Kan, E. C. *In Press*. Radio-frequency near-field sensor design for miniscule internal motion. IEEE Sensors Journal.
+
+**58\.** Zimmer, C., **Taff, C. C.**, Ardia, D. R., Rosvall, K. A., Kallenberg, C.§, Bentz, A. B., Taylor, A. R., Johnson, L. S., & Vitousek, M. N. 2022. Differential gene expression in the tree swallow brain is associated with environment and within-individual and among-population variation in glucocorticoid levels. *Hormones & Behavior*.
 
 **57\.** **Taff, C. C.** 2022. Functions for simulating data and designing studies of physiological flexibility in the acute glucocorticoid response to stressors. *PeerJ*. [PDF](https://drive.google.com/file/d/1xha3PznPmY1a90gyJc-7uU1dQsE5abnx/view?usp=sharing){: .btn .btn--success} [DOI](https://peerj.com/articles/14039/){: .btn .btn--warning} [Preprint](https://doi.org/10.32942/osf.io/fk29q){: .btn .btn--primary} [R Package](https://github.com/cct663/simcoRt){: .btn .btn--info} [Data + Code](https://github.com/cct663/speed_vs_scope){: .btn .btn--info}
 
@@ -178,21 +184,17 @@ Hallinger, K. K., Pegan, T. M.δ, Andersen, M. J., Ardia, D. R., Belmaker, A., C
 
 Miller, C. R.δ, **Taff, C. C.**, Uehling, J. J.δ, Rose, A. P., & Vitousek, M. N. Tree swallow provisioning behavior fluctuates with moonlight availability.
 
-Wolf, S. E.δ, Woodruff, M. J.δ, Chang van Oordt, D. A.δ, Clotfelter, E. D., Cristol, D. A., Derryberry, E. P., Ferguson, S. M., Stanback, M. T., **Taff, C. C.**, Tobin, K. J., Vitousek, M. N., Westneat, D. F., & Rosvall, K. A. Ecogeographic variation in telomere regulatory proteins and their potential to drive life history variation.
-
-Uehling, J. J.δ, **Taff, C. C.**, Houtz, J. L.δ, Becker, P. M.§, & Vitousek, M. N. Predictors and consequences of diet variation in a declining generalist aerial insectivore.
-
 Garcia, J.δ, Vitousek, M. N., **Taff, C. C.**, & Zamudio, K. R. Adaptation to cold climate and exposure to lower temperatures during development facilitate effective hormonal response to acute cold stress in *Ambystoma maculatum*.
 
-**Taff, C. C.**, Zimmer, C., Uehling, J., Ryan, T. A., Chang van Oordt, D., Houtz, J., Injaian, A., & Vitousek, M. N. Joint effects of social interactions and environmental challenges on physiology, internal microbiome, and reproductive performance in a wild bird.
+**Taff, C. C.**, McNew, S., Zimmer, C., Uehling, J., Ryan, T. A., Chang van Oordt, D., Houtz, J., Injaian, A., & Vitousek, M. N. Joint effects of social interactions and environmental challenges on physiology, internal microbiome, and reproductive performance in tree swallows (*Tachycineta bicolor*).
+
+McNew, S. M.†, **Taff, C. C.**†, Zimmer, C., Uehling, J. J.δ, Ryan, T. A.δ, Chang van Oordt, D.δ, Houtz, J. L.δ, Injaian, A. S., & Vitousek, M. N. Developmental stage-dependent effects of perceived predation risk on physiology and fledging success of tree swallows (*Tachycineta bicolor*).
 
 **Taff, C. C.**, McNew, S. M., Campagna, L., & Vitousek, M. N. Brief increases in corticosterone result in immediate and lasting changes to DNA methylation in a wild bird.
 
 **Taff, C. C.**, & Shipley, R. J. Sensitivity to cold snaps and heat waves during breeding across space and time in 24 common North American birds.
 
 **Taff, C. C.**, Smee, M., Houtz, J. L., Zimmer, C., & Vitousek, M. N. Experimental manipulation of circulating corticosterone and perceived predation risk do not result in an altered microbiome in a wild bird.
-
-Zhou, J.δ, **Taff, C. C.**, Chang van Oordt, D.δ, Vitousek, M. N., & Kan, E. C. Radio-frequency near-field sensor design for miniscule internal motion.
 
  
 
