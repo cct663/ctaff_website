@@ -29,11 +29,13 @@ Wolf, S. E.δ, Woodruff, M. J.δ, Chang van Oordt, D. A.δ, Clotfelter, E. D., C
 
 Uehling, J. J.δ, **Taff, C. C.**, Houtz, J. L.δ, Becker, P. M.§, & Vitousek, M. N. Predictors and consequences of diet variation in a declining generalist aerial insectivore.
 
+McNew, S. M.†, **Taff, C. C.**†, Zimmer, C., Uehling, J. J.δ, Ryan, T. A.δ, Chang van Oordt, D.δ, Houtz, J. L.δ, Injaian, A. S., & Vitousek, M. N. Developmental stage-dependent effects of perceived predation risk on physiology and fledging success of tree swallows (*Tachycineta bicolor*). [Preprint](https://www.biorxiv.org/content/10.1101/2022.12.27.522041v1){: .btn .btn--primary} [Data + Code](https://github.com/smcnew/mcnew_etal_tres_nestling_telos){: .btn .btn--info}
+
 ### Peer-Reviewed Articles
 
 **2022**
 
-**59\.** Zhou, J.δ, **Taff, C. C.**, Chang van Oordt, D.δ, Vitousek, M. N., & Kan, E. C. *In Press*. Radio-frequency near-field sensor design for miniscule internal motion. IEEE Sensors Journal.
+**59\.** Zhou, J.δ, **Taff, C. C.**, Chang van Oordt, D.δ, Vitousek, M. N., & Kan, E. C. *In Press*. Radio-frequency near-field sensor design for miniscule internal motion. *IEEE Sensors Journal.* [PDF](https://drive.google.com/file/d/16XprHRKC9y6pLm0eWmk1LOWjVeaKCmRl/view?usp=sharing){: .btn .btn--success} [DOI](https://ieeexplore.ieee.org/document/9976935){: .btn .btn--warning}
 
 **58\.** Zimmer, C., **Taff, C. C.**, Ardia, D. R., Rosvall, K. A., Kallenberg, C.§, Bentz, A. B., Taylor, A. R., Johnson, L. S., & Vitousek, M. N. 2022. Differential gene expression in the tree swallow brain is associated with environment and within-individual and among-population variation in glucocorticoid levels. *Hormones & Behavior*. [PDF](https://drive.google.com/file/d/1UVd0FOKOqpey3PynbPCNJmNznfq1Q0R1/view?usp=sharing){: .btn .btn--success} [DOI](https://www.sciencedirect.com/science/article/abs/pii/S0018506X2200174X){: .btn .btn--warning}
 
@@ -187,8 +189,6 @@ Miller, C. R.δ, **Taff, C. C.**, Uehling, J. J.δ, Rose, A. P., & Vitousek, M. 
 Garcia, J.δ, Vitousek, M. N., **Taff, C. C.**, & Zamudio, K. R. Adaptation to cold climate and exposure to lower temperatures during development facilitate effective hormonal response to acute cold stress in *Ambystoma maculatum*.
 
 **Taff, C. C.**, McNew, S., Zimmer, C., Uehling, J., Ryan, T. A., Chang van Oordt, D., Houtz, J., Injaian, A., & Vitousek, M. N. Joint effects of social interactions and environmental challenges on physiology, internal microbiome, and reproductive performance in tree swallows (*Tachycineta bicolor*).
-
-McNew, S. M.†, **Taff, C. C.**†, Zimmer, C., Uehling, J. J.δ, Ryan, T. A.δ, Chang van Oordt, D.δ, Houtz, J. L.δ, Injaian, A. S., & Vitousek, M. N. Developmental stage-dependent effects of perceived predation risk on physiology and fledging success of tree swallows (*Tachycineta bicolor*).
 
 **Taff, C. C.**, McNew, S. M., Campagna, L., & Vitousek, M. N. Brief increases in corticosterone result in immediate and lasting changes to DNA methylation in a wild bird.
 
