@@ -31,6 +31,10 @@ Uehling, J. J.δ, **Taff, C. C.**, Houtz, J. L.δ, Becker, P. M.§, & Vitousek, 
 
 McNew, S. M.†, **Taff, C. C.**†, Zimmer, C., Uehling, J. J.δ, Ryan, T. A.δ, Chang van Oordt, D.δ, Houtz, J. L.δ, Injaian, A. S., & Vitousek, M. N. Developmental stage-dependent effects of perceived predation risk on physiology and fledging success of tree swallows (*Tachycineta bicolor*). [Preprint](https://www.biorxiv.org/content/10.1101/2022.12.27.522041v1){: .btn .btn--primary} [Data + Code](https://github.com/smcnew/mcnew_etal_tres_nestling_telos){: .btn .btn--info}
 
+**Taff, C. C.**, McNew, S., Zimmer, C., Uehling, J. J.δ, Ryan, T. A.δ, Chang van Oordt, D.δ, Houtz, J. L.δ, Injaian, A., & Vitousek, M. N. Joint effects of social interactions and environmental challenges on physiology, internal microbiome, and reproductive performance in tree swallows (*Tachycineta bicolor*). [Preprint](https://doi.org/10.1101/2023.01.05.522952){: .btn .btn--primary}
+
+Ryan, T. A.δ, **Taff, C. C.**, Ryan, T. A., & Vitousek, M. N. Temperature-induced priming of the glucose stress response.
+
 ### Peer-Reviewed Articles
 
 **2022**
@@ -187,8 +191,6 @@ Hallinger, K. K., Pegan, T. M.δ, Andersen, M. J., Ardia, D. R., Belmaker, A., C
 Miller, C. R.δ, **Taff, C. C.**, Uehling, J. J.δ, Rose, A. P., & Vitousek, M. N. Tree swallow provisioning behavior fluctuates with moonlight availability.
 
 Garcia, J.δ, Vitousek, M. N., **Taff, C. C.**, & Zamudio, K. R. Adaptation to cold climate and exposure to lower temperatures during development facilitate effective hormonal response to acute cold stress in *Ambystoma maculatum*.
-
-**Taff, C. C.**, McNew, S., Zimmer, C., Uehling, J., Ryan, T. A., Chang van Oordt, D., Houtz, J., Injaian, A., & Vitousek, M. N. Joint effects of social interactions and environmental challenges on physiology, internal microbiome, and reproductive performance in tree swallows (*Tachycineta bicolor*).
 
 **Taff, C. C.**, McNew, S. M., Campagna, L., & Vitousek, M. N. Brief increases in corticosterone result in immediate and lasting changes to DNA methylation in a wild bird.
 
