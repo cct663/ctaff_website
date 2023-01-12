@@ -14,6 +14,10 @@ date: September 3, 2020
 
 This page is being used to post and share ongoing analyses so that they can be shared with collaborators. Most of the summaries listed here have associated GitHub repositories on my account that can be accessed to get the full code and data.
 
+### Teaching Demo
+
+- [Linear regression]({{ site.baseurl }}{% link /assets/html/regression-demo.html %})
+
 ### Simulations and Tools
 
 - [Cort response simulation and comparing speed and scope of physiological responses]({{ site.baseurl }}{% link /assets/html/cortResponse_simulation.html %})
