@@ -17,8 +17,6 @@ This page is being used to post and share ongoing analyses so that they can be s
 
 ### Teaching Demo
 
-- [Linear regression]({{ site.baseurl }}{% link /assets/html/regression_demo.html %})
-
 ### Simulations and Tools
 
 - [Cort response simulation and comparing speed and scope of physiological responses]({{ site.baseurl }}{% link /assets/html/cortResponse_simulation.html %})
