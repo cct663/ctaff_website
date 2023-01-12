@@ -17,7 +17,7 @@ This page is being used to post and share ongoing analyses so that they can be s
 
 ### Teaching Demo
 
-- [Linear regression]({{ site.baseurl }}{% link /assets/html/regression-demo.html %})
+- [Linear regression]({{ site.baseurl }}{% link /assets/html/regression_demo.html %})
 
 ### Simulations and Tools
 
