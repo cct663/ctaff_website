@@ -23,8 +23,6 @@ Suh, Y. A.δ, **Taff, C. C.**, Tringali, A., & Fitzpatrick, J. W. Prospecting is
 
 Knutie, S. A., Bertone, M., Bahouth, R.§, Webb, C.§, Mehta, M.§, Nahom, M.§, Barta, R.§, Ghai, S.§, Balenter, S., Butler, M., Kennedy, A., Reichard, B. S., **Taff, C. C.**, & Albery, G. Understanding spatiotemporal effects of food supplementation on host-parasite interactions using community-based science. [Preprint](https://doi.org/10.1101/2022.06.02.494595){: .btn .btn--primary}
 
-Dunn, P. O., ..., **Taff, C. C.**, ..., et al. (77 additional authors). Geographic and phenological variation in insect abundance across North America: implications for monitoring insect declines.
-
 Wolf, S. E.δ, Woodruff, M. J.δ, Chang van Oordt, D. A.δ, Clotfelter, E. D., Cristol, D. A., Derryberry, E. P., Ferguson, S. M., Stanback, M. T., **Taff, C. C.**, Tobin, K. J., Vitousek, M. N., Westneat, D. F., & Rosvall, K. A. Ecogeographic variation in telomere regulatory proteins and their potential to drive life history variation.
 
 Uehling, J. J.δ, **Taff, C. C.**, Houtz, J. L.δ, Becker, P. M.§, & Vitousek, M. N. Predictors and consequences of diet variation in a declining generalist aerial insectivore.
@@ -37,9 +35,13 @@ Ryan, T. A.δ, **Taff, C. C.**, Ryan, T. A., & Vitousek, M. N. Temperature-induc
 
 ### Peer-Reviewed Articles
 
+**2023**
+
+**60\.** Dunn, P. O., ..., **Taff, C. C.**, ..., et al. (77 additional authors). *Accepted* Geographic and phenological variation in insect abundance across North America: implications for monitoring insect declines. *Ecology*.
+
 **2022**
 
-**59\.** Zhou, J.δ, **Taff, C. C.**, Chang van Oordt, D.δ, Vitousek, M. N., & Kan, E. C. *In Press*. Radio-frequency near-field sensor design for miniscule internal motion. *IEEE Sensors Journal.* [PDF](https://drive.google.com/file/d/16XprHRKC9y6pLm0eWmk1LOWjVeaKCmRl/view?usp=sharing){: .btn .btn--success} [DOI](https://ieeexplore.ieee.org/document/9976935){: .btn .btn--warning}
+**59\.** Zhou, J.δ, **Taff, C. C.**, Chang van Oordt, D.δ, Vitousek, M. N., & Kan, E. C. 2022. Radio-frequency near-field sensor design for miniscule internal motion. *IEEE Sensors Journal.* [PDF](https://drive.google.com/file/d/16XprHRKC9y6pLm0eWmk1LOWjVeaKCmRl/view?usp=sharing){: .btn .btn--success} [DOI](https://ieeexplore.ieee.org/document/9976935){: .btn .btn--warning}
 
 **58\.** Zimmer, C., **Taff, C. C.**, Ardia, D. R., Rosvall, K. A., Kallenberg, C.§, Bentz, A. B., Taylor, A. R., Johnson, L. S., & Vitousek, M. N. 2022. Differential gene expression in the tree swallow brain is associated with environment and within-individual and among-population variation in glucocorticoid levels. *Hormones & Behavior*. [PDF](https://drive.google.com/file/d/1UVd0FOKOqpey3PynbPCNJmNznfq1Q0R1/view?usp=sharing){: .btn .btn--success} [DOI](https://www.sciencedirect.com/science/article/abs/pii/S0018506X2200174X){: .btn .btn--warning}
 
