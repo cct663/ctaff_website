@@ -37,7 +37,7 @@ Ryan, T. A.δ, **Taff, C. C.**, Ryan, T. A., & Vitousek, M. N. Temperature-induc
 
 **2023**
 
-**60\.** Dunn, P. O., ..., **Taff, C. C.**, ..., et al. (77 additional authors). *Accepted* Geographic and phenological variation in insect abundance across North America: implications for monitoring insect declines. *Ecology*.
+**60\.** Dunn, P. O., ..., **Taff, C. C.**, ..., et al. (77 additional authors). *Accepted*. Geographic and phenological variation in insect abundance across North America: implications for monitoring insect declines. *Ecology*.
 
 **2022**
 
