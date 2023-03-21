@@ -25,17 +25,19 @@ Knutie, S. A., Bertone, M., Bahouth, R.§, Webb, C.§, Mehta, M.§, Nahom, M.§,
 
 Wolf, S. E.δ, Woodruff, M. J.δ, Chang van Oordt, D. A.δ, Clotfelter, E. D., Cristol, D. A., Derryberry, E. P., Ferguson, S. M., Stanback, M. T., **Taff, C. C.**, Tobin, K. J., Vitousek, M. N., Westneat, D. F., & Rosvall, K. A. Ecogeographic variation in telomere regulatory proteins and their potential to drive life history variation.
 
+Hallinger, K. K., Pegan, T. M.δ, Andersen, M. J., Ardia, D. R., Belmaker, A., Chang van Oordt, D.δ, Ferretti, V., Forsman, A. M., Gaul, J. R., Llambias, P. E., Orzechowski, S. C., Shipley, J. R., Stager, M., **Taff, C. C.**, Uehling, J. J.δ, Verhoeven, M., Vitousek, M., Wilson, M., Yoon, H. S., Wrege, P. H., & Winker, D. W. Comparing the reproductive performance of dispersers vs. non-dispersers: a point-of-settlement approach to understanding the diversity of tree swallow dispersal strategies in a continuous mainland environment.
+
 Uehling, J. J.δ, **Taff, C. C.**, Houtz, J. L.δ, Becker, P. M.§, & Vitousek, M. N. Predictors and consequences of diet variation in a declining generalist aerial insectivore.
 
 McNew, S. M.†, **Taff, C. C.**†, Zimmer, C., Uehling, J. J.δ, Ryan, T. A.δ, Chang van Oordt, D.δ, Houtz, J. L.δ, Injaian, A. S., & Vitousek, M. N. Developmental stage-dependent effects of perceived predation risk on physiology and fledging success of tree swallows (*Tachycineta bicolor*). [Preprint](https://www.biorxiv.org/content/10.1101/2022.12.27.522041v1){: .btn .btn--primary} [Data + Code](https://github.com/smcnew/mcnew_etal_tres_nestling_telos){: .btn .btn--info}
 
 **Taff, C. C.**, McNew, S., Zimmer, C., Uehling, J. J.δ, Ryan, T. A.δ, Chang van Oordt, D.δ, Houtz, J. L.δ, Injaian, A., & Vitousek, M. N. Joint effects of social interactions and environmental challenges on physiology, internal microbiome, and reproductive performance in tree swallows (*Tachycineta bicolor*). [Preprint](https://doi.org/10.1101/2023.01.05.522952){: .btn .btn--primary}
 
-Ryan, T. A.δ, **Taff, C. C.**, Ryan, T. A., & Vitousek, M. N. Temperature-induced priming of the glucose stress response.
-
 ### Peer-Reviewed Articles
 
 **2023**
+
+**61\.** Ryan, T. A.δ, **Taff, C. C.**, Ryan, T. A., & Vitousek, M. N. *Accepted*. Temperature-induced priming of the glucose stress response. *Comparative Biochemistry and Physiology, Part A*.
 
 **60\.** Dunn, P. O., ..., **Taff, C. C.**, ..., et al. (77 additional authors). *Accepted*. Geographic and phenological variation in insect abundance across North America: implications for monitoring insect declines. *Ecology*.
 
@@ -185,20 +187,7 @@ Ryan, T. A.δ, **Taff, C. C.**, Ryan, T. A., & Vitousek, M. N. Temperature-induc
 **1\.** 	Freeman-Gallant, C. R., **Taff, C. C.**, Morin, D.§, Dunn, P. O., Whittingham, L. A. & Tsang, S. M.§ 2010. Sexual selection, multiple male ornaments, and age- and condition-dependent signaling in the common yellowthroat. *Evolution*. [PDF](https://drive.google.com/file/d/0B8ePJPhFoSk4YnZYc083R3NCY28/edit){: .btn .btn--success} [DOI](https://doi.org/10.1111/j.1558-5646.2009.00873.x){: .btn .btn--warning} [Science Now](https://drive.google.com/file/d/0B8ePJPhFoSk4RnpsUHlMVTU0dlU/edit){: .btn .btn--danger}
 
 
-### What I'm working on! 
-**Only projects with all data collected and lab work complete are listed. Most of these have complete draft manuscripts available.**
 
-Hallinger, K. K., Pegan, T. M.δ, Andersen, M. J., Ardia, D. R., Belmaker, A., Chang van Oordt, D.δ, Ferretti, V., Forsman, A. M., Gaul, J. R., Llambias, P. E., Orzechowski, S. C., Shipley, J. R., Stager, M., **Taff, C. C.**, Uehling, J. J.δ, Verhoeven, M., Vitousek, M., Wilson, M., Yoon, H. S., Wrege, P. H., & Winker, D. W. Comparing the reproductive performance of dispersers vs. non-dispersers: a point-of-settlement approach to understanding the diversity of tree swallow dispersal strategies in a continuous mainland environment.
-
-Miller, C. R.δ, **Taff, C. C.**, Uehling, J. J.δ, Rose, A. P., & Vitousek, M. N. Tree swallow provisioning behavior fluctuates with moonlight availability.
-
-Garcia, J.δ, Vitousek, M. N., **Taff, C. C.**, & Zamudio, K. R. Adaptation to cold climate and exposure to lower temperatures during development facilitate effective hormonal response to acute cold stress in *Ambystoma maculatum*.
-
-**Taff, C. C.**, McNew, S. M., Campagna, L., & Vitousek, M. N. Brief increases in corticosterone result in immediate and lasting changes to DNA methylation in a wild bird.
-
-**Taff, C. C.**, & Shipley, R. J. Sensitivity to cold snaps and heat waves during breeding across space and time in 24 common North American birds.
-
-**Taff, C. C.**, Smee, M., Houtz, J. L., Zimmer, C., & Vitousek, M. N. Experimental manipulation of circulating corticosterone and perceived predation risk do not result in an altered microbiome in a wild bird.
 
  
 
