@@ -37,7 +37,7 @@ McNew, S. M.†, **Taff, C. C.**†, Zimmer, C., Uehling, J. J.δ, Ryan, T. A.δ
 
 **2023**
 
-**61\.** Ryan, T. A.δ, **Taff, C. C.**, Ryan, T. A., & Vitousek, M. N. 2023. Cold temperatures induce priming of the glucose stress response in tree swallows. *Comparative Biochemistry and Physiology, Part A*. [DOI](https://doi.org/10.1016/j.cbpa.2023.111419){: .btn .btn--warning}
+**61\.** Ryan, T. A.δ, **Taff, C. C.**, Ryan, T. A., & Vitousek, M. N. 2023. Cold temperatures induce priming of the glucose stress response in tree swallows. *Comparative Biochemistry and Physiology, Part A*. [PDF](https://drive.google.com/file/d/1hcul8WT0JCMSVgcHDzOLoCmMyuxhkROH/view?usp=share_link){: .btn .btn--success} [DOI](https://doi.org/10.1016/j.cbpa.2023.111419){: .btn .btn--warning}
 
 **60\.** Dunn, P. O., ..., **Taff, C. C.**, ..., et al. (77 additional authors). 2023. Geographic and phenological variation in insect abundance across North America: implications for monitoring insect declines. *Ecology*. [PDF](https://drive.google.com/file/d/1K3sd0k_8MyETl1FRIafKZAsc4423-dde/view?usp=sharing){: .btn .btn--success} [DOI](https://doi.org/10.1002/ecy.4036){: .btn .btn--warning} [Data](https://doi.org/10.6084/m9.figshare.20415819.v1){: .btn .btn--info}
 
