@@ -17,6 +17,8 @@ toc_icon: "feather-alt"
 ### Manuscripts in Review
 *§ undergraduate co-authors; δ graduate student co-authors; † equal contribution; †† senior author role*
 
+**Taff, C. C.**†, Shipley, J. R. Inconsistent shifts in warming and temperature variability negatively impact avian fitness. [Preprint](https://www.biorxiv.org/content/10.1101/2023.04.27.538566v1){: .btn .btn--primary} [Code](https://github.com/cct663/ece_vulnerability){: .btn .btn--info}
+
 Suh, Y. A.δ, **Taff, C. C.**, Tringali, A., & Fitzpatrick, J. W. Prospecting is physiologically costly in a resident cooperative breeder.
 
 **Taff, C. C.**, Ryan, T. A.δ, Uehling, J. J.δ, Injaian, A. S., & Vitousek, M. N. Within-individual consistency and between-individual variation in the egg shapes of tree swallows (*Tachycineta bicolor*). [Preprint](https://www.biorxiv.org/content/10.1101/2022.02.02.478835v1){: .btn .btn--primary} [Data + Code](https://github.com/cct663/tres_egg_shape){: .btn .btn--info}
