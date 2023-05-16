@@ -17,13 +17,13 @@ toc_icon: "feather-alt"
 ### Manuscripts in Review
 *§ undergraduate co-authors; δ graduate student co-authors; † equal contribution; †† senior author role*
 
-**Taff, C. C.**†, Shipley, J. R. Inconsistent shifts in warming and temperature variability negatively impact avian fitness. [Preprint](https://www.biorxiv.org/content/10.1101/2023.04.27.538566v1){: .btn .btn--primary} [Code](https://github.com/cct663/ece_vulnerability){: .btn .btn--info}
+**Taff, C. C.**†, Shipley, J. R.† Inconsistent shifts in warming and temperature variability negatively impact avian fitness. [Preprint](https://www.biorxiv.org/content/10.1101/2023.04.27.538566v1){: .btn .btn--primary} [Code](https://github.com/cct663/ece_vulnerability){: .btn .btn--info}
 
 **Taff, C. C.**, Ryan, T. A.δ, Uehling, J. J.δ, Injaian, A. S., & Vitousek, M. N. Within-individual consistency and between-individual variation in the egg shapes of tree swallows (*Tachycineta bicolor*). [Preprint](https://www.biorxiv.org/content/10.1101/2022.02.02.478835v1){: .btn .btn--primary} [Data + Code](https://github.com/cct663/tres_egg_shape){: .btn .btn--info}
 
 **Taff, C. C.**, McNew, S., Zimmer, C., Uehling, J. J.δ, Ryan, T. A.δ, Chang van Oordt, D.δ, Houtz, J. L.δ, Injaian, A., & Vitousek, M. N. Joint effects of social interactions and environmental challenges on physiology, internal microbiome, and reproductive performance in tree swallows (*Tachycineta bicolor*). [Preprint](https://doi.org/10.1101/2023.01.05.522952){: .btn .btn--primary}
 
-McNew, S. M.†, **Taff, C. C.**, & Vitousek, M. N. Manipulation of a social signal affects DNA methylation of a stress-related gene in a free-living bird.
+McNew, S. M.†, **Taff, C. C.**†, & Vitousek, M. N. Manipulation of a social signal affects DNA methylation of a stress-related gene in a free-living bird.
 
 McNew, S. M.†, **Taff, C. C.**†, Zimmer, C., Uehling, J. J.δ, Ryan, T. A.δ, Chang van Oordt, D.δ, Houtz, J. L.δ, Injaian, A. S., & Vitousek, M. N. Developmental stage-dependent effects of perceived predation risk on physiology and fledging success of tree swallows (*Tachycineta bicolor*). [Preprint](https://www.biorxiv.org/content/10.1101/2022.12.27.522041v1){: .btn .btn--primary} [Data + Code](https://github.com/smcnew/mcnew_etal_tres_nestling_telos){: .btn .btn--info}
 
