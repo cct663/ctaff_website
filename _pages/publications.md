@@ -21,8 +21,6 @@ toc_icon: "feather-alt"
 
 **Taff, C. C.**, Ryan, T. A.δ, Uehling, J. J.δ, Injaian, A. S., & Vitousek, M. N. Within-individual consistency and between-individual variation in the egg shapes of tree swallows (*Tachycineta bicolor*). [Preprint](https://www.biorxiv.org/content/10.1101/2022.02.02.478835v1){: .btn .btn--primary} [Data + Code](https://github.com/cct663/tres_egg_shape){: .btn .btn--info}
 
-**Taff, C. C.**, McNew, S., Zimmer, C., Uehling, J. J.δ, Ryan, T. A.δ, Chang van Oordt, D.δ, Houtz, J. L.δ, Injaian, A., & Vitousek, M. N. Joint effects of social interactions and environmental challenges on physiology, internal microbiome, and reproductive performance in tree swallows (*Tachycineta bicolor*). [Preprint](https://doi.org/10.1101/2023.01.05.522952){: .btn .btn--primary}
-
 McNew, S. M.†, **Taff, C. C.**†, & Vitousek, M. N. Manipulation of a social signal affects DNA methylation of a stress-related gene in a free-living bird.
 
 McNew, S. M.†, **Taff, C. C.**†, Zimmer, C., Uehling, J. J.δ, Ryan, T. A.δ, Chang van Oordt, D.δ, Houtz, J. L.δ, Injaian, A. S., & Vitousek, M. N. Developmental stage-dependent effects of perceived predation risk on physiology and fledging success of tree swallows (*Tachycineta bicolor*). [Preprint](https://www.biorxiv.org/content/10.1101/2022.12.27.522041v1){: .btn .btn--primary} [Data + Code](https://github.com/smcnew/mcnew_etal_tres_nestling_telos){: .btn .btn--info}
@@ -41,15 +39,17 @@ Suh, Y. A.δ, **Taff, C. C.**, Tringali, A., & Fitzpatrick, J. W. Prospecting is
 
 **2023**
 
+**62\.** **Taff, C. C.**, McNew, S., Zimmer, C., Uehling, J. J.δ, Ryan, T. A.δ, Chang van Oordt, D.δ, Houtz, J. L.δ, Injaian, A., & Vitousek, M. N. *Accepted*. Joint effects of social interactions and environmental challenges on physiology, internal microbiome, and reproductive performance in tree swallows (*Tachycineta bicolor*). *Journal of Experimental Zoology, Part A*. [Preprint](https://doi.org/10.1101/2023.01.05.522952){: .btn .btn--primary} [Data + Code](https://doi.org/10.5281/zenodo.7506939){: .btn .btn--info}
+
 **61\.** Ryan, T. A.δ, **Taff, C. C.**, Ryan, T. A., & Vitousek, M. N. 2023. Cold temperatures induce priming of the glucose stress response in tree swallows. *Comparative Biochemistry and Physiology, Part A*. [PDF](https://drive.google.com/file/d/1hcul8WT0JCMSVgcHDzOLoCmMyuxhkROH/view?usp=share_link){: .btn .btn--success} [DOI](https://doi.org/10.1016/j.cbpa.2023.111419){: .btn .btn--warning}
 
 **60\.** Dunn, P. O., ..., **Taff, C. C.**, ..., et al. (77 additional authors). 2023. Geographic and phenological variation in insect abundance across North America: implications for monitoring insect declines. *Ecology*. [PDF](https://drive.google.com/file/d/1K3sd0k_8MyETl1FRIafKZAsc4423-dde/view?usp=sharing){: .btn .btn--success} [DOI](https://doi.org/10.1002/ecy.4036){: .btn .btn--warning} [Data](https://doi.org/10.6084/m9.figshare.20415819.v1){: .btn .btn--info}
 
+**59\.** Zimmer, C., **Taff, C. C.**, Ardia, D. R., Rosvall, K. A., Kallenberg, C.§, Bentz, A. B., Taylor, A. R., Johnson, L. S., & Vitousek, M. N. 2022. Differential gene expression in the tree swallow brain is associated with environment and within-individual and among-population variation in glucocorticoid levels. *Hormones & Behavior*. [PDF](https://drive.google.com/file/d/1UVd0FOKOqpey3PynbPCNJmNznfq1Q0R1/view?usp=sharing){: .btn .btn--success} [DOI](https://www.sciencedirect.com/science/article/abs/pii/S0018506X2200174X){: .btn .btn--warning}
+
 **2022**
 
-**59\.** Zhou, J.δ, **Taff, C. C.**, Chang van Oordt, D.δ, Vitousek, M. N., & Kan, E. C. 2022. Radio-frequency near-field sensor design for miniscule internal motion. *IEEE Sensors Journal.* [PDF](https://drive.google.com/file/d/16XprHRKC9y6pLm0eWmk1LOWjVeaKCmRl/view?usp=sharing){: .btn .btn--success} [DOI](https://ieeexplore.ieee.org/document/9976935){: .btn .btn--warning}
-
-**58\.** Zimmer, C., **Taff, C. C.**, Ardia, D. R., Rosvall, K. A., Kallenberg, C.§, Bentz, A. B., Taylor, A. R., Johnson, L. S., & Vitousek, M. N. 2022. Differential gene expression in the tree swallow brain is associated with environment and within-individual and among-population variation in glucocorticoid levels. *Hormones & Behavior*. [PDF](https://drive.google.com/file/d/1UVd0FOKOqpey3PynbPCNJmNznfq1Q0R1/view?usp=sharing){: .btn .btn--success} [DOI](https://www.sciencedirect.com/science/article/abs/pii/S0018506X2200174X){: .btn .btn--warning}
+**58\.** Zhou, J.δ, **Taff, C. C.**, Chang van Oordt, D.δ, Vitousek, M. N., & Kan, E. C. 2022. Radio-frequency near-field sensor design for miniscule internal motion. *IEEE Sensors Journal.* [PDF](https://drive.google.com/file/d/16XprHRKC9y6pLm0eWmk1LOWjVeaKCmRl/view?usp=sharing){: .btn .btn--success} [DOI](https://ieeexplore.ieee.org/document/9976935){: .btn .btn--warning}
 
 **57\.** **Taff, C. C.** 2022. Functions for simulating data and designing studies of physiological flexibility in the acute glucocorticoid response to stressors. *PeerJ*. [PDF](https://drive.google.com/file/d/1xha3PznPmY1a90gyJc-7uU1dQsE5abnx/view?usp=sharing){: .btn .btn--success} [DOI](https://peerj.com/articles/14039/){: .btn .btn--warning} [Preprint](https://doi.org/10.32942/osf.io/fk29q){: .btn .btn--primary} [R Package](https://github.com/cct663/simcoRt){: .btn .btn--info} [Data + Code](https://github.com/cct663/speed_vs_scope){: .btn .btn--info}
 
