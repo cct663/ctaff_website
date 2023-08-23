@@ -34,12 +34,24 @@ feature_row2:
 
 The most effective learning occurs when students are actively engaged in defining their own questions, allowed to make mistakes, and encouraged to work through those mistakes to arrive at a genuine understanding of difficult concepts. This type of experiential learning is demanding for both instructors and students, but I am committed to providing a challenging and engaging learning experience to each of my students both when designing my classes and when mentoring independent research students. 
 
-
 Asking students to propose and struggle with their own questions approximates the process of scientific discovery that practicing scientists actually follow. When undergraduate biology students are guided into taking control of their own learning, they cultivate the independence and self-motivation that graduate schools and professional careers in biology demand. Creating opportunities for genuine scientific discovery through class work is challenging, but the best teachers that I have had often accomplish this task by employing active learning strategies, such as ‘flipped’ classrooms and by developing open-ended assignments that use real datasets for lab activities in which students have the opportunity to develop and test original hypotheses.
 
 <hr style="border:2px solid gray">
 
 ### Courses As Instructor
+
+#### Ecological Communities of the Northeast
+
+In the Fall semester of 2023, I will teach an intermediate level biology class focused on an ecological survey of habitats found in Maine at Colby College. Weekly labs will include field visits and data collection in each studied ecological community. Class and lab work will build skills in experimental design, data collection, and science communication.
+
+#### Animal Communication: Signaling with Sound, Sight, Smell, and More
+
+I designed and taught an Animal Communication class for non-majors at Colby College. Colby requires all students to fulfill two natural science requirements and my class was designed for this purpose. Given the goal, I had a mix of students with many different interests as well as a few biology students interested in the topic. I adapted material to cover basic principles in evolution, behavior, ecology, and physiology as they pertain to animal communication. For a text, we used Ed Yong's popular science book *An Immense World* to guide us through the sensory biology and perceptual experiences of non-human animals. Assignments were designed to get students involved in thinking through scientific concepts, to practice reading and interpreting research, and to provide flexibility to creatively interpret and reimagine the course material.
+
+*From my syllabus:* Animals signals are often teh most conspicuous sights, sounds, and smells in the natural world, and they have captivated teh attention of scientists and the public for centuries. Yet animal signals can also be undetectable to humans when they occur in private channels or using sensory modalities that we lack. To truly appreciate animal communication, we need to delve deeply into the sensory worlds of other animals to explore their fantastic diversity of sensory systems and signaling modalities. Our course will start here...
+
+[Syllabus](https://drive.google.com/file/d/1oU0QaVmpf1awumnxsETp4Ak821kKeuDI/view?usp=sharing){: .btn .btn--info}
+[Assignment Sheets](https://drive.google.com/file/d/10RKcdT7OoI8xkQcbnemdBYS1KATeyyYk/view?usp=sharing){: .btn .btn--info}
 
 #### Ornithology: BioEE4750
 
@@ -53,7 +65,6 @@ Together with [Jen Walsh-Emond](http://jenniferlwalsh.com/) I redesigned and tau
 
 [Syllabus](https://drive.google.com/file/d/1YNjy-B9oUyfY3e3-7SL5cC1NRMqEn4SL/view?usp=sharing){: .btn .btn--info}
 [Assignment Sheets](https://drive.google.com/file/d/1W0iofJJNZGFXwxfd5Xxyy7Q1hyr6Lsbq/view?usp=sharing){: .btn .btn--info}
-
 
 <hr style="border:2px solid gray">
 
