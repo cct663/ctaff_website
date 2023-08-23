@@ -63,6 +63,10 @@ My organism-centered approach emphasizes the importance of connections across di
 
 {% include feature_row id="feature_rowa" %}
 
+### From Individual Mechanisms to Population Patterns of Climate Change Impacts
+
+
+
 ### Resilience to Environmental Challenges
 
 One of the major challenges that animals face in natural populations is dealing effectively with unpredictable and rapidly changing environmental conditions. The ability to deal with these challenges is increasingly important to understand to understand because of global climate change. Much of my research on tree swallows since 2015 investigates the way that flexibility—or lack thereof—in suites of physiological and behavioral traits allows animals to persevere through challenging conditions. 
