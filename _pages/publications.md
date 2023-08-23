@@ -19,6 +19,8 @@ toc_icon: "feather-alt"
 
 **Taff, C. C.**†, Shipley, J. R.† Inconsistent shifts in warming and temperature variability negatively impact avian fitness. [Preprint](https://www.biorxiv.org/content/10.1101/2023.04.27.538566v1){: .btn .btn--primary} [Code](https://github.com/cct663/ece_vulnerability){: .btn .btn--info}
 
+**Taff, C. C.**, Baldan, D., Mentesana, L., Ouyang, J. Q., Vitousek, M. N., & Hau, M. Endocrine flexibility can facilitate or constrain the ability to cope with global change.
+
 **Taff, C. C.**, McNew, S. M., Campagna, L. C., & Vitousek, M. N. Corticosterone exposure causes long-term changes in DNA methylation, physiology, and breeding decisions in a wild bird. [Preprint](https://www.biorxiv.org/content/10.1101/2023.07.07.548150v1){: .btn .btn--primary} [Data + Code](https://github.com/cct663/tres_rrbs){: .btn .btn--info}
 
 **Taff, C. C.**, Ryan, T. A.δ, Uehling, J. J.δ, Injaian, A. S., & Vitousek, M. N. Within-individual consistency and between-individual variation in the egg shapes of tree swallows (*Tachycineta bicolor*). [Preprint](https://www.biorxiv.org/content/10.1101/2022.02.02.478835v1){: .btn .btn--primary} [Data + Code](https://github.com/cct663/tres_egg_shape){: .btn .btn--info}
@@ -33,9 +35,15 @@ Wolf, S. E.δ, Woodruff, M. J.δ, Chang van Oordt, D. A.δ, Clotfelter, E. D., C
 
 Hallinger, K. K., Pegan, T. M.δ, Andersen, M. J., Ardia, D. R., Belmaker, A., Chang van Oordt, D.δ, Ferretti, V., Forsman, A. M., Gaul, J. R., Llambias, P. E., Orzechowski, S. C., Shipley, J. R., Stager, M., **Taff, C. C.**, Uehling, J. J.δ, Verhoeven, M., Vitousek, M., Wilson, M., Yoon, H. S., Wrege, P. H., & Winker, D. W. Comparing the reproductive performance of dispersers vs. non-dispersers: a point-of-settlement approach to understanding the diversity of tree swallow dispersal strategies in a continuous mainland environment.
 
+Miller, C. R.δ, **Taff, C. C.**, Uehling, J. J.δ, Rose, A. P., & Vitousek, M. N. Moonlight intensity affects the timing and duration of parental behavior across latitudes in a diurnal songbird.
+
 Uehling, J. J.δ, **Taff, C. C.**, Houtz, J. L.δ, Becker, P. M.§, & Vitousek, M. N. Predictors and consequences of diet variation in a declining generalist aerial insectivore.
 
 Suh, Y. A.δ, **Taff, C. C.**, Tringali, A., & Fitzpatrick, J. W. Prospecting is physiologically costly in a resident cooperative breeder.
+
+Chang van Oordt, D. A.δ, Zimmer, C., Ardia, D. R., **Taff, C. C.**, Johnson, L. S., Rose, A. R., Aborn, D. A., Ryan, T. A.δ, Uehling, J. J.δ, & Vitousek, M. N. Geographical variation in bactericidal ability of breeding tree swallows (*Tachycineta bicolor*).
+
+Chang van Oordt, D. A.δ, **Taff, C. C.**, Pipkin, M. A.δ, Ryan, T. A.δ, & Vitousek, M. N. Experimentally-elevated corticosterone does not affect bacteria killing ability of breeding female tree swallows (*Tachycineta bicolor*).
 
 ### Peer-Reviewed Articles
 
@@ -47,7 +55,7 @@ Suh, Y. A.δ, **Taff, C. C.**, Tringali, A., & Fitzpatrick, J. W. Prospecting is
 
 **60\.** Dunn, P. O., ..., **Taff, C. C.**, ..., et al. (77 additional authors). 2023. Geographic and phenological variation in insect abundance across North America: implications for monitoring insect declines. *Ecology*. [PDF](https://drive.google.com/file/d/1K3sd0k_8MyETl1FRIafKZAsc4423-dde/view?usp=sharing){: .btn .btn--success} [DOI](https://doi.org/10.1002/ecy.4036){: .btn .btn--warning} [Data](https://doi.org/10.6084/m9.figshare.20415819.v1){: .btn .btn--info}
 
-**59\.** Zimmer, C., **Taff, C. C.**, Ardia, D. R., Rosvall, K. A., Kallenberg, C.§, Bentz, A. B., Taylor, A. R., Johnson, L. S., & Vitousek, M. N. 2022. Differential gene expression in the tree swallow brain is associated with environment and within-individual and among-population variation in glucocorticoid levels. *Hormones & Behavior*. [PDF](https://drive.google.com/file/d/1UVd0FOKOqpey3PynbPCNJmNznfq1Q0R1/view?usp=sharing){: .btn .btn--success} [DOI](https://www.sciencedirect.com/science/article/abs/pii/S0018506X2200174X){: .btn .btn--warning}
+**59\.** Zimmer, C., **Taff, C. C.**, Ardia, D. R., Rosvall, K. A., Kallenberg, C.§, Bentz, A. B., Taylor, A. R., Johnson, L. S., & Vitousek, M. N. 2023. Differential gene expression in the tree swallow brain is associated with environment and within-individual and among-population variation in glucocorticoid levels. *Hormones & Behavior*. [PDF](https://drive.google.com/file/d/1UVd0FOKOqpey3PynbPCNJmNznfq1Q0R1/view?usp=sharing){: .btn .btn--success} [DOI](https://www.sciencedirect.com/science/article/abs/pii/S0018506X2200174X){: .btn .btn--warning}
 
 **2022**
 
