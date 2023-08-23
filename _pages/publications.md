@@ -14,38 +14,8 @@ toc_icon: "feather-alt"
 ### Google Scholar Profile
 [Click here](https://scholar.google.com/citations?user=PEw-C7MAAAAJ&hl=en&oi=ao)
 
-### Manuscripts in Review
-*§ undergraduate co-authors; δ graduate student co-authors; † equal contribution; †† senior author role*
-
-**Taff, C. C.**†, Shipley, J. R.† Inconsistent shifts in warming and temperature variability negatively impact avian fitness. [Preprint](https://www.biorxiv.org/content/10.1101/2023.04.27.538566v1){: .btn .btn--primary} [Code](https://github.com/cct663/ece_vulnerability){: .btn .btn--info}
-
-**Taff, C. C.**, Baldan, D., Mentesana, L., Ouyang, J. Q., Vitousek, M. N., & Hau, M. Endocrine flexibility can facilitate or constrain the ability to cope with global change.
-
-**Taff, C. C.**, McNew, S. M., Campagna, L. C., & Vitousek, M. N. Corticosterone exposure causes long-term changes in DNA methylation, physiology, and breeding decisions in a wild bird. [Preprint](https://www.biorxiv.org/content/10.1101/2023.07.07.548150v1){: .btn .btn--primary} [Data + Code](https://github.com/cct663/tres_rrbs){: .btn .btn--info}
-
-**Taff, C. C.**, Ryan, T. A.δ, Uehling, J. J.δ, Injaian, A. S., & Vitousek, M. N. Within-individual consistency and between-individual variation in the egg shapes of tree swallows (*Tachycineta bicolor*). [Preprint](https://www.biorxiv.org/content/10.1101/2022.02.02.478835v1){: .btn .btn--primary} [Data + Code](https://github.com/cct663/tres_egg_shape){: .btn .btn--info}
-
-McNew, S. M.†, **Taff, C. C.**†, & Vitousek, M. N. Manipulation of a social signal affects DNA methylation of a stress-related gene in a free-living bird.
-
-McNew, S. M.†, **Taff, C. C.**†, Zimmer, C., Uehling, J. J.δ, Ryan, T. A.δ, Chang van Oordt, D.δ, Houtz, J. L.δ, Injaian, A. S., & Vitousek, M. N. Developmental stage-dependent effects of perceived predation risk on physiology and fledging success of tree swallows (*Tachycineta bicolor*). [Preprint](https://www.biorxiv.org/content/10.1101/2022.12.27.522041v1){: .btn .btn--primary} [Data + Code](https://github.com/smcnew/mcnew_etal_tres_nestling_telos){: .btn .btn--info}
-
-Knutie, S. A., Bertone, M., Bahouth, R.§, Webb, C.§, Mehta, M.§, Nahom, M.§, Barta, R.§, Ghai, S.§, Balenter, S., Butler, M., Kennedy, A., Reichard, B. S., **Taff, C. C.**, & Albery, G. Understanding spatiotemporal effects of food supplementation on host-parasite interactions using community-based science. [Preprint](https://doi.org/10.1101/2022.06.02.494595){: .btn .btn--primary}
-
-Wolf, S. E.δ, Woodruff, M. J.δ, Chang van Oordt, D. A.δ, Clotfelter, E. D., Cristol, D. A., Derryberry, E. P., Ferguson, S. M., Stanback, M. T., **Taff, C. C.**, Tobin, K. J., Vitousek, M. N., Westneat, D. F., & Rosvall, K. A. Ecogeographic variation in telomere regulatory proteins and their potential to drive life history variation.
-
-Hallinger, K. K., Pegan, T. M.δ, Andersen, M. J., Ardia, D. R., Belmaker, A., Chang van Oordt, D.δ, Ferretti, V., Forsman, A. M., Gaul, J. R., Llambias, P. E., Orzechowski, S. C., Shipley, J. R., Stager, M., **Taff, C. C.**, Uehling, J. J.δ, Verhoeven, M., Vitousek, M., Wilson, M., Yoon, H. S., Wrege, P. H., & Winker, D. W. Comparing the reproductive performance of dispersers vs. non-dispersers: a point-of-settlement approach to understanding the diversity of tree swallow dispersal strategies in a continuous mainland environment.
-
-Miller, C. R.δ, **Taff, C. C.**, Uehling, J. J.δ, Rose, A. P., & Vitousek, M. N. Moonlight intensity affects the timing and duration of parental behavior across latitudes in a diurnal songbird.
-
-Uehling, J. J.δ, **Taff, C. C.**, Houtz, J. L.δ, Becker, P. M.§, & Vitousek, M. N. Predictors and consequences of diet variation in a declining generalist aerial insectivore.
-
-Suh, Y. A.δ, **Taff, C. C.**, Tringali, A., & Fitzpatrick, J. W. Prospecting is physiologically costly in a resident cooperative breeder.
-
-Chang van Oordt, D. A.δ, Zimmer, C., Ardia, D. R., **Taff, C. C.**, Johnson, L. S., Rose, A. R., Aborn, D. A., Ryan, T. A.δ, Uehling, J. J.δ, & Vitousek, M. N. Geographical variation in bactericidal ability of breeding tree swallows (*Tachycineta bicolor*).
-
-Chang van Oordt, D. A.δ, **Taff, C. C.**, Pipkin, M. A.δ, Ryan, T. A.δ, & Vitousek, M. N. Experimentally-elevated corticosterone does not affect bacteria killing ability of breeding female tree swallows (*Tachycineta bicolor*).
-
 ### Peer-Reviewed Articles
+*§ undergraduate co-authors; δ graduate student co-authors; † equal contribution; †† senior author role*
 
 **2023**
 
@@ -200,6 +170,36 @@ Chang van Oordt, D. A.δ, **Taff, C. C.**, Pipkin, M. A.δ, Ryan, T. A.δ, & Vit
 
 **1\.** 	Freeman-Gallant, C. R., **Taff, C. C.**, Morin, D.§, Dunn, P. O., Whittingham, L. A. & Tsang, S. M.§ 2010. Sexual selection, multiple male ornaments, and age- and condition-dependent signaling in the common yellowthroat. *Evolution*. [PDF](https://drive.google.com/file/d/0B8ePJPhFoSk4YnZYc083R3NCY28/edit){: .btn .btn--success} [DOI](https://doi.org/10.1111/j.1558-5646.2009.00873.x){: .btn .btn--warning} [Science Now](https://drive.google.com/file/d/0B8ePJPhFoSk4RnpsUHlMVTU0dlU/edit){: .btn .btn--danger}
 
+### Manuscripts in Review
+*§ undergraduate co-authors; δ graduate student co-authors; † equal contribution; †† senior author role*
+
+**Taff, C. C.**†, Shipley, J. R.† Inconsistent shifts in warming and temperature variability negatively impact avian fitness. [Preprint](https://www.biorxiv.org/content/10.1101/2023.04.27.538566v1){: .btn .btn--primary} [Code](https://github.com/cct663/ece_vulnerability){: .btn .btn--info}
+
+**Taff, C. C.**, Baldan, D., Mentesana, L., Ouyang, J. Q., Vitousek, M. N., & Hau, M. Endocrine flexibility can facilitate or constrain the ability to cope with global change.
+
+**Taff, C. C.**, McNew, S. M., Campagna, L. C., & Vitousek, M. N. Corticosterone exposure causes long-term changes in DNA methylation, physiology, and breeding decisions in a wild bird. [Preprint](https://www.biorxiv.org/content/10.1101/2023.07.07.548150v1){: .btn .btn--primary} [Data + Code](https://github.com/cct663/tres_rrbs){: .btn .btn--info}
+
+**Taff, C. C.**, Ryan, T. A.δ, Uehling, J. J.δ, Injaian, A. S., & Vitousek, M. N. Within-individual consistency and between-individual variation in the egg shapes of tree swallows (*Tachycineta bicolor*). [Preprint](https://www.biorxiv.org/content/10.1101/2022.02.02.478835v1){: .btn .btn--primary} [Data + Code](https://github.com/cct663/tres_egg_shape){: .btn .btn--info}
+
+McNew, S. M.†, **Taff, C. C.**†, & Vitousek, M. N. Manipulation of a social signal affects DNA methylation of a stress-related gene in a free-living bird.
+
+McNew, S. M.†, **Taff, C. C.**†, Zimmer, C., Uehling, J. J.δ, Ryan, T. A.δ, Chang van Oordt, D.δ, Houtz, J. L.δ, Injaian, A. S., & Vitousek, M. N. Developmental stage-dependent effects of perceived predation risk on physiology and fledging success of tree swallows (*Tachycineta bicolor*). [Preprint](https://www.biorxiv.org/content/10.1101/2022.12.27.522041v1){: .btn .btn--primary} [Data + Code](https://github.com/smcnew/mcnew_etal_tres_nestling_telos){: .btn .btn--info}
+
+Knutie, S. A., Bertone, M., Bahouth, R.§, Webb, C.§, Mehta, M.§, Nahom, M.§, Barta, R.§, Ghai, S.§, Balenter, S., Butler, M., Kennedy, A., Reichard, B. S., **Taff, C. C.**, & Albery, G. Understanding spatiotemporal effects of food supplementation on host-parasite interactions using community-based science. [Preprint](https://doi.org/10.1101/2022.06.02.494595){: .btn .btn--primary}
+
+Wolf, S. E.δ, Woodruff, M. J.δ, Chang van Oordt, D. A.δ, Clotfelter, E. D., Cristol, D. A., Derryberry, E. P., Ferguson, S. M., Stanback, M. T., **Taff, C. C.**, Tobin, K. J., Vitousek, M. N., Westneat, D. F., & Rosvall, K. A. Ecogeographic variation in telomere regulatory proteins and their potential to drive life history variation.
+
+Hallinger, K. K., Pegan, T. M.δ, Andersen, M. J., Ardia, D. R., Belmaker, A., Chang van Oordt, D.δ, Ferretti, V., Forsman, A. M., Gaul, J. R., Llambias, P. E., Orzechowski, S. C., Shipley, J. R., Stager, M., **Taff, C. C.**, Uehling, J. J.δ, Verhoeven, M., Vitousek, M., Wilson, M., Yoon, H. S., Wrege, P. H., & Winker, D. W. Comparing the reproductive performance of dispersers vs. non-dispersers: a point-of-settlement approach to understanding the diversity of tree swallow dispersal strategies in a continuous mainland environment.
+
+Miller, C. R.δ, **Taff, C. C.**, Uehling, J. J.δ, Rose, A. P., & Vitousek, M. N. Moonlight intensity affects the timing and duration of parental behavior across latitudes in a diurnal songbird.
+
+Uehling, J. J.δ, **Taff, C. C.**, Houtz, J. L.δ, Becker, P. M.§, & Vitousek, M. N. Predictors and consequences of diet variation in a declining generalist aerial insectivore.
+
+Suh, Y. A.δ, **Taff, C. C.**, Tringali, A., & Fitzpatrick, J. W. Prospecting is physiologically costly in a resident cooperative breeder.
+
+Chang van Oordt, D. A.δ, Zimmer, C., Ardia, D. R., **Taff, C. C.**, Johnson, L. S., Rose, A. R., Aborn, D. A., Ryan, T. A.δ, Uehling, J. J.δ, & Vitousek, M. N. Geographical variation in bactericidal ability of breeding tree swallows (*Tachycineta bicolor*).
+
+Chang van Oordt, D. A.δ, **Taff, C. C.**, Pipkin, M. A.δ, Ryan, T. A.δ, & Vitousek, M. N. Experimentally-elevated corticosterone does not affect bacteria killing ability of breeding female tree swallows (*Tachycineta bicolor*).
 
 
 
