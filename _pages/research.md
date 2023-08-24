@@ -42,6 +42,18 @@ tres_row2:
     excerpt: "Experimental dulling of breast coloration [led to](https://www.biorxiv.org/content/10.1101/826719v1) higher seasonal reproductive success."
   - image_path: /assets/images/tres_bright.jpg
     excerpt: "The brightness of female's breast coloration [predicts](https://drive.google.com/file/d/1sPvZCSnlpsOaKGZlS-VSC5NLJbyEMUsP/view) genome wide patterns of DNA methylation."
+
+tres_row3:
+  - image_path: /assets/images/cort_cold.jpg
+    excerpt: "Natural variation in temperature is correlated with corticosterone regulation and experimentally induced cold challenges [causally](https://drive.google.com/file/d/1GSEzyzYL7U7kbQN8Fct4_bjC0pp5vQQt/view) alter the strength of the corticosterone response, which is in turn [related](https://drive.google.com/file/d/1vGGRKDEzrJzbKdEm67jq_XJZEZCHvMgg/view) to reproductive performance."
+  - image_path: /assets/images/pnas_cold.jpg
+    excerpt: "Using our long term tree swallow database, we have shown that cold snaps occuring at the wrong time have major negative [consequences](https://drive.google.com/file/d/1S45xY36ZsE9cW8m8W9Ptaerf2tKpiMO8/view) for tree swallows and that a combination of selection and developmental plasticity as a consequence of warming has changed adult and nestling [mophology](https://drive.google.com/file/d/15MpSHp0piN-kIegWSeRv4u640Yfy1MWz/view)."
+  - image_path: /assets/images/hb_speed.jpg
+    excerpt: "Using comparative data and a phylogenetically controlled reaction norm approach, we [found](https://drive.google.com/file/d/1JjGZ41EbOHl23JmTD7OOwpv9pyiKD5Hs/view) that temperature and temperature variability are related to the speed of the corticosterone stress response, suggesting evolution of corticosterone regulation to deal with climate."
+
+tres_row4:
+  - image_path: /assets/images/nestwatch_fig.jpg
+    excerpt: "Combining 300,000 records of breeding attempts from 24 common birds with 100 years of historical temperature data, we [showed](https://www.biorxiv.org/content/10.1101/2023.04.27.538566v1) that most species are vulnerable to heat-waves and, especially, cold-snaps that occur during a breeding attempt. Even though springs are warmer, we show that the timing of extreme events hasn't changed predictably, potentially exposing many species to more extreme events during breeding as a consequence of global climate change." 
     
 crow_row:
   - image_path: /assets/images/crow1.jpg
@@ -65,7 +77,11 @@ My organism-centered approach emphasizes the importance of connections across di
 
 ### From Individual Mechanisms to Population Patterns of Climate Change Impacts
 
+Many of my current projects revolve around trying to understand the implications of variation in individual level processes to climate challenges on larger scale population and species responses to climate change. While there is overwhelming evidence that climate change has impacted populations, demonstrating these individual to population linkages is often challenging. I am especially interested in these studies because animals deal with temperature and variability in the environment at the individual scale and the large scale patterns that we can detect from long term monitoring must result from the accumulated responses of many individual animals. I have tackled these projects using a combination of experimental physiology in free living birds, analysis of long term breeding records, comparative studies of physiological evolution and, most recently, integration of these mechanism focused approaches with community science databases, such as Nestwatch and eBird. This is a major area of growth in my current research program and I have many projects in the pipeline that build on this framework.
 
+{% include feature_row id="tres_row3" %}
+
+{% include feature_row id="tres_row4" %}
 
 ### Resilience to Environmental Challenges
 
