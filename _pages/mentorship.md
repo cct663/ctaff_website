@@ -53,11 +53,11 @@ Throughout my research career I have worked with many students who participated 
 
 <hr style="border:2px solid gray">
 
-**Audrey Su**
+{%include figure image_path="assets/images/audrey.jpg" alt="" caption="" %} **Audrey Su** worked as a field assistant in the summer of 2022 and returned as a field crew leader in the summer of 2023. In her senior year at Cornell, Audrey is completing an honors thesis using experimental tree swallow data that she helped collect. She will examine how tree swallow females change their incubation behavior during experimentally simulated cold snaps and after experimental dosing with corticosterone. We know that the response to cold snaps is critical for success and our previous work has shown that because tree swallows are breeding earlier as a consequence of climate change, they are more likely to encounter early season cold snaps when nestlings are vulnerable. Audrey's project is ambitious and includes a huge amount of field data coupled with bench work to measure hormones and data science approaches to process and summarize continuous temperature records in the egg cup of each nest along with ambient temperatures.
 
 <hr style="border:2px solid gray">
 
-**Gracey Brouilliard**
+**Gracey Brouilliard** worked as a field assistant in the summer of 2022 and is currently conducting an honors thesis using field data that she helped collect. Gracey will examine the abundance of nest parasites, particularly blowflies (*Protocalliphora*), in tree swallow nests that did or did not receive experimental cooling. Because tree swallows use nest boxes to breed, parasites can be a major challenge and later season nests are often overrun by several different types of parasites. Gracey will dissect and meticulously count the number and size of parasitic blowflies and ask whether cooling reduces parasite number as well as whether parasite number has measurable effects on the tree swallows.
 
 <hr style="border:2px solid gray">
 
@@ -65,7 +65,7 @@ Throughout my research career I have worked with many students who participated 
 
 <hr style="border:2px solid gray">
 
-{%include figure image_path="assets/images/raquel.jpg" alt="" caption="" %} **Raquel Castromonte** worked as a field assistnat for the summer of 2019 and continued as an undergraduate researcher in the Vitousek Lab. As a McNair scholar, Raquel spent summer 2020 working on enhancing her R skills and performing an extensive literature review on the composition of the tree swallow diet. She is currently pursuing a research project on the composition of tree swallow diet and foraging behaviors using fecal sample data and nesting locations from the 2019 and 2020 field seasons. Previous studies ([1](https://doi.org/10.1073/pnas.1603998113), [2](https://doi.org/10.1111/ele.13156)) suggest that aquatic insects have higher levels of polyunsaturated fatty acids, which help increase chick performance and breeding success. Raquel's project focuses on identifying patterns of habitat composition and its influences on the quality of adult tree swallow diet in Ithaca, NY in the hopes of identifying habitat types that improve tree swallow performance.
+{%include figure image_path="assets/images/raquel.jpg" alt="" caption="" %} **Raquel Castromonte** worked as a field assistant for the summer of 2019 and continued as an undergraduate researcher in the Vitousek Lab. As a McNair scholar, Raquel spent summer 2020 working on enhancing her R skills and performing an extensive literature review on the composition of the tree swallow diet. She is currently pursuing a research project on the composition of tree swallow diet and foraging behaviors using fecal sample data and nesting locations from the 2019 and 2020 field seasons. Previous studies ([1](https://doi.org/10.1073/pnas.1603998113), [2](https://doi.org/10.1111/ele.13156)) suggest that aquatic insects have higher levels of polyunsaturated fatty acids, which help increase chick performance and breeding success. Raquel's project focuses on identifying patterns of habitat composition and its influences on the quality of adult tree swallow diet in Ithaca, NY in the hopes of identifying habitat types that improve tree swallow performance.
 
 <hr style="border:2px solid gray">
 
