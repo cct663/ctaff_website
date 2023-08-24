@@ -50,10 +50,6 @@ tres_row3:
     excerpt: "Using our long term tree swallow database, we have shown that cold snaps occuring at the wrong time have major negative [consequences](https://drive.google.com/file/d/1S45xY36ZsE9cW8m8W9Ptaerf2tKpiMO8/view) for tree swallows and that a combination of selection and developmental plasticity as a consequence of warming has changed adult and nestling [mophology](https://drive.google.com/file/d/15MpSHp0piN-kIegWSeRv4u640Yfy1MWz/view)."
   - image_path: /assets/images/hb_speed.jpg
     excerpt: "Using comparative data and a phylogenetically controlled reaction norm approach, we [found](https://drive.google.com/file/d/1JjGZ41EbOHl23JmTD7OOwpv9pyiKD5Hs/view) that temperature and temperature variability are related to the speed of the corticosterone stress response, suggesting evolution of corticosterone regulation to deal with climate."
-
-tres_row4:
-  - image_path: /assets/images/nestwatch_fig.jpg
-    excerpt: "Combining 300,000 records of breeding attempts from 24 common birds with 100 years of historical temperature data, we [showed](https://www.biorxiv.org/content/10.1101/2023.04.27.538566v1) that most species are vulnerable to heat-waves and, especially, cold-snaps that occur during a breeding attempt. Even though springs are warmer, we show that the timing of extreme events hasn't changed predictably, potentially exposing many species to more extreme events during breeding as a consequence of global climate change." 
     
 crow_row:
   - image_path: /assets/images/crow1.jpg
@@ -81,7 +77,7 @@ Many of my current projects revolve around trying to understand the implications
 
 {% include feature_row id="tres_row3" %}
 
-{% include feature_row id="tres_row4" %}
+{% include figure image_path="/assets/images/nestwatch_fig.jpg" alt="" caption="Combining 300,000 records of breeding attempts from 24 common birds with 100 years of historical temperature data, we [showed](https://www.biorxiv.org/content/10.1101/2023.04.27.538566v1) that most species are vulnerable to heat-waves and, especially, cold-snaps that occur during a breeding attempt. Even though springs are warmer, we show that the timing of extreme events hasn't changed predictably, potentially exposing many species to more extreme events during breeding as a consequence of global climate change." %}
 
 ### Resilience to Environmental Challenges
 
