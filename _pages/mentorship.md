@@ -57,7 +57,7 @@ Throughout my research career I have worked with many students who participated 
 
 <hr style="border:2px solid gray">
 
-**Gracey Brouilliard** worked as a field assistant in the summer of 2022 and is currently conducting an honors thesis using field data that she helped collect. Gracey will examine the abundance of nest parasites, particularly blowflies (*Protocalliphora*), in tree swallow nests that did or did not receive experimental cooling. Because tree swallows use nest boxes to breed, parasites can be a major challenge and later season nests are often overrun by several different types of parasites. Gracey will dissect and meticulously count the number and size of parasitic blowflies and ask whether cooling reduces parasite number as well as whether parasite number has measurable effects on the tree swallows.
+**Gracey Brouillard** worked as a field assistant in the summer of 2022 and is currently conducting an honors thesis using field data that she helped collect. Gracey will examine the abundance of nest parasites, particularly blowflies (*Protocalliphora*), in tree swallow nests that did or did not receive experimental cooling. Because tree swallows use nest boxes to breed, parasites can be a major challenge and later season nests are often overrun by several different types of parasites. Gracey will dissect and meticulously count the number and size of parasitic blowflies and ask whether cooling reduces parasite number as well as whether parasite number has measurable effects on the tree swallows.
 
 <hr style="border:2px solid gray">
 
