@@ -132,7 +132,7 @@ toc_icon: "feather-alt"
 
 **14\.** 	Patricelli, G., **Taff, C. C.**, & Krakauer, A. H. 2016. Variable signals in a complex world: Shifting views of individual variability in sexual display traits. *Advances in the Study of Behavior*. [PDF](https://drive.google.com/file/d/0B8ePJPhFoSk4NkZaaDc5V3c4UWc/view){: .btn .btn--success} [DOI](https://doi.org/10.1016/bs.asb.2016.02.002){: .btn .btn--warning}
 
-**13\.** 	**Taff, C. C.** & Vitousek, M. N. 2016. Endocrine flexibility: optimizing phenotypes in a dynamic world? *Trends in Ecology and Evolution*. [PDF](https://drive.google.com/file/d/0B8ePJPhFoSk4bDAzcV9tbnVacHc/view){: .btn .btn--success} [DOI](https://doi.org/10.1016/j.tree.2016.03.005){: .btn .btn--warning}
+**13\.** 	**Taff, C. C.** & Vitousek, M. N. 2016. Endocrine flexibility: optimizing phenotypes in a dynamic world? *Trends in Ecology and Evolution*. [PDF](https://drive.google.com/file/d/0B8ePJPhFoSk4bDAzcV9tbnVacHc/view?usp=sharing&resourcekey=0-vXWIyo3Z0stHBhAZldDy_g){: .btn .btn--success} [DOI](https://doi.org/10.1016/j.tree.2016.03.005){: .btn .btn--warning}
 
 **12\.** 	**Taff, C. C.** & Freeman-Gallant, C. R. 2016. Experimental tests of the function and flexibility of song consistency in a wild bird. *Ethology*. [PDF](https://drive.google.com/file/d/0B8ePJPhFoSk4dHJqYzhGQ2R1R0k/view){: .btn .btn--success} [Data + Code](https://datadryad.org/stash/dataset/doi:10.5061/dryad.j5b8c){: .btn .btn--info} [DOI](https://doi.org/10.1111/eth.12471){: .btn .btn--warning}
 
@@ -162,13 +162,13 @@ toc_icon: "feather-alt"
 
 **2011**
 
-**3\.** 	Freeman-Gallant, C., Amidon, J.§, Berdy, B.§, Wein, S.§, **Taff, C. C.**, & Haussmann, M. F. 2011. Oxidative damage to DNA related to survivorship and carotenoid-based sexual ornamentation in the common yellowthroat. *Biology Letters*. [PDF](https://drive.google.com/file/d/0B8ePJPhFoSk4eTRpcld1dk11SGM/edit){: .btn .btn--success} [DOI](https://doi.org/10.1098/rsbl.2010.1186){: .btn .btn--warning}
+**3\.** 	Freeman-Gallant, C., Amidon, J.§, Berdy, B.§, Wein, S.§, **Taff, C. C.**, & Haussmann, M. F. 2011. Oxidative damage to DNA related to survivorship and carotenoid-based sexual ornamentation in the common yellowthroat. *Biology Letters*. [PDF](https://drive.google.com/file/d/0B8ePJPhFoSk4eTRpcld1dk11SGM/view?usp=sharing&resourcekey=0-vHExgMCLtFBHuMymYj-RvA){: .btn .btn--success} [DOI](https://doi.org/10.1098/rsbl.2010.1186){: .btn .btn--warning}
 
-**2\.** 	**Taff, C. C.**, Freeman-Gallant, C. R., Dunn, P. O. & Whittingham, L. A. 2011. Relationship between brood sex ratio and male ornamentation depends on male age in a warbler. *Animal Behaviour*. [PDF](https://drive.google.com/file/d/0B8ePJPhFoSk4Q1Zmcm4zamdYRDA/edit){: .btn .btn--success} [DOI](https://doi.org/10.1016/j.anbehav.2010.12.009){: .btn .btn--warning}
+**2\.** 	**Taff, C. C.**, Freeman-Gallant, C. R., Dunn, P. O. & Whittingham, L. A. 2011. Relationship between brood sex ratio and male ornamentation depends on male age in a warbler. *Animal Behaviour*. [PDF](https://drive.google.com/file/d/0B8ePJPhFoSk4Q1Zmcm4zamdYRDA/view?usp=sharing&resourcekey=0-H0A533lBtqMZhE2oddftXQ){: .btn .btn--success} [DOI](https://doi.org/10.1016/j.anbehav.2010.12.009){: .btn .btn--warning}
 
 **2010**
 
-**1\.** 	Freeman-Gallant, C. R., **Taff, C. C.**, Morin, D.§, Dunn, P. O., Whittingham, L. A. & Tsang, S. M.§ 2010. Sexual selection, multiple male ornaments, and age- and condition-dependent signaling in the common yellowthroat. *Evolution*. [PDF](https://drive.google.com/file/d/0B8ePJPhFoSk4YnZYc083R3NCY28/edit){: .btn .btn--success} [DOI](https://doi.org/10.1111/j.1558-5646.2009.00873.x){: .btn .btn--warning} [Science Now](https://drive.google.com/file/d/0B8ePJPhFoSk4RnpsUHlMVTU0dlU/edit){: .btn .btn--danger}
+**1\.** 	Freeman-Gallant, C. R., **Taff, C. C.**, Morin, D.§, Dunn, P. O., Whittingham, L. A. & Tsang, S. M.§ 2010. Sexual selection, multiple male ornaments, and age- and condition-dependent signaling in the common yellowthroat. *Evolution*. [PDF](https://drive.google.com/file/d/0B8ePJPhFoSk4YnZYc083R3NCY28/view?usp=sharing&resourcekey=0-eJfoajbUKkuk_hwFWxruYQ){: .btn .btn--success} [DOI](https://doi.org/10.1111/j.1558-5646.2009.00873.x){: .btn .btn--warning} [Science Now](https://drive.google.com/file/d/0B8ePJPhFoSk4RnpsUHlMVTU0dlU/edit){: .btn .btn--danger}
 
 ### Manuscripts in Review
 *§ undergraduate co-authors; δ graduate student co-authors; † equal contribution; †† senior author role*
