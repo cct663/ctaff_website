@@ -19,7 +19,9 @@ toc_icon: "feather-alt"
 
 **2023**
 
-**62\.** **Taff, C. C.**, McNew, S., Zimmer, C., Uehling, J. J.δ, Ryan, T. A.δ, Chang van Oordt, D.δ, Houtz, J. L.δ, Injaian, A., & Vitousek, M. N. *Accepted*. Social signal manipulation and environmental challenges have independent effects on physiology, internal microbiome, and reproductive performance in tree swallows (*Tachycineta bicolor*). *Journal of Experimental Zoology, Part A*. [PDF](https://drive.google.com/file/d/1YYifoYfeUAYcheqnld3d1eJMNHtb2-Sr/view?usp=sharing){: .btn .btn--success} [Preprint](https://doi.org/10.1101/2023.01.05.522952){: .btn .btn--primary} [Data + Code](https://doi.org/10.5281/zenodo.7506939){: .btn .btn--info}
+**63\.** **Taff, C. C.**†, Shipley, J. R.† *Accepted* Inconsistent shifts in warming and temperature variability are linked to reduced avian fitness. *Nature Communications*. [Preprint](https://www.biorxiv.org/content/10.1101/2023.04.27.538566v1){: .btn .btn--primary} [Code](https://github.com/cct663/ece_vulnerability){: .btn .btn--info}
+
+**62\.** **Taff, C. C.**, McNew, S., Zimmer, C., Uehling, J. J.δ, Ryan, T. A.δ, Chang van Oordt, D.δ, Houtz, J. L.δ, Injaian, A., & Vitousek, M. N. 2023. Social signal manipulation and environmental challenges have independent effects on physiology, internal microbiome, and reproductive performance in tree swallows (*Tachycineta bicolor*). *Journal of Experimental Zoology, Part A*. [PDF](https://drive.google.com/file/d/1YYifoYfeUAYcheqnld3d1eJMNHtb2-Sr/view?usp=sharing){: .btn .btn--success} [Preprint](https://doi.org/10.1101/2023.01.05.522952){: .btn .btn--primary} [Data + Code](https://doi.org/10.5281/zenodo.7506939){: .btn .btn--info}
 
 **61\.** Ryan, T. A.δ, **Taff, C. C.**, Ryan, T. A., & Vitousek, M. N. 2023. Cold temperatures induce priming of the glucose stress response in tree swallows. *Comparative Biochemistry and Physiology, Part A*. [PDF](https://drive.google.com/file/d/1hcul8WT0JCMSVgcHDzOLoCmMyuxhkROH/view?usp=share_link){: .btn .btn--success} [DOI](https://doi.org/10.1016/j.cbpa.2023.111419){: .btn .btn--warning}
 
@@ -172,8 +174,6 @@ toc_icon: "feather-alt"
 
 ### Manuscripts in Review
 *§ undergraduate co-authors; δ graduate student co-authors; † equal contribution; †† senior author role*
-
-**Taff, C. C.**†, Shipley, J. R.† Inconsistent shifts in warming and temperature variability negatively impact avian fitness. [Preprint](https://www.biorxiv.org/content/10.1101/2023.04.27.538566v1){: .btn .btn--primary} [Code](https://github.com/cct663/ece_vulnerability){: .btn .btn--info}
 
 **Taff, C. C.**, Baldan, D., Mentesana, L., Ouyang, J. Q., Vitousek, M. N., & Hau, M. Endocrine flexibility can facilitate or constrain the ability to cope with global change.
 
