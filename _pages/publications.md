@@ -175,7 +175,7 @@ toc_icon: "feather-alt"
 ### Manuscripts in Review
 *§ undergraduate co-authors; δ graduate student co-authors; † equal contribution; †† senior author role*
 
-**Taff, C. C.**, Baldan, D., Mentesana, L., Ouyang, J. Q., Vitousek, M. N., & Hau, M. Endocrine flexibility can facilitate or constrain the ability to cope with global change.
+**Taff, C. C.**, Baldan, D., Mentesana, L., Ouyang, J. Q., Vitousek, M. N., & Hau, M. Endocrine flexibility can facilitate or constrain the ability to cope with global change. [Preprint](https://doi.org/10.32942/X2DC7S){: .btn .btn--primary}
 
 **Taff, C. C.**, McNew, S. M., Campagna, L. C., & Vitousek, M. N. Corticosterone exposure causes long-term changes in DNA methylation, physiology, and breeding decisions in a wild bird. [Preprint](https://www.biorxiv.org/content/10.1101/2023.07.07.548150v1){: .btn .btn--primary} [Data + Code](https://github.com/cct663/tres_rrbs){: .btn .btn--info}
 
