@@ -19,6 +19,8 @@ toc_icon: "feather-alt"
 
 **2023**
 
+**64\.** **Taff, C. C.**, Baldan, D., Mentesana, L., Ouyang, J. Q., Vitousek, M. N., & Hau, M. *In Press*. Endocrine flexibility can facilitate or constrain the ability to cope with global change. *Philosophical Transactions of the Royal Society of London B*. [Preprint](https://doi.org/10.32942/X2DC7S){: .btn .btn--primary}
+
 **63\.** **Taff, C. C.**†, Shipley, J. R.† *Accepted*. Inconsistent shifts in warming and temperature variability are linked to reduced avian fitness. *Nature Communications*. [PDF](https://doi.org/10.1038/s41467-023-43071-y){: .btn .btn--success} [Preprint](https://www.biorxiv.org/content/10.1101/2023.04.27.538566v1){: .btn .btn--primary} [Code](https://github.com/cct663/ece_vulnerability){: .btn .btn--info} [NYT Article](https://www.nytimes.com/explain/2023/birds-science/the-weather-is-crazy-how-are-the-birds-faring){: .btn .btn--danger} [NestWatch Blog](https://nestwatch.org/connect/blog/cold-snaps-and-heat-waves-create-challenges-for-nesting-birds/){: .btn .btn--danger}
 
 **62\.** **Taff, C. C.**, McNew, S., Zimmer, C., Uehling, J. J.δ, Ryan, T. A.δ, Chang van Oordt, D.δ, Houtz, J. L.δ, Injaian, A., & Vitousek, M. N. 2023. Social signal manipulation and environmental challenges have independent effects on physiology, internal microbiome, and reproductive performance in tree swallows (*Tachycineta bicolor*). *Journal of Experimental Zoology, Part A*. [PDF](https://drive.google.com/file/d/1YYifoYfeUAYcheqnld3d1eJMNHtb2-Sr/view?usp=sharing){: .btn .btn--success} [Preprint](https://doi.org/10.1101/2023.01.05.522952){: .btn .btn--primary} [Data + Code](https://doi.org/10.5281/zenodo.7506939){: .btn .btn--info}
@@ -174,8 +176,6 @@ toc_icon: "feather-alt"
 
 ### Manuscripts in Review
 *§ undergraduate co-authors; δ graduate student co-authors; † equal contribution; †† senior author role*
-
-**Taff, C. C.**, Baldan, D., Mentesana, L., Ouyang, J. Q., Vitousek, M. N., & Hau, M. Endocrine flexibility can facilitate or constrain the ability to cope with global change. [Preprint](https://doi.org/10.32942/X2DC7S){: .btn .btn--primary}
 
 **Taff, C. C.**, McNew, S. M., Campagna, L. C., & Vitousek, M. N. Corticosterone exposure causes long-term changes in DNA methylation, physiology, and breeding decisions in a wild bird. [Preprint](https://www.biorxiv.org/content/10.1101/2023.07.07.548150v1){: .btn .btn--primary} [Data + Code](https://github.com/cct663/tres_rrbs){: .btn .btn--info}
 
