@@ -185,7 +185,7 @@ McNew, S. M.†, **Taff, C. C.**†, & Vitousek, M. N. Manipulation of a social 
 
 McNew, S. M.†, **Taff, C. C.**†, Zimmer, C., Uehling, J. J.δ, Ryan, T. A.δ, Chang van Oordt, D.δ, Houtz, J. L.δ, Injaian, A. S., & Vitousek, M. N. Developmental stage-dependent effects of perceived predation risk on physiology and fledging success of tree swallows (*Tachycineta bicolor*). [Preprint](https://www.biorxiv.org/content/10.1101/2022.12.27.522041v1){: .btn .btn--primary} [Data + Code](https://github.com/smcnew/mcnew_etal_tres_nestling_telos){: .btn .btn--info}
 
-Gould, E., Fraser, H.,..., **Taff, C. C.**,..., et al. (includes ~200 authors). Same data, different analysts: variation in effect sizes due to analytical decisions in ecology and evolutionary biology. [Preprint](https://ecoevorxiv.org/repository/view/6000/){: .btn .btn--primary}
+Gould, E., Fraser, H.,..., **Taff, C. C.**,..., et al. (includes 311 authors). Same data, different analysts: variation in effect sizes due to analytical decisions in ecology and evolutionary biology. [Preprint](https://ecoevorxiv.org/repository/view/6000/){: .btn .btn--primary}
 
 Knutie, S. A., Bertone, M., Bahouth, R.§, Webb, C.§, Mehta, M.§, Nahom, M.§, Barta, R.§, Ghai, S.§, Balenter, S., Butler, M., Kennedy, A., Reichard, B. S., **Taff, C. C.**, & Albery, G. Understanding spatiotemporal effects of food supplementation on host-parasite interactions using community-based science. [Preprint](https://doi.org/10.1101/2022.06.02.494595){: .btn .btn--primary}
 
