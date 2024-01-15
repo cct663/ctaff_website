@@ -17,11 +17,15 @@ toc_icon: "feather-alt"
 ### Peer-Reviewed Articles
 *§ undergraduate co-authors; δ graduate student co-authors; † equal contribution; †† senior author role*
 
-**2023**
+**2024**
+
+**65\.** Wolf, S., Woodruff, M., Chang van Oordt, D., Clotfelter, E., Cristol, D., Derryberry, E., Ferguson, S., Stanback, M., **Taff, C. C.**, Vitousek, M., Westneat, D., & Rosvall, K. *In Press*. Among-population variation in teolomere regulatory proteins and their potential role as hidden drivers of intraspecific variation in life history. *Journal of Animal Ecology*.
 
 **64\.** **Taff, C. C.**, Baldan, D., Mentesana, L., Ouyang, J. Q., Vitousek, M. N., & Hau, M. *In Press*. Endocrine flexibility can facilitate or constrain the ability to cope with global change. *Philosophical Transactions of the Royal Society of London B*. [Preprint](https://doi.org/10.32942/X2DC7S){: .btn .btn--primary}
 
-**63\.** **Taff, C. C.**†, Shipley, J. R.† *Accepted*. Inconsistent shifts in warming and temperature variability are linked to reduced avian fitness. *Nature Communications*. [PDF](https://doi.org/10.1038/s41467-023-43071-y){: .btn .btn--success} [Preprint](https://www.biorxiv.org/content/10.1101/2023.04.27.538566v1){: .btn .btn--primary} [Code](https://github.com/cct663/ece_vulnerability){: .btn .btn--info} [NYT Article](https://www.nytimes.com/explain/2023/birds-science/the-weather-is-crazy-how-are-the-birds-faring){: .btn .btn--danger} [NestWatch Blog](https://nestwatch.org/connect/blog/cold-snaps-and-heat-waves-create-challenges-for-nesting-birds/){: .btn .btn--danger}
+**2023**
+
+**63\.** **Taff, C. C.**†, Shipley, J. R.† 2023. Inconsistent shifts in warming and temperature variability are linked to reduced avian fitness. *Nature Communications*. [PDF](https://doi.org/10.1038/s41467-023-43071-y){: .btn .btn--success} [Preprint](https://www.biorxiv.org/content/10.1101/2023.04.27.538566v1){: .btn .btn--primary} [Code](https://github.com/cct663/ece_vulnerability){: .btn .btn--info} [NYT Article](https://www.nytimes.com/explain/2023/birds-science/the-weather-is-crazy-how-are-the-birds-faring){: .btn .btn--danger} [NestWatch Blog](https://nestwatch.org/connect/blog/cold-snaps-and-heat-waves-create-challenges-for-nesting-birds/){: .btn .btn--danger}
 
 **62\.** **Taff, C. C.**, McNew, S., Zimmer, C., Uehling, J. J.δ, Ryan, T. A.δ, Chang van Oordt, D.δ, Houtz, J. L.δ, Injaian, A., & Vitousek, M. N. 2023. Social signal manipulation and environmental challenges have independent effects on physiology, internal microbiome, and reproductive performance in tree swallows (*Tachycineta bicolor*). *Journal of Experimental Zoology, Part A*. [PDF](https://drive.google.com/file/d/1YYifoYfeUAYcheqnld3d1eJMNHtb2-Sr/view?usp=sharing){: .btn .btn--success} [Preprint](https://doi.org/10.1101/2023.01.05.522952){: .btn .btn--primary} [Data + Code](https://doi.org/10.5281/zenodo.7506939){: .btn .btn--info}
 
@@ -188,8 +192,6 @@ McNew, S. M.†, **Taff, C. C.**†, Zimmer, C., Uehling, J. J.δ, Ryan, T. A.δ
 Gould, E., Fraser, H.,..., **Taff, C. C.**,..., et al. (includes 311 authors). Same data, different analysts: variation in effect sizes due to analytical decisions in ecology and evolutionary biology. [Preprint](https://ecoevorxiv.org/repository/view/6000/){: .btn .btn--primary}
 
 Knutie, S. A., Bertone, M., Bahouth, R.§, Webb, C.§, Mehta, M.§, Nahom, M.§, Barta, R.§, Ghai, S.§, Balenter, S., Butler, M., Kennedy, A., Reichard, B. S., **Taff, C. C.**, & Albery, G. Understanding spatiotemporal effects of food supplementation on host-parasite interactions using community-based science. [Preprint](https://doi.org/10.1101/2022.06.02.494595){: .btn .btn--primary}
-
-Wolf, S. E.δ, Woodruff, M. J.δ, Chang van Oordt, D. A.δ, Clotfelter, E. D., Cristol, D. A., Derryberry, E. P., Ferguson, S. M., Stanback, M. T., **Taff, C. C.**, Tobin, K. J., Vitousek, M. N., Westneat, D. F., & Rosvall, K. A. Ecogeographic variation in telomere regulatory proteins and their potential to drive life history variation.
 
 Hallinger, K. K., Pegan, T. M.δ, Andersen, M. J., Ardia, D. R., Belmaker, A., Chang van Oordt, D.δ, Ferretti, V., Forsman, A. M., Gaul, J. R., Llambias, P. E., Orzechowski, S. C., Shipley, J. R., Stager, M., **Taff, C. C.**, Uehling, J. J.δ, Verhoeven, M., Vitousek, M., Wilson, M., Yoon, H. S., Wrege, P. H., & Winker, D. W. Comparing the reproductive performance of dispersers vs. non-dispersers: a point-of-settlement approach to understanding the diversity of tree swallow dispersal strategies in a continuous mainland environment.
 
