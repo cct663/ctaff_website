@@ -38,17 +38,25 @@ Asking students to propose and struggle with their own questions approximates th
 
 <hr style="border:2px solid gray">
 
-### Courses As Instructor
+### Courses As Instructor of Record
 
-#### Ecological Communities of the Northeast
+#### Animal Behavior: BI373
 
-In the Fall semester of 2023, I will teach an intermediate level biology class focused on an ecological survey of habitats found in Maine at Colby College. Weekly labs will include field visits and data collection in each studied ecological community. Class and lab work will build skills in experimental design, data collection, and science communication.
+In the Spring semester of 2024, I am teaching an upper level integrative animal behavior course with lab. Teaching materials will be added here after the semester.
+
+#### Senior Seminar in Biology: BI402
+
+A seminar style class focused on evolutionary ecology.
+
+#### Ecological Communities of the Northeast: BI253
+
+In the Fall semester of 2023, I taught an intermediate level biology class focused on an ecological survey of habitats found in Maine at Colby College. Weekly labs will included field visits and data collection in each studied ecological community. Class and lab work will build skills in experimental design, data collection, and science communication. We covered basic principles of community ecology and processes of community assembly.
 
 #### Animal Communication: Signaling with Sound, Sight, Smell, and More
 
 I designed and taught an Animal Communication class for non-majors at Colby College. Colby requires all students to fulfill two natural science requirements and my class was designed for this purpose. Given the goal, I had a mix of students with many different interests as well as a few biology students interested in the topic. I adapted material to cover basic principles in evolution, behavior, ecology, and physiology as they pertain to animal communication. For a text, we used Ed Yong's popular science book *An Immense World* to guide us through the sensory biology and perceptual experiences of non-human animals. Assignments were designed to get students involved in thinking through scientific concepts, to practice reading and interpreting research, and to provide flexibility to creatively interpret and reimagine the course material.
 
-*From my syllabus:* Animals signals are often teh most conspicuous sights, sounds, and smells in the natural world, and they have captivated teh attention of scientists and the public for centuries. Yet animal signals can also be undetectable to humans when they occur in private channels or using sensory modalities that we lack. To truly appreciate animal communication, we need to delve deeply into the sensory worlds of other animals to explore their fantastic diversity of sensory systems and signaling modalities. Our course will start here...
+*From my syllabus:* Animals signals are often the most conspicuous sights, sounds, and smells in the natural world, and they have captivated teh attention of scientists and the public for centuries. Yet animal signals can also be undetectable to humans when they occur in private channels or using sensory modalities that we lack. To truly appreciate animal communication, we need to delve deeply into the sensory worlds of other animals to explore their fantastic diversity of sensory systems and signaling modalities. Our course will start here...
 
 [Syllabus](https://drive.google.com/file/d/1oU0QaVmpf1awumnxsETp4Ak821kKeuDI/view?usp=sharing){: .btn .btn--info}
 [Assignment Sheets](https://drive.google.com/file/d/10RKcdT7OoI8xkQcbnemdBYS1KATeyyYk/view?usp=sharing){: .btn .btn--info}
@@ -114,6 +122,12 @@ At the University of California Davis, I was a teaching assistant for the follow
 ### Evidence of Teaching Excellence
 
 I have consistently received excellent evaluations for my teaching. A few student testimonials are listed below and full teaching evaluations are available by request.
+
+>"Class time was always used well, I like how we did a variety of things. I also really enjoyed the labs/trips, I learned a lot about Maine and different habitats and it helped to actually see what we discussed in class."
+
+>"I loved the way in which we were asked to provide our input and consider what we know at baseline about the species or environment we were talking about."
+
+>"This was one of the best classes I have ever taken. I now see ecology and natural history in a different light, and can now apply it to my everyday life."
 
 >"I feel like most of my teachers don't know how to teach. They only teach because they are required to. Therefore, they don't really care about the students. Conor showed a willingness to help us on a daily basis."
 
