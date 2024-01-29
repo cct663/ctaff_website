@@ -19,6 +19,8 @@ toc_icon: "feather-alt"
 
 **2024**
 
+**66\.** Chang van Oordt, D. A.δ, **Taff, C. C.**, Pipkin, M. A.δ, Ryan, T. A.δ, & Vitousek, M. N. *In Press*. Experimentally-elevated corticosterone does not affect bacteria killing ability of breeding female tree swallows (*Tachycineta bicolor*). *Hormones & Behavior*.
+
 **65\.** Wolf, S., Woodruff, M., Chang van Oordt, D., Clotfelter, E., Cristol, D., Derryberry, E., Ferguson, S., Stanback, M., **Taff, C. C.**, Vitousek, M., Westneat, D., & Rosvall, K. *In Press*. Among-population variation in teolomere regulatory proteins and their potential role as hidden drivers of intraspecific variation in life history. *Journal of Animal Ecology*.
 
 **64\.** **Taff, C. C.**, Baldan, D., Mentesana, L., Ouyang, J. Q., Vitousek, M. N., & Hau, M. *In Press*. Endocrine flexibility can facilitate or constrain the ability to cope with global change. *Philosophical Transactions of the Royal Society of London B*. [Preprint](https://doi.org/10.32942/X2DC7S){: .btn .btn--primary}
@@ -203,7 +205,6 @@ Suh, Y. A.δ, **Taff, C. C.**, Tringali, A., & Fitzpatrick, J. W. Prospecting is
 
 Chang van Oordt, D. A.δ, Zimmer, C., Ardia, D. R., **Taff, C. C.**, Johnson, L. S., Rose, A. R., Aborn, D. A., Ryan, T. A.δ, Uehling, J. J.δ, & Vitousek, M. N. Geographical variation in bactericidal ability of breeding tree swallows (*Tachycineta bicolor*).
 
-Chang van Oordt, D. A.δ, **Taff, C. C.**, Pipkin, M. A.δ, Ryan, T. A.δ, & Vitousek, M. N. Experimentally-elevated corticosterone does not affect bacteria killing ability of breeding female tree swallows (*Tachycineta bicolor*).
 
 
 
