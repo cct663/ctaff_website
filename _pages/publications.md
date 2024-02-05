@@ -19,11 +19,11 @@ toc_icon: "feather-alt"
 
 **2024**
 
-**66\.** Chang van Oordt, D. A.δ, **Taff, C. C.**, Pipkin, M. A.δ, Ryan, T. A.δ, & Vitousek, M. N. *In Press*. Experimentally-elevated corticosterone does not affect bacteria killing ability of breeding female tree swallows (*Tachycineta bicolor*). *Hormones & Behavior*.
+**66\.** Chang van Oordt, D. A.δ, **Taff, C. C.**, Pipkin, M. A.δ, Ryan, T. A.δ, & Vitousek, M. N. 2024. Experimentally-elevated corticosterone does not affect bacteria killing ability of breeding female tree swallows (*Tachycineta bicolor*). *Hormones & Behavior*. [PDF](https://drive.google.com/file/d/11cz7hK9vXSuobifLJQ9Ct_fsgiSYHNfe/view?usp=sharing){: .btn .btn--success} [DOI](https://www.sciencedirect.com/science/article/pii/S0018506X24000254){: .btn .btn--warning}
 
 **65\.** Wolf, S., Woodruff, M., Chang van Oordt, D., Clotfelter, E., Cristol, D., Derryberry, E., Ferguson, S., Stanback, M., **Taff, C. C.**, Vitousek, M., Westneat, D., & Rosvall, K. *In Press*. Among-population variation in teolomere regulatory proteins and their potential role as hidden drivers of intraspecific variation in life history. *Journal of Animal Ecology*.
 
-**64\.** **Taff, C. C.**, Baldan, D., Mentesana, L., Ouyang, J. Q., Vitousek, M. N., & Hau, M. *In Press*. Endocrine flexibility can facilitate or constrain the ability to cope with global change. *Philosophical Transactions of the Royal Society of London B*. [Preprint](https://doi.org/10.32942/X2DC7S){: .btn .btn--primary}
+**64\.** **Taff, C. C.**, Baldan, D., Mentesana, L., Ouyang, J. Q., Vitousek, M. N., & Hau, M. 2024. Endocrine flexibility can facilitate or constrain the ability to cope with global change. *Philosophical Transactions of the Royal Society of London B*. [PDF](https://drive.google.com/file/d/1WIA9CgkI8vrbz_2qEsJBZVaxVQBIYrS4/view?usp=sharing){: .btn .btn--success} [DOI](https://royalsocietypublishing.org/doi/10.1098/rstb.2022.0502){: .btn .btn--warning} [Preprint](https://doi.org/10.32942/X2DC7S){: .btn .btn--primary}
 
 **2023**
 
