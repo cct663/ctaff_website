@@ -19,6 +19,8 @@ toc_icon: "feather-alt"
 
 **2024**
 
+**67\.** McNew, S. M.†, **Taff, C. C.**†, Zimmer, C., Uehling, J. J.δ, Ryan, T. A.δ, Chang van Oordt, D.δ, Houtz, J. L.δ, Injaian, A. S., & Vitousek, M. N. *In Press* Developmental stage-dependent effects of perceived predation risk on physiology and fledging success of tree swallows (*Tachycineta bicolor*). *Ecology*. [Preprint](https://www.biorxiv.org/content/10.1101/2022.12.27.522041v1){: .btn .btn--primary} [Data + Code](https://github.com/smcnew/mcnew_etal_tres_nestling_telos){: .btn .btn--info}
+
 **66\.** Chang van Oordt, D. A.δ, **Taff, C. C.**, Pipkin, M. A.δ, Ryan, T. A.δ, & Vitousek, M. N. 2024. Experimentally-elevated corticosterone does not affect bacteria killing ability of breeding female tree swallows (*Tachycineta bicolor*). *Hormones & Behavior*. [PDF](https://drive.google.com/file/d/11cz7hK9vXSuobifLJQ9Ct_fsgiSYHNfe/view?usp=sharing){: .btn .btn--success} [DOI](https://www.sciencedirect.com/science/article/pii/S0018506X24000254){: .btn .btn--warning}
 
 **65\.** Wolf, S., Woodruff, M., Chang van Oordt, D., Clotfelter, E., Cristol, D., Derryberry, E., Ferguson, S., Stanback, M., **Taff, C. C.**, Vitousek, M., Westneat, D., & Rosvall, K. *In Press*. Among-population variation in teolomere regulatory proteins and their potential role as hidden drivers of intraspecific variation in life history. *Journal of Animal Ecology*.
@@ -188,8 +190,6 @@ toc_icon: "feather-alt"
 **Taff, C. C.**, Ryan, T. A.δ, Uehling, J. J.δ, Injaian, A. S., & Vitousek, M. N. Within-individual consistency and between-individual variation in the egg shapes of tree swallows (*Tachycineta bicolor*). [Preprint](https://www.biorxiv.org/content/10.1101/2022.02.02.478835v1){: .btn .btn--primary} [Data + Code](https://github.com/cct663/tres_egg_shape){: .btn .btn--info}
 
 McNew, S. M.†, **Taff, C. C.**†, & Vitousek, M. N. Manipulation of a social signal affects DNA methylation of a stress-related gene in a free-living bird.
-
-McNew, S. M.†, **Taff, C. C.**†, Zimmer, C., Uehling, J. J.δ, Ryan, T. A.δ, Chang van Oordt, D.δ, Houtz, J. L.δ, Injaian, A. S., & Vitousek, M. N. Developmental stage-dependent effects of perceived predation risk on physiology and fledging success of tree swallows (*Tachycineta bicolor*). [Preprint](https://www.biorxiv.org/content/10.1101/2022.12.27.522041v1){: .btn .btn--primary} [Data + Code](https://github.com/smcnew/mcnew_etal_tres_nestling_telos){: .btn .btn--info}
 
 Gould, E., Fraser, H.,..., **Taff, C. C.**,..., et al. (includes 311 authors). Same data, different analysts: variation in effect sizes due to analytical decisions in ecology and evolutionary biology. [Preprint](https://ecoevorxiv.org/repository/view/6000/){: .btn .btn--primary}
 
