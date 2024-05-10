@@ -19,7 +19,7 @@ toc_icon: "feather-alt"
 
 **2024**
 
-**67\.** McNew, S. M.†, **Taff, C. C.**†, Zimmer, C., Uehling, J. J.δ, Ryan, T. A.δ, Chang van Oordt, D.δ, Houtz, J. L.δ, Injaian, A. S., & Vitousek, M. N. *In Press*. Developmental stage-dependent effects of perceived predation risk on physiology and fledging success of tree swallows (*Tachycineta bicolor*). *Ecology*. [Preprint](https://www.biorxiv.org/content/10.1101/2022.12.27.522041v1){: .btn .btn--primary} [Data + Code](https://github.com/smcnew/mcnew_etal_tres_nestling_telos){: .btn .btn--info}
+**67\.** McNew, S. M.†, **Taff, C. C.**†, Zimmer, C., Uehling, J. J.δ, Ryan, T. A.δ, Chang van Oordt, D.δ, Houtz, J. L.δ, Injaian, A. S., & Vitousek, M. N. *In Press*. Developmental stage-dependent effects of perceived predation risk on physiology and fledging success of tree swallows (*Tachycineta bicolor*). *Ecology*. [PDF](https://drive.google.com/file/d/19EPazAg2e7OLDkUaLQmvBU5Fp13lD9ce/view?usp=sharing){: .btn .btn--success} [Preprint](https://www.biorxiv.org/content/10.1101/2022.12.27.522041v1){: .btn .btn--primary} [Data + Code](https://github.com/smcnew/mcnew_etal_tres_nestling_telos){: .btn .btn--info}
 
 **66\.** Chang van Oordt, D. A.δ, **Taff, C. C.**, Pipkin, M. A.δ, Ryan, T. A.δ, & Vitousek, M. N. 2024. Experimentally-elevated corticosterone does not affect bacteria killing ability of breeding female tree swallows (*Tachycineta bicolor*). *Hormones & Behavior*. [PDF](https://drive.google.com/file/d/11cz7hK9vXSuobifLJQ9Ct_fsgiSYHNfe/view?usp=sharing){: .btn .btn--success} [DOI](https://www.sciencedirect.com/science/article/pii/S0018506X24000254){: .btn .btn--warning}
 
