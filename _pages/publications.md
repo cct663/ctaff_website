@@ -19,7 +19,9 @@ toc_icon: "feather-alt"
 
 **2024**
 
-**67\.** McNew, S. M.†, **Taff, C. C.**†, Zimmer, C., Uehling, J. J.δ, Ryan, T. A.δ, Chang van Oordt, D.δ, Houtz, J. L.δ, Injaian, A. S., & Vitousek, M. N. *In Press*. Developmental stage-dependent effects of perceived predation risk on physiology and fledging success of tree swallows (*Tachycineta bicolor*). *Ecology*. [PDF](https://drive.google.com/file/d/19EPazAg2e7OLDkUaLQmvBU5Fp13lD9ce/view?usp=sharing){: .btn .btn--success} [Preprint](https://www.biorxiv.org/content/10.1101/2022.12.27.522041v1){: .btn .btn--primary} [Data + Code](https://github.com/smcnew/mcnew_etal_tres_nestling_telos){: .btn .btn--info}
+**68\.** **Taff, C. C.**, McNew, S. M., Campagna, L. C., & Vitousek, M. N. *In Press*. Corticosterone exposure causes long-term changes in DNA methylation, physiology, and breeding decisions in a wild bird. *Molecular Ecology*. [Preprint](https://www.biorxiv.org/content/10.1101/2023.07.07.548150v1){: .btn .btn--primary} [Data + Code](https://github.com/cct663/tres_rrbs){: .btn .btn--info}
+
+**67\.** McNew, S. M.†, **Taff, C. C.**†, Zimmer, C., Uehling, J. J.δ, Ryan, T. A.δ, Chang van Oordt, D.δ, Houtz, J. L.δ, Injaian, A. S., & Vitousek, M. N. 2024. Developmental stage-dependent effects of perceived predation risk on physiology and fledging success of tree swallows (*Tachycineta bicolor*). *Ecology*. [PDF](https://drive.google.com/file/d/19EPazAg2e7OLDkUaLQmvBU5Fp13lD9ce/view?usp=sharing){: .btn .btn--success} [Preprint](https://www.biorxiv.org/content/10.1101/2022.12.27.522041v1){: .btn .btn--primary} [Data + Code](https://github.com/smcnew/mcnew_etal_tres_nestling_telos){: .btn .btn--info}
 
 **66\.** Chang van Oordt, D. A.δ, **Taff, C. C.**, Pipkin, M. A.δ, Ryan, T. A.δ, & Vitousek, M. N. 2024. Experimentally-elevated corticosterone does not affect bacteria killing ability of breeding female tree swallows (*Tachycineta bicolor*). *Hormones & Behavior*. [PDF](https://drive.google.com/file/d/11cz7hK9vXSuobifLJQ9Ct_fsgiSYHNfe/view?usp=sharing){: .btn .btn--success} [DOI](https://www.sciencedirect.com/science/article/pii/S0018506X24000254){: .btn .btn--warning}
 
@@ -29,7 +31,7 @@ toc_icon: "feather-alt"
 
 **2023**
 
-**63\.** **Taff, C. C.**†, Shipley, J. R.† 2023. Inconsistent shifts in warming and temperature variability are linked to reduced avian fitness. *Nature Communications*. [PDF](https://doi.org/10.1038/s41467-023-43071-y){: .btn .btn--success} [Preprint](https://www.biorxiv.org/content/10.1101/2023.04.27.538566v1){: .btn .btn--primary} [Code](https://github.com/cct663/ece_vulnerability){: .btn .btn--info} [NYT Article](https://www.nytimes.com/explain/2023/birds-science/the-weather-is-crazy-how-are-the-birds-faring){: .btn .btn--danger} [NestWatch Blog](https://nestwatch.org/connect/blog/cold-snaps-and-heat-waves-create-challenges-for-nesting-birds/){: .btn .btn--danger}
+**63\.** **Taff, C. C.**†, Shipley, J. R.† 2023. Inconsistent shifts in warming and temperature variability are linked to reduced avian fitness. *Nature Communications*. [PDF](https://doi.org/10.1038/s41467-023-43071-y){: .btn .btn--success} [Preprint](https://www.biorxiv.org/content/10.1101/2023.04.27.538566v1){: .btn .btn--primary} [Code](https://github.com/cct663/ece_vulnerability){: .btn .btn--info} [NYT Article](https://www.nytimes.com/explain/2023/birds-science/the-weather-is-crazy-how-are-the-birds-faring){: .btn .btn--danger} [NestWatch Blog](https://nestwatch.org/connect/blog/cold-snaps-and-heat-waves-create-challenges-for-nesting-birds/){: .btn .btn--danger} [NPR BirdNote](https://www.birdnote.org/listen/shows/studying-climate-change-watching-bird-nests){: .btn.btn--danger}
 
 **62\.** **Taff, C. C.**, McNew, S., Zimmer, C., Uehling, J. J.δ, Ryan, T. A.δ, Chang van Oordt, D.δ, Houtz, J. L.δ, Injaian, A., & Vitousek, M. N. 2023. Social signal manipulation and environmental challenges have independent effects on physiology, internal microbiome, and reproductive performance in tree swallows (*Tachycineta bicolor*). *Journal of Experimental Zoology, Part A*. [PDF](https://drive.google.com/file/d/1YYifoYfeUAYcheqnld3d1eJMNHtb2-Sr/view?usp=sharing){: .btn .btn--success} [Preprint](https://doi.org/10.1101/2023.01.05.522952){: .btn .btn--primary} [Data + Code](https://doi.org/10.5281/zenodo.7506939){: .btn .btn--info}
 
@@ -184,8 +186,6 @@ toc_icon: "feather-alt"
 
 ### Manuscripts in Review
 *§ undergraduate co-authors; δ graduate student co-authors; † equal contribution; †† senior author role*
-
-**Taff, C. C.**, McNew, S. M., Campagna, L. C., & Vitousek, M. N. Corticosterone exposure causes long-term changes in DNA methylation, physiology, and breeding decisions in a wild bird. [Preprint](https://www.biorxiv.org/content/10.1101/2023.07.07.548150v1){: .btn .btn--primary} [Data + Code](https://github.com/cct663/tres_rrbs){: .btn .btn--info}
 
 **Taff, C. C.**, Ryan, T. A.δ, Uehling, J. J.δ, Injaian, A. S., & Vitousek, M. N. Within-individual consistency and between-individual variation in the egg shapes of tree swallows (*Tachycineta bicolor*). [Preprint](https://www.biorxiv.org/content/10.1101/2022.02.02.478835v1){: .btn .btn--primary} [Data + Code](https://github.com/cct663/tres_egg_shape){: .btn .btn--info}
 
