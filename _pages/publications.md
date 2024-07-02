@@ -19,6 +19,8 @@ toc_icon: "feather-alt"
 
 **2024**
 
+**69\.** McNew, S. M.†, **Taff, C. C.**†, & Vitousek, M. N. *In Press*. Manipulation of a social signal affects DNA methylation of a stress-related gene in a free-living bird. 
+
 **68\.** **Taff, C. C.**, McNew, S. M., Campagna, L. C., & Vitousek, M. N. *In Press*. Corticosterone exposure is associated with long-term changes in DNA methylation, physiology, and breeding decisions in a wild bird. *Molecular Ecology*. [Preprint](https://www.biorxiv.org/content/10.1101/2023.07.07.548150v1){: .btn .btn--primary} [Data + Code](https://github.com/cct663/tres_rrbs){: .btn .btn--info}
 
 **67\.** McNew, S. M.†, **Taff, C. C.**†, Zimmer, C., Uehling, J. J.δ, Ryan, T. A.δ, Chang van Oordt, D.δ, Houtz, J. L.δ, Injaian, A. S., & Vitousek, M. N. 2024. Developmental stage-dependent effects of perceived predation risk on physiology and fledging success of tree swallows (*Tachycineta bicolor*). *Ecology*. [PDF](https://drive.google.com/file/d/19EPazAg2e7OLDkUaLQmvBU5Fp13lD9ce/view?usp=sharing){: .btn .btn--success} [Preprint](https://www.biorxiv.org/content/10.1101/2022.12.27.522041v1){: .btn .btn--primary} [Data + Code](https://github.com/smcnew/mcnew_etal_tres_nestling_telos){: .btn .btn--info}
