@@ -19,6 +19,8 @@ toc_icon: "feather-alt"
 
 **2024**
 
+**70\.** Knutie, S. A., Bertone, M., Bahouth, R.§, Webb, C.§, Mehta, M.§, Nahom, M.§, Barta, R.§, Ghai, S.§, Balenter, S., Butler, M., Kennedy, A., Reichard, B. S., **Taff, C. C.**, & Albery, G. *In Press*. Understanding spatiotemporal effects of food supplementation on host-parasite interactions using community-based science. *Journal of Animal Ecology*. [Preprint](https://doi.org/10.1101/2022.06.02.494595){: .btn .btn--primary}
+
 **69\.** McNew, S. M.†, **Taff, C. C.**†, & Vitousek, M. N. *In Press*. Manipulation of a social signal affects DNA methylation of a stress-related gene in a free-living bird. 
 
 **68\.** **Taff, C. C.**, McNew, S. M., Campagna, L. C., & Vitousek, M. N. *In Press*. Corticosterone exposure is associated with long-term changes in DNA methylation, physiology, and breeding decisions in a wild bird. *Molecular Ecology*. [Preprint](https://www.biorxiv.org/content/10.1101/2023.07.07.548150v1){: .btn .btn--primary} [Data + Code](https://github.com/cct663/tres_rrbs){: .btn .btn--info}
@@ -191,11 +193,7 @@ toc_icon: "feather-alt"
 
 **Taff, C. C.**, Ryan, T. A.δ, Uehling, J. J.δ, Injaian, A. S., & Vitousek, M. N. Within-individual consistency and between-individual variation in the egg shapes of tree swallows (*Tachycineta bicolor*). [Preprint](https://www.biorxiv.org/content/10.1101/2022.02.02.478835v1){: .btn .btn--primary} [Data + Code](https://github.com/cct663/tres_egg_shape){: .btn .btn--info}
 
-McNew, S. M.†, **Taff, C. C.**†, & Vitousek, M. N. Manipulation of a social signal affects DNA methylation of a stress-related gene in a free-living bird.
-
 Gould, E., Fraser, H.,..., **Taff, C. C.**,..., et al. (includes 311 authors). Same data, different analysts: variation in effect sizes due to analytical decisions in ecology and evolutionary biology. [Preprint](https://ecoevorxiv.org/repository/view/6000/){: .btn .btn--primary}
-
-Knutie, S. A., Bertone, M., Bahouth, R.§, Webb, C.§, Mehta, M.§, Nahom, M.§, Barta, R.§, Ghai, S.§, Balenter, S., Butler, M., Kennedy, A., Reichard, B. S., **Taff, C. C.**, & Albery, G. Understanding spatiotemporal effects of food supplementation on host-parasite interactions using community-based science. [Preprint](https://doi.org/10.1101/2022.06.02.494595){: .btn .btn--primary}
 
 Hallinger, K. K., Pegan, T. M.δ, Andersen, M. J., Ardia, D. R., Belmaker, A., Chang van Oordt, D.δ, Ferretti, V., Forsman, A. M., Gaul, J. R., Llambias, P. E., Orzechowski, S. C., Shipley, J. R., Stager, M., **Taff, C. C.**, Uehling, J. J.δ, Verhoeven, M., Vitousek, M., Wilson, M., Yoon, H. S., Wrege, P. H., & Winker, D. W. Comparing the reproductive performance of dispersers vs. non-dispersers: a point-of-settlement approach to understanding the diversity of tree swallow dispersal strategies in a continuous mainland environment.
 
