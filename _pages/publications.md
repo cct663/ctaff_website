@@ -19,6 +19,8 @@ toc_icon: "feather-alt"
 
 **2024**
 
+**71\.** Gould, E., Fraser, H.,..., **Taff, C. C.**,..., et al. (includes 311 authors). *In Press*. Same data, different analysts: variation in effect sizes due to analytical decisions in ecology and evolutionary biology. *BMC Biology*. [Preprint](https://ecoevorxiv.org/repository/view/6000/){: .btn .btn--primary}
+
 **70\.** Knutie, S. A., Bertone, M., Bahouth, R.§, Webb, C.§, Mehta, M.§, Nahom, M.§, Barta, R.§, Ghai, S.§, Balenter, S., Butler, M., Kennedy, A., Reichard, B. S., **Taff, C. C.**, & Albery, G. 2024. Understanding spatiotemporal effects of food supplementation on host-parasite interactions using community-based science. *Journal of Animal Ecology*. [PDF](https://drive.google.com/file/d/1jxuJz7wm4quIPdt6F8i7GgLQAjxSVaRP/view?usp=sharing){: .btn .btn--success} [Data](https://figshare.com/articles/dataset/Understanding_spatiotemporal_effects_of_food_supplementation_on_host-parasite_interactions_using_community-based_science/26045368/1){: .btn .btn--info} [Preprint](https://doi.org/10.1101/2022.06.02.494595){: .btn .btn--primary} [DOI](https://doi.org/10.1111/1365-2656.14155){: .btn .btn--warning}
 
 **69\.** McNew, S. M.†, **Taff, C. C.**†, & Vitousek, M. N. 2024. Manipulation of a social signal affects DNA methylation of a stress-related gene in a free-living bird. *Journal of Experimental Biology*. [PDF](https://drive.google.com/file/d/13hIJZdkEifvZKwWVBFAJ_t3XgT_lnL4g/view?usp=sharing){: .btn .btn--success} [Data + Code](https://zenodo.org/records/12774556){: .btn .btn--info} [DOI](https://doi.org/10.1242/jeb.246819){: .btn .btn--warning}
@@ -192,8 +194,6 @@ toc_icon: "feather-alt"
 *§ undergraduate co-authors; δ graduate student co-authors; † equal contribution; †† senior author role*
 
 Chang van Oordt, D. A.δ, Zimmer, C., Ardia, D. R., **Taff, C. C.**, Johnson, L. S., Rose, A. R., Aborn, D. A., Ryan, T. A.δ, Uehling, J. J.δ, & Vitousek, M. N. Geographical variation in bactericidal ability of breeding tree swallows (*Tachycineta bicolor*).
-
-Gould, E., Fraser, H.,..., **Taff, C. C.**,..., et al. (includes 311 authors). Same data, different analysts: variation in effect sizes due to analytical decisions in ecology and evolutionary biology. [Preprint](https://ecoevorxiv.org/repository/view/6000/){: .btn .btn--primary}
 
 Hallinger, K. K., Pegan, T. M.δ, Andersen, M. J., Ardia, D. R., Belmaker, A., Chang van Oordt, D.δ, Ferretti, V., Forsman, A. M., Gaul, J. R., Llambias, P. E., Orzechowski, S. C., Shipley, J. R., Stager, M., **Taff, C. C.**, Uehling, J. J.δ, Verhoeven, M., Vitousek, M., Wilson, M., Yoon, H. S., Wrege, P. H., & Winker, D. W. Comparing the reproductive performance of dispersers vs. non-dispersers: a point-of-settlement approach to understanding the diversity of tree swallow dispersal strategies in a continuous mainland environment.
 
