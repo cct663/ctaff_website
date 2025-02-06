@@ -21,7 +21,7 @@ toc_icon: "feather-alt"
 
 **72\.** Miller, C. R.δ, **Taff, C. C.**, Uehling, J. J.δ, Rose, A. P., & Vitousek, M. N. *In Press*. Moonlight predicts the timing and duration of parental behavior across latitutdes in a diurnal songbird. *Behavioral Ecology and Sociobiology*.
 
-**71\.** Gould, E., Fraser, H.,..., **Taff, C. C.**,..., et al. (includes 311 authors). *In Press*. Same data, different analysts: variation in effect sizes due to analytical decisions in ecology and evolutionary biology. *BMC Biology*. [Preprint](https://ecoevorxiv.org/repository/view/6000/){: .btn .btn--primary}
+**71\.** Gould, E., Fraser, H.,..., **Taff, C. C.**,..., et al. (includes 311 authors). 2025. Same data, different analysts: variation in effect sizes due to analytical decisions in ecology and evolutionary biology. *BMC Biology*. [PDF](https://drive.google.com/file/d/1-oEXvt1E7oFsG9jpgY2wNMujPS1X7dQc/view?usp=sharing){: .btn .btn--success} [Preprint](https://ecoevorxiv.org/repository/view/6000/){: .btn .btn--primary} [DOI](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-024-02101-x){: .btn .btn--warning}
 
 **2024**
 
