@@ -199,11 +199,13 @@ toc_icon: "feather-alt"
 
 Chang van Oordt, D. A.δ, Zimmer, C., Ardia, D. R., **Taff, C. C.**, Johnson, L. S., Rose, A. R., Aborn, D. A., Ryan, T. A.δ, Uehling, J. J.δ, & Vitousek, M. N. Geographical variation in bactericidal ability of breeding tree swallows (*Tachycineta bicolor*).
 
+Gutiérrez, J., **Taff, C. C.**, Tupy, S., Goncalves, C., & Knutie, S. A. Experimental effects of within-brood genetic variation on parasite resistance in a wild bird host. [Preprint](https://www.biorxiv.org/content/10.1101/2022.05.26.493631v1){: .btn .btn--primary}
+
 Hallinger, K. K., Pegan, T. M.δ, Andersen, M. J., Ardia, D. R., Belmaker, A., Chang van Oordt, D.δ, Ferretti, V., Forsman, A. M., Gaul, J. R., Llambias, P. E., Orzechowski, S. C., Shipley, J. R., Stager, M., **Taff, C. C.**, Uehling, J. J.δ, Verhoeven, M., Vitousek, M., Wilson, M., Yoon, H. S., Wrege, P. H., & Winker, D. W. Comparing the reproductive performance of dispersers vs. non-dispersers: a point-of-settlement approach to understanding the diversity of tree swallow dispersal strategies in a continuous mainland environment.
 
 Houtz, J. L.δ, Shipley, J. R., Zimmer, C., Twining, C. W., Lee, D. M.§, **Taff, C. C.**, Chapman, S. E.§, Fenners, J. L.§, Haussmann, M. F., & Vitousek, M. N. Gut microbiota affect developmental thermal plasticity in birds.
 
-Suh, Y. A.δ, **Taff, C. C.**, Tringali, A., & Fitzpatrick, J. W. Prospecting is physiologically costly in a resident cooperative breeder.
+Suh, Y. A.δ, **Taff, C. C.**, Tringali, A., Bowman, R., & Fitzpatrick, J. W. Prospecting is physiologically costly in a resident cooperative breeder. [Preprint](https://www.biorxiv.org/content/10.1101/2023.07.10.546769v1){: .btn .btn--primary}
 
 **Taff, C. C.**, Ryan, T. A.δ, Uehling, J. J.δ, Injaian, A. S., & Vitousek, M. N. Within-individual consistency and between-individual variation in the egg shapes of tree swallows (*Tachycineta bicolor*). [Preprint](https://www.biorxiv.org/content/10.1101/2022.02.02.478835v1){: .btn .btn--primary} [Data + Code](https://github.com/cct663/tres_egg_shape){: .btn .btn--info}
 
