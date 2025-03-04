@@ -42,7 +42,7 @@ Asking students to propose and struggle with their own questions approximates th
 
 #### Animal Behavior: BI373
 
-In the Spring semester of 2024, I am teaching an upper level integrative animal behavior course with lab. Teaching materials will be added here after the semester.
+In taught a newly designed upper level integrative animal behavior course with lab at Colby College in 2024. 
 
 #### Senior Seminar in Biology: BI402
 
@@ -50,7 +50,7 @@ A seminar style class focused on evolutionary ecology.
 
 #### Ecological Communities of the Northeast: BI253
 
-In the Fall semester of 2023, I taught an intermediate level biology class focused on an ecological survey of habitats found in Maine at Colby College. Weekly labs will included field visits and data collection in each studied ecological community. Class and lab work will build skills in experimental design, data collection, and science communication. We covered basic principles of community ecology and processes of community assembly.
+I designed and taught this intermediate level biology class focused on an ecological survey of habitats found in Maine at Colby College. Weekly labs included field visits and data collection in each studied ecological community. Class and lab work will build skills in experimental design, data collection, and science communication. We covered basic principles of community ecology and processes of community assembly.
 
 #### Animal Communication: Signaling with Sound, Sight, Smell, and More
 
@@ -63,7 +63,7 @@ I designed and taught an Animal Communication class for non-majors at Colby Coll
 
 #### Ornithology: BioEE4750
 
-Together with [Jen Walsh-Emond](http://jenniferlwalsh.com/) I redesigned and taught an upper level Ornithology course for 70 students at Cornell University in Spring 2020. This offering is meant to serve as the flagship Ornithology course offered by the Cornell Lab of Ornithology. In designing the course, we made extensive use of multimedia resources at the Lab of Ornithology to create flipped content with mini lectures and quizzes delivered online and class sections focused on active engagement and discussion. Our assignments were designed to engage students in critical evaluation rather than memorization. 
+Together with [Jen Walsh-Emond](http://jenniferlwalsh.com/) I redesigned and taught an upper level Ornithology course for 70 students at Cornell University. This offering is meant to serve as the flagship Ornithology course offered by the Cornell Lab of Ornithology. In designing the course, we made extensive use of multimedia resources at the Lab of Ornithology to create flipped content with mini lectures and quizzes delivered online and class sections focused on active engagement and discussion. Our assignments were designed to engage students in critical evaluation rather than memorization. 
 
 *From my syllabus:* One of the advantages of a class focusing on birds is that we can explore the links between sub-disciplines of biology that are often covered in separate classes: ecology & evolution, anatomy & physiology, genetics, behavior, and conservation. At Cornell, we are also lucky to be able to draw on the resources of the Lab of Ornithology, the premier organization in the US for bird research, conservation, and education. In this class we will learn what birds have to tell us about each of these topics and what features make birds so unique and successful. Over the course of the semester we will combine online learning exercises with in-class discussion, activities, and guest lectures to achieve the following learning objectives:
 
@@ -84,7 +84,7 @@ I have a strong interest in data science, visualization, quantiative methods and
 
 #### Spring Field Ornithology: BIO1250
 
-In Spring 2016 I taught Spring Field Ornithology for a group of 12 Cornell University undergraduate and graduate students. This course was designed to build off of the publicly offered Spring Field Ornithology Class that was offered by Steve Kress at the Lab of Ornithology every Spring for many years. The public course focuses largely on bird identification with guest lectures and video presentations related to ornithology. My students attended some of those lectures and also participated in a one credit weekly seminar that was largely focused on reading, discussing, and evaluating scientific journal articles related to current topics in ornithology. The class was designed as an entry into studying ornithology for non-majors and attracted students with a wide range of backgrounds.
+I taught Spring Field Ornithology for a group of 12 Cornell University undergraduate and graduate students. This course was designed to build off of the publicly offered Spring Field Ornithology Class that was offered by Steve Kress at the Lab of Ornithology every Spring for many years. The public course focuses largely on bird identification with guest lectures and video presentations related to ornithology. My students attended some of those lectures and also participated in a one credit weekly seminar that was largely focused on reading, discussing, and evaluating scientific journal articles related to current topics in ornithology. The class was designed as an entry into studying ornithology for non-majors and attracted students with a wide range of backgrounds.
 
 <hr style="border:2px solid gray"> 
 
@@ -101,6 +101,7 @@ I taught a seven hour lecture section on Animal Communication as part of the UC 
 I have provided guest lectures and short multi-day teaching units in classes at Cornell University, the University of California--Davis, Hamilton College, and Skidmore College including:
 - Organismal Biology
 - Ecology
+- Evolution
 - Fundamentals of One Health
 - Wildlife Ecology & Conservation
 - Ornithology
