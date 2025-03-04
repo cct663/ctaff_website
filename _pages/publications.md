@@ -19,7 +19,9 @@ toc_icon: "feather-alt"
 
 **2025**
 
-**72\.** Miller, C. R.δ, **Taff, C. C.**, Uehling, J. J.δ, Rose, A. P., & Vitousek, M. N. *In Press*. Moonlight predicts the timing and duration of parental behavior across latitutdes in a diurnal songbird. *Behavioral Ecology and Sociobiology*.
+**73\.** Vitousek, M. N., **Taff, C. C.**, & Williamson, J. *In Press*. Resilience and robustness: from sub-organismal responses to communities. *Trends in Ecology & Evolution*.
+
+**72\.** Miller, C. R.δ, **Taff, C. C.**, Uehling, J. J.δ, Rose, A. P., & Vitousek, M. N. 2025. Moonlight predicts the timing and duration of parental behavior across latitutdes in a diurnal songbird. *Behavioral Ecology and Sociobiology*.
 
 **71\.** Gould, E., Fraser, H.,..., **Taff, C. C.**,..., et al. (includes 311 authors). 2025. Same data, different analysts: variation in effect sizes due to analytical decisions in ecology and evolutionary biology. *BMC Biology*. [PDF](https://drive.google.com/file/d/1-oEXvt1E7oFsG9jpgY2wNMujPS1X7dQc/view?usp=sharing){: .btn .btn--success} [Preprint](https://ecoevorxiv.org/repository/view/6000/){: .btn .btn--primary} [DOI](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-024-02101-x){: .btn .btn--warning}
 
@@ -212,8 +214,6 @@ Suh, Y. A.δ, **Taff, C. C.**, Tringali, A., Bowman, R., & Fitzpatrick, J. W. Pr
 **Taff, C. C.**, Wingfield, J. C., Vitousek, M. N. Corticosterone reaction norms to temperature in wild birds: implications for understanding endocrine flexibility and climate vulnerability. 
 
 Uehling, J. J.δ, **Taff, C. C.**, Houtz, J. L.δ, Becker, P. M.§, & Vitousek, M. N. Predictors and consequences of diet variation in a declining generalist aerial insectivore.
-
-Vitousek, M. N., **Taff, C. C.**, & Williamson, J. Resilience and robustness: from sub-organismal responses to ecosystems.
 
 
 
