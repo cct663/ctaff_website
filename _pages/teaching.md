@@ -159,19 +159,37 @@ At the University of California Davis, I was a teaching assistant for the follow
 
 I have consistently received excellent evaluations for my teaching. A few student testimonials are listed below and full teaching evaluations are available by request.
 
->"Class time was always used well, I like how we did a variety of things. I also really enjoyed the labs/trips, I learned a lot about Maine and different habitats and it helped to actually see what we discussed in class."
+>"Taff's enthusiasm is infectious, I learned so much in this course, but became so engaged with the material that it isn't feel like a chore. Amazing course and amazing professor." *Animal Behavior*
 
->"I loved the way in which we were asked to provide our input and consider what we know at baseline about the species or environment we were talking about."
+>"Never any busy work, all of the homework was very helpful. The reading accountability log was especially helpful in ensuring we would come it class ready to discuss and learn." *Animal Behavior*
 
->"This was one of the best classes I have ever taken. I now see ecology and natural history in a different light, and can now apply it to my everyday life."
+>"Prof Taff gave excellent detailed feedback on writing assignments. Prof Taff also gives students the chance to make revisions and re-submit papers based on his feedback, which I found particularly helpful for my learning." *Animal Behavior*
 
->"I feel like most of my teachers don't know how to teach. They only teach because they are required to. Therefore, they don't really care about the students. Conor showed a willingness to help us on a daily basis."
+>"Class time was always used well, I like how we did a variety of things. I also really enjoyed the labs/trips, I learned a lot about Maine and different habitats and it helped to actually see what we discussed in class." *Ecological Communities*
 
->"Conor makes sure we all understand the work and encourages us to learn the subject matter instead of just doing the steps."
+>"I loved the way in which we were asked to provide our input and consider what we know at baseline about the species or environment we were talking about." *Ecological Communities*
+
+>"This was one of the best classes I have ever taken. I now see ecology and natural history in a different light, and can now apply it to my everyday life." *Ecological Communities*
+
+>"Professor Taff also did a great job of presenting the difficult concepts in ways easier to understand." *Animal Communication*
+
+>"I found this course intellectually challenging, as it explored concepts that I did not previously associate or know were involved in animal communication." *Animal Communication*
+
+>"The instructor was easy to access and find and encouraged students to talk to them during office hours and when they wanted to ask for help or had further questions." *Animal Communication*
+
+>"I found this course to not only spark my interest and keep my engaged by also intellectually challenging." *Ecological Communities*
+
+>"I feel like most of my teachers don't know how to teach. They only teach because they are required to. Therefore, they don't really care about the students. Conor showed a willingness to help us on a daily basis." *Ornithology*
+
+>"Conor makes sure we all understand the work and encourages us to learn the subject matter instead of just doing the steps." *Ornithology*
+
+>"I like the dedication of the professors and their engagement with the class." *Ornithology*
 
 >"This instructor is willing to help and doesn't get frustrated even when a question is asked many times. Great instructor!"
 
 >"He was great at clarifying questions even if they weren't in his field of expertise because he always came prepared."
+
+>"He's very prepared and willing to answer any and all questions."
 
 >"Conor is great because he is helpful and extremely willing to answer questions and to take additional time to discuss materials with you that you find confusing or difficult."
 
