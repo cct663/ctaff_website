@@ -57,8 +57,8 @@ exploration of the mechanisms and functional consequences of behavior drawing on
 range of examples. Labs will focus on developing skills to design and carry out behavioral
 studies, culminating in the development and execution of an independent research project.
 
-[Syllabus](https://drive.google.com/file/d/1qzsWj-5Ggd2p88RRSmvvnZ6NNGga9Mvn/view?usp=sharing)
-[Example Assignment Sheets](https://drive.google.com/file/d/1DilyQ6xq7SyQ_trU2A0DV01JYGxyGynK/view?usp=sharing)
+[Syllabus](https://drive.google.com/file/d/1qzsWj-5Ggd2p88RRSmvvnZ6NNGga9Mvn/view?usp=sharing){: .btn .btn--info}
+[Example Assignment Sheets](https://drive.google.com/file/d/1DilyQ6xq7SyQ_trU2A0DV01JYGxyGynK/view?usp=sharing){: .btn .btn--info}
 
 #### Senior Seminar in Biology: BI402
 
@@ -71,7 +71,7 @@ time scale (happening now and observable) whereas evolution was studied with a h
 the idea that ecological interactions can directly shape evolutionary processes and vice versa and
 that this interface can be studied empirically.
 
-[Syllabus](https://drive.google.com/file/d/16TiKOgbZiPIP566Ex-OzfWLdhhWhGlIL/view?usp=sharing)
+[Syllabus](https://drive.google.com/file/d/16TiKOgbZiPIP566Ex-OzfWLdhhWhGlIL/view?usp=sharing){: .btn .btn--info}
 
 #### Ecological Communities of the Northeast: BI253
 
@@ -85,9 +85,9 @@ comprehensive ecology course, and we will focus a significant amount of our effo
 observation and natural history. This course is intended for everyone, regardless of your physical
 abilities, experience in the outdoors, or career goals.
 
-[Syllabus](https://drive.google.com/file/d/14BtD-pRh4FMmsj_fdGxx9RSSAiyq7LKg/view?usp=sharing)
-[Example Assignment Sheets](https://drive.google.com/file/d/1wHka5JRsmoFOhOGKtbFgtvRbbX8wBN0A/view?usp=sharing)
-[In Class R Tutorials](https://drive.google.com/file/d/1GFeK-APdPeDQWng2-N-9nOMPDBMG_Ym5/view?usp=sharing)
+[Syllabus](https://drive.google.com/file/d/14BtD-pRh4FMmsj_fdGxx9RSSAiyq7LKg/view?usp=sharing){: .btn .btn--info}
+[Example Assignment Sheets](https://drive.google.com/file/d/1wHka5JRsmoFOhOGKtbFgtvRbbX8wBN0A/view?usp=sharing){: .btn .btn--info}
+[In Class R Tutorials](https://drive.google.com/file/d/1GFeK-APdPeDQWng2-N-9nOMPDBMG_Ym5/view?usp=sharing){: .btn .btn--info}
 
 #### Animal Communication: Signaling with Sound, Sight, Smell, and More
 
