@@ -34,7 +34,7 @@ feature_row2:
 
 The most effective learning occurs when students are actively engaged in defining their own questions, allowed to make mistakes, and encouraged to work through those mistakes to arrive at a genuine understanding of difficult concepts. This type of experiential learning is demanding for both instructors and students, but I am committed to providing a challenging and engaging learning experience to each of my students both when designing my classes and when mentoring independent research students. 
 
-Asking students to propose and struggle with their own questions approximates the process of scientific discovery that practicing scientists actually follow. When undergraduate biology students are guided into taking control of their own learning, they cultivate the independence and self-motivation that graduate schools and professional careers in biology demand. Creating opportunities for genuine scientific discovery through class work is challenging, but the best teachers that I have had often accomplish this task by employing active learning strategies, such as ‘flipped’ classrooms and by developing open-ended assignments that use real datasets for lab activities in which students have the opportunity to develop and test original hypotheses.
+Asking students to propose and struggle with their own questions approximates the process of scientific discovery that practicing scientists actually follow. When undergraduate biology students are guided into taking control of their own learning, they cultivate the independence and self-motivation that graduate schools and professional careers in biology demand. I prioritize clear communication and expectations in my classes and I devote a lot of time to developing and refining my teaching materials. Examples of materials from most of my classes can be found below.
 
 <hr style="border:2px solid gray">
 
@@ -42,15 +42,49 @@ Asking students to propose and struggle with their own questions approximates th
 
 #### Animal Behavior: BI373
 
-In taught a newly designed upper level integrative animal behavior course with lab at Colby College in 2024. 
+I designed an upper level integrative animal behavior course with lab at Colby College.
+
+*From my syllabus:* Animals display a bewildering diversity of behaviors. Often, these behaviors are used to help
+solve critical problems: finding a mate, finding food, avoiding predators, or communicating with
+each other. But how did these behaviors come about? What biological mechanisms allow animals
+to produce appropriate behaviors and what common patterns or concepts can help us make sense
+of the amazing variety of behaviors? These questions are the focus of ethology, the biological
+study of behavior.
+
+In our course we will explore the diversity of behaviors that animals exhibit and the conceptual
+and analytical approaches that ethologists use to understand behavior. Lectures will focus on an
+exploration of the mechanisms and functional consequences of behavior drawing on a wide
+range of examples. Labs will focus on developing skills to design and carry out behavioral
+studies, culminating in the development and execution of an independent research project.
+
+[Syllabus](https://drive.google.com/file/d/1qzsWj-5Ggd2p88RRSmvvnZ6NNGga9Mvn/view?usp=sharing)
 
 #### Senior Seminar in Biology: BI402
 
-A seminar style class focused on evolutionary ecology.
+This senior class focused on developing skills for reading, interpretting, and presenting primary journal articles.
+
+*From my syllabus:* Evolutionary ecology is a broad field that encompasses a range of questions at the interface of
+ecology and evolutionary biology. Traditionally, ecology was studied on a more contemporary
+time scale (happening now and observable) whereas evolution was studied with a historical lens
+(e.g., comparing fossils or DNA to infer evolutionary history). Evolutionary ecology embraces
+the idea that ecological interactions can directly shape evolutionary processes and vice versa and
+that this interface can be studied empirically.
+
+[Syllabus](https://drive.google.com/file/d/16TiKOgbZiPIP566Ex-OzfWLdhhWhGlIL/view?usp=sharing)
 
 #### Ecological Communities of the Northeast: BI253
 
-I designed and taught this intermediate level biology class focused on an ecological survey of habitats found in Maine at Colby College. Weekly labs included field visits and data collection in each studied ecological community. Class and lab work will build skills in experimental design, data collection, and science communication. We covered basic principles of community ecology and processes of community assembly.
+I designed and taught this intermediate level biology class focused on an ecological survey of habitats found in Maine. Weekly labs included field visits and data collection in each studied ecological community. 
+
+*From my syllabus:* The northeast is home to a wide range of strikingly different communities. Our aim
+for this course is to explore natural areas and inspire a new appreciation for the ecology of the
+natural world. Through the course, we will also learn about some basic ecological concepts and
+begin to develop quantitative skills like mapping and plotting. However, this is not a
+comprehensive ecology course, and we will focus a significant amount of our effort on
+observation and natural history. This course is intended for everyone, regardless of your physical
+abilities, experience in the outdoors, or career goals.
+
+[Syllabus](https://drive.google.com/file/d/14BtD-pRh4FMmsj_fdGxx9RSSAiyq7LKg/view?usp=sharing)
 
 #### Animal Communication: Signaling with Sound, Sight, Smell, and More
 
