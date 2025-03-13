@@ -58,6 +58,7 @@ range of examples. Labs will focus on developing skills to design and carry out 
 studies, culminating in the development and execution of an independent research project.
 
 [Syllabus](https://drive.google.com/file/d/1qzsWj-5Ggd2p88RRSmvvnZ6NNGga9Mvn/view?usp=sharing)
+[Example Assignment Sheets](https://drive.google.com/file/d/1DilyQ6xq7SyQ_trU2A0DV01JYGxyGynK/view?usp=sharing)
 
 #### Senior Seminar in Biology: BI402
 
