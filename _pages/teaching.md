@@ -86,6 +86,8 @@ observation and natural history. This course is intended for everyone, regardles
 abilities, experience in the outdoors, or career goals.
 
 [Syllabus](https://drive.google.com/file/d/14BtD-pRh4FMmsj_fdGxx9RSSAiyq7LKg/view?usp=sharing)
+[Example Assignment Sheets](https://drive.google.com/file/d/1wHka5JRsmoFOhOGKtbFgtvRbbX8wBN0A/view?usp=sharing)
+[In Class R Tutorials](https://drive.google.com/file/d/1GFeK-APdPeDQWng2-N-9nOMPDBMG_Ym5/view?usp=sharing)
 
 #### Animal Communication: Signaling with Sound, Sight, Smell, and More
 
@@ -94,7 +96,7 @@ I designed and taught an Animal Communication class for non-majors at Colby Coll
 *From my syllabus:* Animals signals are often the most conspicuous sights, sounds, and smells in the natural world, and they have captivated teh attention of scientists and the public for centuries. Yet animal signals can also be undetectable to humans when they occur in private channels or using sensory modalities that we lack. To truly appreciate animal communication, we need to delve deeply into the sensory worlds of other animals to explore their fantastic diversity of sensory systems and signaling modalities. Our course will start here...
 
 [Syllabus](https://drive.google.com/file/d/1oU0QaVmpf1awumnxsETp4Ak821kKeuDI/view?usp=sharing){: .btn .btn--info}
-[Assignment Sheets](https://drive.google.com/file/d/10RKcdT7OoI8xkQcbnemdBYS1KATeyyYk/view?usp=sharing){: .btn .btn--info}
+[Example Assignment Sheets](https://drive.google.com/file/d/10RKcdT7OoI8xkQcbnemdBYS1KATeyyYk/view?usp=sharing){: .btn .btn--info}
 
 #### Ornithology: BioEE4750
 
@@ -107,7 +109,7 @@ Together with [Jen Walsh-Emond](http://jenniferlwalsh.com/) I redesigned and tau
 - Synthesize material covered throughout the course to propose and conduct original, independent research projects related to the behavioral and evolutionary ecology of birds.
 
 [Syllabus](https://drive.google.com/file/d/1YNjy-B9oUyfY3e3-7SL5cC1NRMqEn4SL/view?usp=sharing){: .btn .btn--info}
-[Assignment Sheets](https://drive.google.com/file/d/1W0iofJJNZGFXwxfd5Xxyy7Q1hyr6Lsbq/view?usp=sharing){: .btn .btn--info}
+[Example Assignment Sheets](https://drive.google.com/file/d/1W0iofJJNZGFXwxfd5Xxyy7Q1hyr6Lsbq/view?usp=sharing){: .btn .btn--info}
 
 <hr style="border:2px solid gray">
 
