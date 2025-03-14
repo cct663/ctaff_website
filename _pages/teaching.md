@@ -60,7 +60,7 @@ studies, culminating in the development and execution of an independent research
 [Syllabus](https://drive.google.com/file/d/1qzsWj-5Ggd2p88RRSmvvnZ6NNGga9Mvn/view?usp=sharing){: .btn .btn--info}
 [Example Assignment Sheets](https://drive.google.com/file/d/1DilyQ6xq7SyQ_trU2A0DV01JYGxyGynK/view?usp=sharing){: .btn .btn--info}
 
-#### Senior Seminar in Biology: BI402
+#### Senior Seminar in Evolutionary Ecology: BI402
 
 This senior class focused on developing skills for reading, interpretting, and presenting primary journal articles.
 
