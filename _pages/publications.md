@@ -19,6 +19,8 @@ toc_icon: "feather-alt"
 
 **2025**
 
+**74\.** **Taff, C. C.**, Wingfield, J. C., Vitousek, M. N. *In Press*. Corticosterone reaction norms to temperature in wild birds: implications for understanding endocrine flexibility and climate vulnerability. *Integrative and Comparative Biology*. 
+
 **73\.** Vitousek, M. N., **Taff, C. C.**, & Williamson, J. *In Press*. Resilience and robustness: from sub-organismal responses to communities. *Trends in Ecology & Evolution*.
 
 **72\.** Miller, C. R.δ, **Taff, C. C.**, Uehling, J. J.δ, Rose, A. P., & Vitousek, M. N. 2025. Moonlight predicts the timing and duration of parental behavior across latitutdes in a diurnal songbird. *Behavioral Ecology and Sociobiology*.
@@ -210,8 +212,6 @@ Houtz, J. L.δ, Shipley, J. R., Zimmer, C., Twining, C. W., Lee, D. M.§, **Taff
 Suh, Y. A.δ, **Taff, C. C.**, Tringali, A., Bowman, R., & Fitzpatrick, J. W. Prospecting is physiologically costly in a resident cooperative breeder. [Preprint](https://www.biorxiv.org/content/10.1101/2023.07.10.546769v1){: .btn .btn--primary}
 
 **Taff, C. C.**, Ryan, T. A.δ, Uehling, J. J.δ, Injaian, A. S., & Vitousek, M. N. Within-individual consistency and between-individual variation in the egg shapes of tree swallows (*Tachycineta bicolor*). [Preprint](https://www.biorxiv.org/content/10.1101/2022.02.02.478835v1){: .btn .btn--primary} [Data + Code](https://github.com/cct663/tres_egg_shape){: .btn .btn--info}
-
-**Taff, C. C.**, Wingfield, J. C., Vitousek, M. N. Corticosterone reaction norms to temperature in wild birds: implications for understanding endocrine flexibility and climate vulnerability. 
 
 Uehling, J. J.δ, **Taff, C. C.**, Houtz, J. L.δ, Becker, P. M.§, & Vitousek, M. N. Predictors and consequences of diet variation in a declining generalist aerial insectivore.
 
