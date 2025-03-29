@@ -21,9 +21,9 @@ toc_icon: "feather-alt"
 
 **74\.** **Taff, C. C.**, Wingfield, J. C., Vitousek, M. N. *In Press*. Corticosterone reaction norms to temperature in wild birds: implications for understanding endocrine flexibility and climate vulnerability. *Integrative and Comparative Biology*. 
 
-**73\.** Vitousek, M. N., **Taff, C. C.**, & Williamson, J. *In Press*. Resilience and robustness: from sub-organismal responses to communities. *Trends in Ecology & Evolution*.
+**73\.** Vitousek, M. N., **Taff, C. C.**, & Williamson, J. 2025. Resilience and robustness: from sub-organismal responses to communities. *Trends in Ecology & Evolution*. [PDF](https://drive.google.com/file/d/1mB8bt_yNGGm3dGagO9iabMc1Ya8d_OWa/view?usp=sharing){: .btn .btn--success} [DOI](https://www.cell.com/trends/ecology-evolution/abstract/S0169-5347(25)00056-4?rss=yes&utm_medium=twitter&utm_source=dlvr.it){: .btn .btn--warning}
 
-**72\.** Miller, C. R.δ, **Taff, C. C.**, Uehling, J. J.δ, Rose, A. P., & Vitousek, M. N. 2025. Moonlight predicts the timing and duration of parental behavior across latitutdes in a diurnal songbird. *Behavioral Ecology and Sociobiology*.
+**72\.** Miller, C. R.δ, **Taff, C. C.**, Uehling, J. J.δ, Rose, A. P., & Vitousek, M. N. 2025. Moonlight predicts the timing and duration of parental behavior across latitutdes in a diurnal songbird. *Behavioral Ecology and Sociobiology*. [PDF](https://drive.google.com/file/d/1jnWMdRCgU21gTxy0wAgz42iRVJ8Q5pnf/view?usp=sharing){: .btn .btn--success} [DOI](https://link.springer.com/article/10.1007/s00265-025-03567-7){: .btn .btn--warning}
 
 **71\.** Gould, E., Fraser, H.,..., **Taff, C. C.**,..., et al. (includes 311 authors). 2025. Same data, different analysts: variation in effect sizes due to analytical decisions in ecology and evolutionary biology. *BMC Biology*. [PDF](https://drive.google.com/file/d/1-oEXvt1E7oFsG9jpgY2wNMujPS1X7dQc/view?usp=sharing){: .btn .btn--success} [Preprint](https://ecoevorxiv.org/repository/view/6000/){: .btn .btn--primary} [DOI](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-024-02101-x){: .btn .btn--warning}
 
