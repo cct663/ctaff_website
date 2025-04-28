@@ -207,9 +207,13 @@ Hallinger, K. K., Pegan, T. M.δ, Andersen, M. J., Ardia, D. R., Belmaker, A., C
 
 Houtz, J. L.δ, Shipley, J. R., Zimmer, C., Twining, C. W., Lee, D. M.§, **Taff, C. C.**, Chapman, S. E.§, Fenners, J. L.§, Haussmann, M. F., & Vitousek, M. N. Gut microbiota affect developmental thermal plasticity in birds.
 
+Shipley, J. R., **Taff, C. C.**, Twining, C. W., Vitousek, M. N, & Winkler, D. W. Adaptation to climate change can be constrained by early life effects.
+
 **Taff, C. C.**, Ryan, T. A.δ, Uehling, J. J.δ, Injaian, A. S., & Vitousek, M. N. Within-individual consistency and between-individual variation in the egg shapes of tree swallows (*Tachycineta bicolor*). [Preprint](https://www.biorxiv.org/content/10.1101/2022.02.02.478835v1){: .btn .btn--primary} [Data + Code](https://github.com/cct663/tres_egg_shape){: .btn .btn--info}
 
-**Taff, C. C.**, Ardia, D. R., Chang van Oordt, D., Houtz, J. L., Mejia, N. A., Ryan, T. A., Shipley, J. R., Uehling, J. J., Winkler, D. W., Zimmer, C., & Vitousek, M. N. Organismal robustness and resilience influence the ability to cope with cold snaps.
+**Taff, C. C.**, Ardia, D. R., Chang van Oordt, D., Houtz, J. L., Mejia, N. A.δ, Ryan, T. A.δ, Shipley, J. R., Uehling, J. J., Winkler, D. W., Zimmer, C., & Vitousek, M. N. Organismal robustness and resilience influence the ability to cope with cold snaps.
+
+Tao, T.*, Prusinski, M. A., **Taff, C. C.**, & Freeman-Gallant, C. R. The high prevalence, life-long persistance, and absence of major health consequences of *Babesia microti* infection characterize the potential role of the common yellowthroat as a reservoir for the tick-borne pathogen *Babesia microti*.
 
 Uehling, J. J.δ, **Taff, C. C.**, Houtz, J. L.δ, Becker, P. M.§, & Vitousek, M. N. Predictors and consequences of diet variation in a declining generalist aerial insectivore.
 
