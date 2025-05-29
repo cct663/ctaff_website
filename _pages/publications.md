@@ -213,7 +213,7 @@ Shipley, J. R., **Taff, C. C.**, Twining, C. W., Vitousek, M. N, & Winkler, D. W
 
 **Taff, C. C.**, Ardia, D. R., Chang van Oordt, D., Houtz, J. L., Mejia, N. A.δ, Ryan, T. A.δ, Shipley, J. R., Uehling, J. J., Winkler, D. W., Zimmer, C., & Vitousek, M. N. Organismal robustness and resilience influence the ability to cope with cold snaps.
 
-Tao, T.*, Prusinski, M. A., **Taff, C. C.**, & Freeman-Gallant, C. R. The high prevalence, life-long persistance, and absence of major health consequences of *Babesia microti* infection characterize the potential role of the common yellowthroat as a reservoir for the tick-borne pathogen *Babesia microti*.
+Tao, T.§, Prusinski, M. A., **Taff, C. C.**, & Freeman-Gallant, C. R. The high prevalence, life-long persistance, and absence of major health consequences of *Babesia microti* infection characterize the potential role of the common yellowthroat as a reservoir for the tick-borne pathogen *Babesia microti*.
 
 Uehling, J. J.δ, **Taff, C. C.**, Houtz, J. L.δ, Becker, P. M.§, & Vitousek, M. N. Predictors and consequences of diet variation in a declining generalist aerial insectivore.
 
