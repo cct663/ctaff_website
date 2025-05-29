@@ -19,7 +19,7 @@ toc_icon: "feather-alt"
 
 **2025**
 
-**74\.** **Taff, C. C.**, Wingfield, J. C., Vitousek, M. N. *In Press*. Corticosterone reaction norms to temperature in wild birds: implications for understanding endocrine flexibility and climate vulnerability. *Integrative and Comparative Biology*. [PDF](https://drive.google.com/file/d/1JnKiJqBUz0Dty3cslVsX-77377xZSAeF/view?usp=sharing){: .btn .btn--success} [DOI](https://doi.org/10.1093/icb/icaf011){: .btn .btn--warning} [Data + Code](https://github.com/cct663/corticosterone-temperature){: .btn .btn--info}
+**74\.** **Taff, C. C.**, Wingfield, J. C., Vitousek, M. N. 2025. Corticosterone reaction norms to temperature in wild birds: implications for understanding endocrine flexibility and climate vulnerability. *Integrative and Comparative Biology*. [PDF](https://drive.google.com/file/d/1JnKiJqBUz0Dty3cslVsX-77377xZSAeF/view?usp=sharing){: .btn .btn--success} [DOI](https://doi.org/10.1093/icb/icaf011){: .btn .btn--warning} [Data + Code](https://github.com/cct663/corticosterone-temperature){: .btn .btn--info}
 
 **73\.** Vitousek, M. N., **Taff, C. C.**, & Williamson, J. 2025. Resilience and robustness: from sub-organismal responses to communities. *Trends in Ecology & Evolution*. [PDF](https://drive.google.com/file/d/1mB8bt_yNGGm3dGagO9iabMc1Ya8d_OWa/view?usp=sharing){: .btn .btn--success} [DOI](https://www.cell.com/trends/ecology-evolution/abstract/S0169-5347(25)00056-4?rss=yes&utm_medium=twitter&utm_source=dlvr.it){: .btn .btn--warning}
 
