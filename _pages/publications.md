@@ -19,6 +19,8 @@ toc_icon: "feather-alt"
 
 **2025**
 
+**75\.** Hallinger, K. K., Pegan, T. M.δ, Andersen, M. J., Ardia, D. R., Belmaker, A., Chang van Oordt, D.δ, Ferretti, V., Forsman, A. M., Gaul, J. R., Llambias, P. E., Orzechowski, S. C., Shipley, J. R., Stager, M., **Taff, C. C.**, Uehling, J. J.δ, Verhoeven, M., Vitousek, M., Wilson, M., Yoon, H. S., Wrege, P. H., & Winker, D. W. *Accepted*. Comparing the reproductive performance of dispersers vs. non-dispersers: a point-of-settlement approach to understanding the diversity of tree swallow dispersal strategies in a continuous mainland environment. *Ecology*
+
 **74\.** **Taff, C. C.**, Wingfield, J. C., Vitousek, M. N. 2025. Corticosterone reaction norms to temperature in wild birds: implications for understanding endocrine flexibility and climate vulnerability. *Integrative and Comparative Biology*. [PDF](https://drive.google.com/file/d/1JnKiJqBUz0Dty3cslVsX-77377xZSAeF/view?usp=sharing){: .btn .btn--success} [DOI](https://doi.org/10.1093/icb/icaf011){: .btn .btn--warning} [Data + Code](https://github.com/cct663/corticosterone-temperature){: .btn .btn--info}
 
 **73\.** Vitousek, M. N., **Taff, C. C.**, & Williamson, J. 2025. Resilience and robustness: from sub-organismal responses to communities. *Trends in Ecology & Evolution*. [PDF](https://drive.google.com/file/d/1mB8bt_yNGGm3dGagO9iabMc1Ya8d_OWa/view?usp=sharing){: .btn .btn--success} [DOI](https://www.cell.com/trends/ecology-evolution/abstract/S0169-5347(25)00056-4?rss=yes&utm_medium=twitter&utm_source=dlvr.it){: .btn .btn--warning}
@@ -202,8 +204,6 @@ toc_icon: "feather-alt"
 *§ undergraduate co-authors; δ graduate student co-authors; † equal contribution; †† senior author role*
 
 Chang van Oordt, D. A.δ, Zimmer, C., Ardia, D. R., **Taff, C. C.**, Johnson, L. S., Rose, A. R., Aborn, D. A., Ryan, T. A.δ, Uehling, J. J.δ, & Vitousek, M. N. Geographical variation in bactericidal ability of breeding tree swallows (*Tachycineta bicolor*).
-
-Hallinger, K. K., Pegan, T. M.δ, Andersen, M. J., Ardia, D. R., Belmaker, A., Chang van Oordt, D.δ, Ferretti, V., Forsman, A. M., Gaul, J. R., Llambias, P. E., Orzechowski, S. C., Shipley, J. R., Stager, M., **Taff, C. C.**, Uehling, J. J.δ, Verhoeven, M., Vitousek, M., Wilson, M., Yoon, H. S., Wrege, P. H., & Winker, D. W. Comparing the reproductive performance of dispersers vs. non-dispersers: a point-of-settlement approach to understanding the diversity of tree swallow dispersal strategies in a continuous mainland environment.
 
 Houtz, J. L.δ, Shipley, J. R., Zimmer, C., Twining, C. W., Lee, D. M.§, **Taff, C. C.**, Chapman, S. E.§, Fenners, J. L.§, Haussmann, M. F., & Vitousek, M. N. Gut microbiota affect developmental thermal plasticity in birds.
 
