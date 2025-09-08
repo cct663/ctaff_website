@@ -19,6 +19,8 @@ toc_icon: "feather-alt"
 
 **2025**
 
+**76\.** Heidinger, B. J., Grindstaff, J. L., Names, G. R., Anderson, J. T., Brusch, G., Buckley, L. B., Cicchino, A. S., Kelly, M. W., Riddell, E. A., & **Taff, C. C.** 2025. Identifying the physiological mechanisms that underlie phenotypic responses to rapid environmental change. *Integrative & Comparative Biology*. [DOI](https://doi.org/10.1093/icb/icaf143){.btn .btn--warning}
+
 **75\.** Hallinger, K. K., Pegan, T. M.δ, Andersen, M. J., Ardia, D. R., Belmaker, A., Chang van Oordt, D.δ, Ferretti, V., Forsman, A. M., Gaul, J. R., Llambias, P. E., Orzechowski, S. C., Shipley, J. R., Stager, M., **Taff, C. C.**, Uehling, J. J.δ, Verhoeven, M., Vitousek, M., Wilson, M., Yoon, H. S., Wrege, P. H., & Winker, D. W. *Accepted*. Comparing the reproductive performance of dispersers vs. non-dispersers: a point-of-settlement approach to understanding the diversity of tree swallow dispersal strategies in a continuous mainland environment. *Ecology*
 
 **74\.** **Taff, C. C.**, Wingfield, J. C., Vitousek, M. N. 2025. Corticosterone reaction norms to temperature in wild birds: implications for understanding endocrine flexibility and climate vulnerability. *Integrative and Comparative Biology*. [PDF](https://drive.google.com/file/d/1JnKiJqBUz0Dty3cslVsX-77377xZSAeF/view?usp=sharing){: .btn .btn--success} [DOI](https://doi.org/10.1093/icb/icaf011){: .btn .btn--warning} [Data + Code](https://github.com/cct663/corticosterone-temperature){: .btn .btn--info}
