@@ -213,7 +213,7 @@ Shipley, J. R., **Taff, C. C.**, Twining, C. W., Vitousek, M. N, & Winkler, D. W
 
 **Taff, C. C.**, Ryan, T. A.δ, Uehling, J. J.δ, Injaian, A. S., & Vitousek, M. N. Within-individual consistency and between-individual variation in the egg shapes of tree swallows (*Tachycineta bicolor*). [Preprint](https://www.biorxiv.org/content/10.1101/2022.02.02.478835v1){: .btn .btn--primary} [Data + Code](https://github.com/cct663/tres_egg_shape){: .btn .btn--info}
 
-**Taff, C. C.**, Ardia, D. R., Chang van Oordt, D., Houtz, J. L., Mejia, N. A.δ, Ryan, T. A.δ, Shipley, J. R., Uehling, J. J., Winkler, D. W., Zimmer, C., & Vitousek, M. N. Organismal robustness and resilience influence the ability to cope with cold snaps.
+**Taff, C. C.**, Ardia, D. R., Chang van Oordt, D., Houtz, J. L., Mejia, N. A.δ, Ryan, T. A.δ, Shipley, J. R., Uehling, J. J., Winkler, D. W., Zimmer, C., & Vitousek, M. N. Organismal robustness and resilience influence the ability to cope with cold snaps. [Preprint](https://www.biorxiv.org/content/10.64898/2025.12.22.696020v1){: .btn .btn--primary}
 
 **Taff, C. C.**, et al. (includes 81 authors). Divergent climate impacts despite similar response to temperature in a widespread aerial insectivore. [Preprint](https://www.biorxiv.org/content/10.64898/2025.12.15.694424v1){: .btn .btn--primary} [Data + Code](https://zenodo.org/records/17804486){: .btn .btn--info}
 
