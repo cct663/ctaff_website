@@ -17,13 +17,15 @@ toc_icon: "feather-alt"
 ### Peer-Reviewed Articles
 *§ undergraduate co-authors; δ graduate student co-authors; † equal contribution; †† senior author role*
 
+**77\.** **Taff, C. C.**, Ardia, D. R., Chang van Oordt, D., Houtz, J. L., Mejia, N. A.δ, Ryan, T. A.δ, Shipley, J. R., Uehling, J. J., Winkler, D. W., Zimmer, C., & Vitousek, M. N. *Accepted*. Organismal robustness and resilience to declining temperature predict reproductive outcomes. *Current Biology*. [Preprint](https://www.biorxiv.org/content/10.64898/2025.12.22.696020v1){: .btn .btn--primary} [Data](https://doi.org/10.5281/zenodo.15864830){: .btn .btn--info} [Code](https://doi.org/10.5281/zenodo.15864802){: .btn .btn--info}
+
 **2026**
 
-**76\.** Hallinger, K. K., Pegan, T. M.δ, Andersen, M. J., Ardia, D. R., Belmaker, A., Chang van Oordt, D.δ, Ferretti, V., Forsman, A. M., Gaul, J. R., Llambias, P. E., Orzechowski, S. C., Shipley, J. R., Stager, M., **Taff, C. C.**, Uehling, J. J.δ, Verhoeven, M., Vitousek, M., Wilson, M., Yoon, H. S., Wrege, P. H., & Winker, D. W. 2026. Comparing tree swallow dispersal strategies in a continuous mainland Environment. *Ecology*
+**76\.** Hallinger, K. K., Pegan, T. M.δ, Andersen, M. J., Ardia, D. R., Belmaker, A., Chang van Oordt, D.δ, Ferretti, V., Forsman, A. M., Gaul, J. R., Llambias, P. E., Orzechowski, S. C., Shipley, J. R., Stager, M., **Taff, C. C.**, Uehling, J. J.δ, Verhoeven, M., Vitousek, M., Wilson, M., Yoon, H. S., Wrege, P. H., & Winker, D. W. 2026. Comparing tree swallow dispersal strategies in a continuous mainland Environment. *Ecology*. [PDF](https://drive.google.com/file/d/1iUHNlsD7sKCmb2ZjyYb3SUtQwjc2KUIo/view?usp=drive_link){: .btn .btn--success} [DOI](https://doi.org/10.1002/ecy.70299){: .btn .btn--warning} [Data + Code](https://figshare.com/articles/dataset/Hallinger_et_al_2025_Ecology_Tree_Swallow_Dispersal_Data_and_Code/23816112/2){: .btn .btn--info}
 
 **2025**
 
-**75\.** Heidinger, B. J., Grindstaff, J. L., Names, G. R., Anderson, J. T., Brusch, G., Buckley, L. B., Cicchino, A. S., Kelly, M. W., Riddell, E. A., & **Taff, C. C.** 2025. Identifying the physiological mechanisms that underlie phenotypic responses to rapid environmental change. *Integrative & Comparative Biology*. [DOI](https://doi.org/10.1093/icb/icaf143){: .btn .btn--warning}
+**75\.** Heidinger, B. J., Grindstaff, J. L., Names, G. R., Anderson, J. T., Brusch, G., Buckley, L. B., Cicchino, A. S., Kelly, M. W., Riddell, E. A., & **Taff, C. C.** 2025. Identifying the physiological mechanisms that underlie phenotypic responses to rapid environmental change. *Integrative & Comparative Biology*. [PDF](https://drive.google.com/file/d/19KiNLL5uCYHLoYKOW2GZKcb8A9hi6XZt/view?usp=drive_link){: .btn .btn--success} [DOI](https://doi.org/10.1093/icb/icaf143){: .btn .btn--warning}
 
 **74\.** **Taff, C. C.**, Wingfield, J. C., Vitousek, M. N. 2025. Corticosterone reaction norms to temperature in wild birds: implications for understanding endocrine flexibility and climate vulnerability. *Integrative and Comparative Biology*. [PDF](https://drive.google.com/file/d/1JnKiJqBUz0Dty3cslVsX-77377xZSAeF/view?usp=sharing){: .btn .btn--success} [DOI](https://doi.org/10.1093/icb/icaf011){: .btn .btn--warning} [Data + Code](https://github.com/cct663/corticosterone-temperature){: .btn .btn--info}
 
@@ -214,8 +216,6 @@ Houtz, J. L.δ, Shipley, J. R., Zimmer, C., Twining, C. W., Lee, D. M.§, **Taff
 Shipley, J. R., **Taff, C. C.**, Twining, C. W., Vitousek, M. N, & Winkler, D. W. Adaptation to climate change can be constrained by early life effects.
 
 **Taff, C. C.**, Ryan, T. A.δ, Uehling, J. J.δ, Injaian, A. S., & Vitousek, M. N. Within-individual consistency and between-individual variation in the egg shapes of tree swallows (*Tachycineta bicolor*). [Preprint](https://www.biorxiv.org/content/10.1101/2022.02.02.478835v1){: .btn .btn--primary} [Data + Code](https://github.com/cct663/tres_egg_shape){: .btn .btn--info}
-
-**Taff, C. C.**, Ardia, D. R., Chang van Oordt, D., Houtz, J. L., Mejia, N. A.δ, Ryan, T. A.δ, Shipley, J. R., Uehling, J. J., Winkler, D. W., Zimmer, C., & Vitousek, M. N. Organismal robustness and resilience influence the ability to cope with cold snaps. [Preprint](https://www.biorxiv.org/content/10.64898/2025.12.22.696020v1){: .btn .btn--primary}
 
 **Taff, C. C.**, et al. (includes 81 authors). Divergent climate impacts despite similar response to temperature in a widespread aerial insectivore. [Preprint](https://www.biorxiv.org/content/10.64898/2025.12.15.694424v1){: .btn .btn--primary} [Data + Code](https://zenodo.org/records/17804486){: .btn .btn--info}
 
