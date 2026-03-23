@@ -17,6 +17,8 @@ toc_icon: "feather-alt"
 ### Peer-Reviewed Articles
 *§ undergraduate co-authors; δ graduate student co-authors; † equal contribution; †† senior author role*
 
+**78\.** Uehling, J. J.δ, **Taff, C. C.**, Houtz, J. L.δ, Becker, P. M.§, & Vitousek, M. N. *Accepted*. Predictors and consequences of diet variation in a declining generalist aerial insectivore. *Oecologia*.
+
 **77\.** **Taff, C. C.**, Ardia, D. R., Chang van Oordt, D., Houtz, J. L., Mejia, N. A.δ, Ryan, T. A.δ, Shipley, J. R., Uehling, J. J., Winkler, D. W., Zimmer, C., & Vitousek, M. N. *Accepted*. Organismal robustness and resilience to declining temperature predict reproductive outcomes. *Current Biology*. [Preprint](https://www.biorxiv.org/content/10.64898/2025.12.22.696020v1){: .btn .btn--primary} [Data](https://doi.org/10.5281/zenodo.15864830){: .btn .btn--info} [Code](https://doi.org/10.5281/zenodo.15864802){: .btn .btn--info}
 
 **2026**
@@ -221,7 +223,7 @@ Shipley, J. R., **Taff, C. C.**, Twining, C. W., Vitousek, M. N, & Winkler, D. W
 
 Tao, T.§, Prusinski, M. A., **Taff, C. C.**, & Freeman-Gallant, C. R. The high prevalence, life-long persistance, and absence of major health consequences of *Babesia microti* infection characterize the potential role of the common yellowthroat as a reservoir for the tick-borne pathogen *Babesia microti*.
 
-Uehling, J. J.δ, **Taff, C. C.**, Houtz, J. L.δ, Becker, P. M.§, & Vitousek, M. N. Predictors and consequences of diet variation in a declining generalist aerial insectivore.
+
 
 
 
