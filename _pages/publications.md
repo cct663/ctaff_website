@@ -17,11 +17,13 @@ toc_icon: "feather-alt"
 ### Peer-Reviewed Articles
 *§ undergraduate co-authors; δ graduate student co-authors; † equal contribution; †† senior author role*
 
-**78\.** Uehling, J. J.δ, **Taff, C. C.**, Houtz, J. L.δ, Becker, P. M.§, & Vitousek, M. N. *Accepted*. Predictors and consequences of diet variation in a declining generalist aerial insectivore. *Oecologia*.
+**79\.** **Taff, C. C.**, et al. (includes 81 authors). *Accepted*. Divergent population trajectories despite similar response to temperature in a widespread aerial insectivore. *Proceedings of the National Academy of Sciences*. [Preprint](https://www.biorxiv.org/content/10.64898/2025.12.15.694424v1){: .btn .btn--primary} [Data + Code](https://zenodo.org/records/17804486){: .btn .btn--info}
 
 **2026**
 
-**77\.** **Taff, C. C.**, Ardia, D. R., Chang van Oordt, D., Houtz, J. L., Mejia, N. A.δ, Ryan, T. A.δ, Shipley, J. R., Uehling, J. J., Winkler, D. W., Zimmer, C., & Vitousek, M. N. 2026. Organismal robustness and resilience to declining temperature predict reproductive outcomes. *Current Biology*. [PDF](https://drive.google.com/file/d/1SiGgldOfpebeZ6pFHgJ8myijGSQ43gFX/view?usp=drive_link){: .btn.btn--success} [DOI](https://www.cell.com/current-biology/fulltext/S0960-9822(26)00313-1){: .btn .btn--warning} [Preprint](https://www.biorxiv.org/content/10.64898/2025.12.22.696020v1){: .btn .btn--primary} [Data](https://doi.org/10.5281/zenodo.15864830){: .btn .btn--info} [Code](https://doi.org/10.5281/zenodo.15864802){: .btn .btn--info}
+**78\.** Uehling, J. J.δ, **Taff, C. C.**, Houtz, J. L.δ, Becker, P. M.§, & Vitousek, M. N. 2026. Predictors and consequences of diet variation in a declining generalist aerial insectivore. *Oecologia*. [PDF](https://drive.google.com/file/d/1MpVocvi2rckYAeHWFffQ8VJ9Ur0ybqUr/view?usp=drive_link){: .btn .btn--success} [DOI](https://link.springer.com/article/10.1007/s00442-026-05901-w){: .btn .btn--warning} [Data + Code](https://github.com/juehling/tres_coi_analysis_2019_ms){: .btn .btn--info}
+
+**77\.** **Taff, C. C.**, Ardia, D. R., Chang van Oordt, D., Houtz, J. L., Mejia, N. A.δ, Ryan, T. A.δ, Shipley, J. R., Uehling, J. J., Winkler, D. W., Zimmer, C., & Vitousek, M. N. 2026. Organismal robustness and resilience to declining temperature predict reproductive outcomes. *Current Biology*. [PDF](https://drive.google.com/file/d/1SiGgldOfpebeZ6pFHgJ8myijGSQ43gFX/view?usp=drive_link){: .btn .btn--success} [DOI](https://www.cell.com/current-biology/fulltext/S0960-9822(26)00313-1){: .btn .btn--warning} [Preprint](https://www.biorxiv.org/content/10.64898/2025.12.22.696020v1){: .btn .btn--primary} [Data](https://doi.org/10.5281/zenodo.15864830){: .btn .btn--info} [Code](https://doi.org/10.5281/zenodo.15864802){: .btn .btn--info}
 
 **76\.** Hallinger, K. K., Pegan, T. M.δ, Andersen, M. J., Ardia, D. R., Belmaker, A., Chang van Oordt, D.δ, Ferretti, V., Forsman, A. M., Gaul, J. R., Llambias, P. E., Orzechowski, S. C., Shipley, J. R., Stager, M., **Taff, C. C.**, Uehling, J. J.δ, Verhoeven, M., Vitousek, M., Wilson, M., Yoon, H. S., Wrege, P. H., & Winker, D. W. 2026. Comparing tree swallow dispersal strategies in a continuous mainland Environment. *Ecology*. [PDF](https://drive.google.com/file/d/1iUHNlsD7sKCmb2ZjyYb3SUtQwjc2KUIo/view?usp=drive_link){: .btn .btn--success} [DOI](https://doi.org/10.1002/ecy.70299){: .btn .btn--warning} [Data + Code](https://figshare.com/articles/dataset/Hallinger_et_al_2025_Ecology_Tree_Swallow_Dispersal_Data_and_Code/23816112/2){: .btn .btn--info}
 
@@ -218,8 +220,6 @@ Houtz, J. L.δ, Shipley, J. R., Zimmer, C., Twining, C. W., Lee, D. M.§, **Taff
 Shipley, J. R., **Taff, C. C.**, Twining, C. W., Vitousek, M. N, & Winkler, D. W. Adaptation to climate change can be constrained by early life effects.
 
 **Taff, C. C.**, Ryan, T. A.δ, Uehling, J. J.δ, Injaian, A. S., & Vitousek, M. N. Within-individual consistency and between-individual variation in the egg shapes of tree swallows (*Tachycineta bicolor*). [Preprint](https://www.biorxiv.org/content/10.1101/2022.02.02.478835v1){: .btn .btn--primary} [Data + Code](https://github.com/cct663/tres_egg_shape){: .btn .btn--info}
-
-**Taff, C. C.**, et al. (includes 81 authors). Divergent climate impacts despite similar response to temperature in a widespread aerial insectivore. [Preprint](https://www.biorxiv.org/content/10.64898/2025.12.15.694424v1){: .btn .btn--primary} [Data + Code](https://zenodo.org/records/17804486){: .btn .btn--info}
 
 Tao, T.§, Prusinski, M. A., **Taff, C. C.**, & Freeman-Gallant, C. R. The high prevalence, life-long persistance, and absence of major health consequences of *Babesia microti* infection characterize the potential role of the common yellowthroat as a reservoir for the tick-borne pathogen *Babesia microti*.
 
