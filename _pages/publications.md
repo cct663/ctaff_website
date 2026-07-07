@@ -17,7 +17,7 @@ toc_icon: "feather-alt"
 ### Peer-Reviewed Articles
 *§ undergraduate co-authors; δ graduate student co-authors; † equal contribution; †† senior author role*
 
-**79\.** **Taff, C. C.**, et al. (includes 81 authors). *Accepted*. Divergent population trajectories despite similar response to temperature in a widespread aerial insectivore. *Proceedings of the National Academy of Sciences*. [Preprint](https://www.biorxiv.org/content/10.64898/2025.12.15.694424v1){: .btn .btn--primary} [Data + Code](https://zenodo.org/records/17804486){: .btn .btn--info}
+**79\.** **Taff, C. C.**, et al. (includes 81 authors). 2026. Divergent population trajectories despite similar response to temperature in a widespread aerial insectivore. *Proceedings of the National Academy of Sciences*. [DOI](https://doi.org/10.1073/pnas.2601817123){: .btn .btn--warning} [Preprint](https://www.biorxiv.org/content/10.64898/2025.12.15.694424v1){: .btn .btn--primary} [Data + Code](https://zenodo.org/records/17804486){: .btn .btn--info}
 
 **2026**
 
