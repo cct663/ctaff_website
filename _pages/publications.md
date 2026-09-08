@@ -19,7 +19,9 @@ toc_icon: "feather-alt"
 
 **2026**
 
-**79\.** **Taff, C. C.**, et al. (includes 81 authors). 2026. Divergent population trajectories despite similar response to temperature in a widespread aerial insectivore. *Proceedings of the National Academy of Sciences*. [DOI](https://doi.org/10.1073/pnas.2601817123){: .btn .btn--warning} [Preprint](https://www.biorxiv.org/content/10.64898/2025.12.15.694424v1){: .btn .btn--primary} [Data + Code](https://zenodo.org/records/17804486){: .btn .btn--info} [Cornell Chronicle](https://news.cornell.edu/stories/2026/07/climate-change-leaves-northern-tree-swallows-most-vulnerable){: .btn .btn--danger}
+**80\.** Vitousek, M. N., Gotts, M., & **Taff, C. C.** 2026. Conservation: Why birds thrive here and struggle there. *Current Biology* [PDF](https://drive.google.com/file/d/1H56RwlvFqcLGYu9o1uHLfpEnmCcMcXmn/view?usp=sharing){: .btn .btn--success} [DOI](https://doi.org/10.1016/j.cub.2026.07.031){: .btn .btn--warning} 
+
+**79\.** **Taff, C. C.**, et al. (includes 81 authors). 2026. Divergent population trajectories despite similar response to temperature in a widespread aerial insectivore. *Proceedings of the National Academy of Sciences*. [PDF](https://drive.google.com/file/d/1w1iBxbelsNrcjOO8SML3vxZTnVn8Um28/view?usp=sharing){: .btn .btn--success} [DOI](https://doi.org/10.1073/pnas.2601817123){: .btn .btn--warning} [Preprint](https://www.biorxiv.org/content/10.64898/2025.12.15.694424v1){: .btn .btn--primary} [Data + Code](https://zenodo.org/records/17804486){: .btn .btn--info} [Cornell Chronicle](https://news.cornell.edu/stories/2026/07/climate-change-leaves-northern-tree-swallows-most-vulnerable){: .btn .btn--danger}
 
 **78\.** Uehling, J. J.δ, **Taff, C. C.**, Houtz, J. L.δ, Becker, P. M.§, & Vitousek, M. N. 2026. Predictors and consequences of diet variation in a declining generalist aerial insectivore. *Oecologia*. [PDF](https://drive.google.com/file/d/1MpVocvi2rckYAeHWFffQ8VJ9Ur0ybqUr/view?usp=drive_link){: .btn .btn--success} [DOI](https://link.springer.com/article/10.1007/s00442-026-05901-w){: .btn .btn--warning} [Data + Code](https://github.com/juehling/tres_coi_analysis_2019_ms){: .btn .btn--info}
 
